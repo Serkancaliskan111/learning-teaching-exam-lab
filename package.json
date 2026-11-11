@@ -1,0 +1,11 @@
+{
+  "name": "learning-teaching-exam-lab",
+  "private": true,
+  "version": "1.0.0",
+  "description": "Jim Scrivener Learning Teaching exam lab — static site for Vercel",
+  "scripts": {
+    "dev": "npx --yes serve public -p 8765",
+    "start": "npx --yes serve public -p 8765",
+    "build": "node scripts/vercel-build.mjs"
+  }
+}

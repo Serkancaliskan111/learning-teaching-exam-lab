@@ -1,0 +1,292 @@
+[
+  {
+    "id": "q8-01",
+    "type": "mcq",
+    "prompt_en": "Before listening, teachers should…",
+    "prompt_tr": "Dinlemeden önce öğretmenler…",
+    "options": [
+      "Set a clear task",
+      "Only ask Did you understand after",
+      "Play with no purpose",
+      "Ban prediction"
+    ],
+    "answer": "Set a clear task",
+    "explain_en": "Task-based listening.",
+    "explain_tr": "Görev temelli dinleme.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "q8-02",
+    "type": "mcq",
+    "prompt_en": "Skimming is reading for…",
+    "prompt_tr": "Skimming şunun için okumadır…",
+    "options": [
+      "Gist / general idea",
+      "Only phone numbers",
+      "Only phonemes",
+      "Only translation"
+    ],
+    "answer": "Gist / general idea",
+    "explain_en": "Overall meaning.",
+    "explain_tr": "Genel anlam.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "q8-03",
+    "type": "mcq",
+    "prompt_en": "Scanning is reading to…",
+    "prompt_tr": "Scanning şunu yapmak için okumadır…",
+    "options": [
+      "Find specific information",
+      "Enjoy only the style",
+      "Memorise every word first",
+      "Ignore the text"
+    ],
+    "answer": "Find specific information",
+    "explain_en": "Names, dates, numbers etc.",
+    "explain_tr": "İsim, tarih, sayı vb.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "q8-04",
+    "type": "fill",
+    "prompt_en": "Scrivener’s cycle of task → feedback → next task is the task–feedback ______.",
+    "prompt_tr": "Scrivener’ın görev → GB → sonraki görev döngüsü task–feedback ______.",
+    "answer": "circle",
+    "explain_en": "Circle.",
+    "explain_tr": "Çember.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "q8-05",
+    "type": "mcq",
+    "prompt_en": "Top-down processing uses…",
+    "prompt_tr": "Top-down işleme kullanır…",
+    "options": [
+      "Background knowledge and prediction",
+      "Only phoneme charts",
+      "Only dictionaries always",
+      "Only teacher translation"
+    ],
+    "answer": "Background knowledge and prediction",
+    "explain_en": "Schema-driven.",
+    "explain_tr": "Şema güdümlü.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "q8-06",
+    "type": "tf",
+    "prompt_en": "Extensive reading should always be followed by heavy comprehension tests.",
+    "prompt_tr": "Extensive okumayı her zaman ağır anlama testleri izlemelidir.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answer": "False",
+    "explain_en": "Protect pleasure/fluency.",
+    "explain_tr": "Zevk/akıcılığı koru.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "q8-07",
+    "type": "mcq",
+    "prompt_en": "Graded readers are useful because…",
+    "prompt_tr": "Graded reader’lar yararlıdır çünkü…",
+    "options": [
+      "Vocabulary is controlled for level",
+      "They are always unabridged classics only",
+      "They ban pleasure",
+      "They replace all listening"
+    ],
+    "answer": "Vocabulary is controlled for level",
+    "explain_en": "Supports extensive reading.",
+    "explain_tr": "Extensive okumayı destekler.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "q8-08",
+    "type": "fill",
+    "prompt_en": "Reading for specific details is called ______.",
+    "prompt_tr": "Spesifik ayrıntı için okumaya ______ denir.",
+    "answer": "scanning",
+    "explain_en": "Scanning.",
+    "explain_tr": "Scanning.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "q8-09",
+    "type": "mcq",
+    "prompt_en": "‘Big to small’ means…",
+    "prompt_tr": "‘Büyükten küçüğe’ demektir…",
+    "options": [
+      "Gist/overview before details",
+      "Details before any context",
+      "No tasks ever",
+      "Only bottom-up forever"
+    ],
+    "answer": "Gist/overview before details",
+    "explain_en": "Typical skills sequencing.",
+    "explain_tr": "Tipik beceri sıralaması.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "q8-10",
+    "type": "mcq",
+    "prompt_en": "Round-the-class reading aloud is often weak because…",
+    "prompt_tr": "Sınıf turu sesli okuma sıkça zayıftır çünkü…",
+    "options": [
+      "It causes boredom/anxiety and breaks the story",
+      "It maximises silent fluency always",
+      "It is extensive reading",
+      "It activates schemata perfectly"
+    ],
+    "answer": "It causes boredom/anxiety and breaks the story",
+    "explain_en": "Classic critique.",
+    "explain_tr": "Klasik eleştiri.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "q8-11",
+    "type": "tf",
+    "prompt_en": "We listen from a complete zero with no prior knowledge.",
+    "prompt_tr": "Hiç ön bilgimiz olmadan tamamen sıfırdan dinleriz.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answer": "False",
+    "explain_en": "Schemas help.",
+    "explain_tr": "Şemalar yardım eder.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "q8-12",
+    "type": "fill",
+    "prompt_en": "Fast reading for overall idea is ______.",
+    "prompt_tr": "Genel fikir için hızlı okuma ______.",
+    "answer": "skimming",
+    "explain_en": "Skimming.",
+    "explain_tr": "Skimming.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "q8-13",
+    "type": "mcq",
+    "prompt_en": "Bottom-up listening focuses on…",
+    "prompt_tr": "Bottom-up dinleme şuna odaklanır…",
+    "options": [
+      "Building meaning from sounds/words/grammar",
+      "Only predicting from pictures",
+      "Ignoring language forms",
+      "Only post-reading debates"
+    ],
+    "answer": "Building meaning from sounds/words/grammar",
+    "explain_en": "Decoding route.",
+    "explain_tr": "Çözümleme yolu.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "q8-14",
+    "type": "mcq",
+    "prompt_en": "Jigsaw listening typically involves…",
+    "prompt_tr": "Jigsaw dinleme tipik olarak içerir…",
+    "options": [
+      "Different parts for different students then sharing",
+      "Everyone silent forever",
+      "Teacher only reading aloud",
+      "No information gap"
+    ],
+    "answer": "Different parts for different students then sharing",
+    "explain_en": "Information gap skill task.",
+    "explain_tr": "Bilgi boşluğu beceri görevi.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "q8-15",
+    "type": "mcq",
+    "prompt_en": "A good skills lesson often ends with…",
+    "prompt_tr": "İyi bir beceri dersi sıkça şununla biter…",
+    "options": [
+      "Follow-on/personalisation and closing review",
+      "Abrupt stop mid-audio",
+      "Only punishment",
+      "No feedback"
+    ],
+    "answer": "Follow-on/personalisation and closing review",
+    "explain_en": "Route map closing.",
+    "explain_tr": "Rota haritası kapanışı.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "q8-16",
+    "type": "fill",
+    "prompt_en": "Background knowledge structures are called ______.",
+    "prompt_tr": "Arka plan bilgi yapılarına ______ denir.",
+    "answer": "schemas|schemata|schema",
+    "explain_en": "Schemas/schemata.",
+    "explain_tr": "Şemalar.",
+    "difficulty": "hard"
+  },
+  {
+    "id": "q8-17",
+    "type": "mcq",
+    "prompt_en": "Split gist and detail across replays to…",
+    "prompt_tr": "Gist ve ayrıntıyı tekrarlara böl ki…",
+    "options": [
+      "Avoid overburdening learners",
+      "Increase panic",
+      "Remove all tasks",
+      "Maximise confusion"
+    ],
+    "answer": "Avoid overburdening learners",
+    "explain_en": "One purpose per listen often better.",
+    "explain_tr": "Dinleme başına bir amaç sıkça daha iyi.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "q8-18",
+    "type": "tf",
+    "prompt_en": "The task–feedback circle applies only to listening, never reading.",
+    "prompt_tr": "Görev–geri bildirim çemberi yalnızca dinlemeye uygulanır, okumaya asla.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answer": "False",
+    "explain_en": "Both receptive skills.",
+    "explain_tr": "Her iki alıcı beceri.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "q8-19",
+    "type": "mcq",
+    "prompt_en": "Pre-listening prediction helps because…",
+    "prompt_tr": "Dinleme öncesi tahmin yardım eder çünkü…",
+    "options": [
+      "Learners recognise content more easily",
+      "It replaces the audio",
+      "It bans top-down skills",
+      "It removes context"
+    ],
+    "answer": "Learners recognise content more easily",
+    "explain_en": "Activates expectations.",
+    "explain_tr": "Beklentileri etkinleştirir.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "q8-20",
+    "type": "mcq",
+    "prompt_en": "Extensive reading classroom tip…",
+    "prompt_tr": "Extensive okuma sınıf ipucu…",
+    "options": [
+      "Offer choice and graded suitable texts",
+      "Force only dense classics with no support",
+      "Never allow quiet reading",
+      "Always read aloud round the class"
+    ],
+    "answer": "Offer choice and graded suitable texts",
+    "explain_en": "Pleasure + level fit.",
+    "explain_tr": "Zevk + seviye uyumu.",
+    "difficulty": "medium"
+  }
+]

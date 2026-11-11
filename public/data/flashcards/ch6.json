@@ -1,0 +1,202 @@
+[
+  {
+    "id": "c6-01",
+    "front_en": "Planning is primarily…",
+    "front_tr": "Planlama esas olarak…",
+    "back_en": "A thinking skill",
+    "back_tr": "Bir düşünme becerisi",
+    "tag": "concept"
+  },
+  {
+    "id": "c6-02",
+    "front_en": "Learner-centred aim example focus",
+    "front_tr": "Öğrenen merkezli amaç odağı",
+    "back_en": "What learners can DO by end",
+    "back_tr": "Ders sonunda öğrenenlerin YAPABİLECEĞİ",
+    "tag": "concept"
+  },
+  {
+    "id": "c6-03",
+    "front_en": "Bad aim example",
+    "front_tr": "Kötü amaç örneği",
+    "back_en": "‘Teach past simple’ (teacher-centred)",
+    "back_tr": "‘Past simple öğret’ (öğretmen merkezli)",
+    "tag": "concept"
+  },
+  {
+    "id": "c6-04",
+    "front_en": "Formal plan typical parts",
+    "front_tr": "Resmi plan tipik parçaları",
+    "back_en": "Aims, stages, timing, interaction, problems",
+    "back_tr": "Amaç, aşama, süre, etkileşim, sorunlar",
+    "tag": "technique"
+  },
+  {
+    "id": "c6-05",
+    "front_en": "Challenge sweet spot",
+    "front_tr": "Zorluk tatlı noktası",
+    "back_en": "Stretch without crushing",
+    "back_tr": "Ezmeden zorla",
+    "tag": "concept"
+  },
+  {
+    "id": "c6-06",
+    "front_en": "Too easy / too hard",
+    "front_tr": "Çok kolay / çok zor",
+    "back_en": "Boredom / failure",
+    "back_tr": "Sıkıntı / başarısızlık",
+    "tag": "concept"
+  },
+  {
+    "id": "c6-07",
+    "front_en": "Jungle path",
+    "front_tr": "Jungle path",
+    "back_en": "Responsive informal planning path",
+    "back_tr": "Esnek gayriresmi plan yolu",
+    "tag": "method"
+  },
+  {
+    "id": "c6-08",
+    "front_en": "Course planning needs…",
+    "front_tr": "Kurs planlama ister…",
+    "back_en": "Needs analysis + syllabus map",
+    "back_tr": "İhtiyaç analizi + izlence haritası",
+    "tag": "technique"
+  },
+  {
+    "id": "c6-09",
+    "front_en": "Scaffolding",
+    "front_tr": "Scaffolding",
+    "back_en": "Temporary support then fade",
+    "back_tr": "Geçici destek sonra azalt",
+    "tag": "concept"
+  },
+  {
+    "id": "c6-10",
+    "front_en": "PPP as sequence",
+    "front_tr": "Sıra olarak PPP",
+    "back_en": "Present→Practice→Produce",
+    "back_tr": "Sun→Alıştır→Üret",
+    "tag": "method"
+  },
+  {
+    "id": "c6-11",
+    "front_en": "TTT lesson shape",
+    "front_tr": "TTT ders şekli",
+    "back_en": "Test–Teach–Test",
+    "back_tr": "Test–Öğret–Test",
+    "tag": "method"
+  },
+  {
+    "id": "c6-12",
+    "front_en": "Personal aims (teacher)",
+    "front_tr": "Kişisel amaçlar (öğretmen)",
+    "back_en": "What YOU want to improve in teaching",
+    "back_tr": "ÖĞRETMENLİKTE neyi geliştirmek istediğin",
+    "tag": "concept"
+  },
+  {
+    "id": "c6-13",
+    "front_en": "Anticipated problems show…",
+    "front_tr": "Olası sorunlar şunu gösterir…",
+    "back_en": "Professional foresight",
+    "back_tr": "Profesyonel öngörü",
+    "tag": "technique"
+  },
+  {
+    "id": "c6-14",
+    "front_en": "Unrealistic requirements response",
+    "front_tr": "Gerçekçi olmayan beklenti yanıtı",
+    "back_en": "Negotiate priorities; know limits",
+    "back_tr": "Öncelikleri müzakere et; sınırları bil",
+    "tag": "concept"
+  },
+  {
+    "id": "c6-15",
+    "front_en": "Global English teaching",
+    "front_tr": "Küresel İngilizce öğretimi",
+    "back_en": "Localise methods to context",
+    "back_tr": "Yöntemleri bağlama yerelleştir",
+    "tag": "concept"
+  },
+  {
+    "id": "c6-16",
+    "front_en": "Sequence energy flow",
+    "front_tr": "Sıra enerji akışı",
+    "back_en": "Vary pace; don’t stack all hard tasks",
+    "back_tr": "Temposu çeşitlendir; tüm zorları üst üste koyma",
+    "tag": "technique"
+  },
+  {
+    "id": "c6-17",
+    "front_en": "Written plan on training courses",
+    "front_tr": "Eğitim kurslarında yazılı plan",
+    "back_en": "Often required for assessment",
+    "back_tr": "Sıkça değerlendirme için gerekir",
+    "tag": "concept"
+  },
+  {
+    "id": "c6-18",
+    "front_en": "Less formal planning still needs…",
+    "front_tr": "Daha az resmi plan hâlâ ister…",
+    "back_en": "Clear purposes and order",
+    "back_tr": "Net amaçlar ve sıra",
+    "tag": "concept"
+  },
+  {
+    "id": "c6-19",
+    "front_en": "Recycling in courses",
+    "front_tr": "Kurslarda geri dönüşüm",
+    "back_en": "Revisit language across weeks",
+    "back_tr": "Dili haftalar boyu yeniden ziyaret et",
+    "tag": "technique"
+  },
+  {
+    "id": "c6-20",
+    "front_en": "Observable aim means…",
+    "front_tr": "Gözlemlenebilir amaç demek…",
+    "back_en": "You can see evidence of achievement",
+    "back_tr": "Başarının kanıtını görebilirsin",
+    "tag": "concept"
+  },
+  {
+    "id": "c6-21",
+    "front_en": "Subsidiary aim",
+    "front_tr": "Yan amaç",
+    "back_en": "Supporting aim for a stage",
+    "back_tr": "Bir aşama için destekleyici amaç",
+    "tag": "concept"
+  },
+  {
+    "id": "c6-22",
+    "front_en": "Materials on plan",
+    "front_tr": "Planda materyaller",
+    "back_en": "List what you will use and why",
+    "back_tr": "Ne kullanacağını ve nedenini yaz",
+    "tag": "technique"
+  },
+  {
+    "id": "c6-23",
+    "front_en": "Interaction column on plan",
+    "front_tr": "Planda etkileşim sütunu",
+    "back_en": "T–S, pairs, groups etc. per stage",
+    "back_tr": "Aşama başına Ö–Öğr, eşli, grup",
+    "tag": "technique"
+  },
+  {
+    "id": "c6-24",
+    "front_en": "Plan for opportunities to use language",
+    "front_tr": "Dil kullanma fırsatlarını planla",
+    "back_en": "Not only explanations",
+    "back_tr": "Yalnızca açıklama değil",
+    "tag": "concept"
+  },
+  {
+    "id": "c6-25",
+    "front_en": "Syllabus",
+    "front_tr": "İzlence",
+    "back_en": "Course content outline/order",
+    "back_tr": "Kurs içerik ana hattı/sırası",
+    "tag": "concept"
+  }
+]

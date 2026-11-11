@@ -1,0 +1,292 @@
+[
+  {
+    "id": "q5-01",
+    "type": "mcq",
+    "prompt_en": "STT means…",
+    "prompt_tr": "STT demektir…",
+    "options": [
+      "Student Talking Time",
+      "Super Teacher Test",
+      "Silent Translation Task",
+      "Seating Time Table"
+    ],
+    "answer": "Student Talking Time",
+    "explain_en": "Key classroom management metric.",
+    "explain_tr": "Ana sınıf yönetimi ölçütü.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "q5-02",
+    "type": "mcq",
+    "prompt_en": "Circle/horseshoe seating mainly helps…",
+    "prompt_tr": "Çember/at nalı oturma esas olarak…",
+    "options": [
+      "Eye contact and interaction",
+      "Hiding faces",
+      "Banning talk",
+      "Increasing only TTT"
+    ],
+    "answer": "Eye contact and interaction",
+    "explain_en": "Communication-friendly layout.",
+    "explain_tr": "İletişime uygun düzen.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "q5-03",
+    "type": "mcq",
+    "prompt_en": "Best instruction practice includes…",
+    "prompt_tr": "En iyi yönerge pratiği içerir…",
+    "options": [
+      "Demo + check understanding",
+      "Long rambling explanation only",
+      "Never check",
+      "Mix with telling-off"
+    ],
+    "answer": "Demo + check understanding",
+    "explain_en": "Show and ICQ.",
+    "explain_tr": "Göster ve ICQ.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "q5-04",
+    "type": "fill",
+    "prompt_en": "Instruction-checking questions are called ______.",
+    "prompt_tr": "Yönerge kontrol sorularına ______ denir.",
+    "answer": "ICQs|ICQ",
+    "explain_en": "ICQs.",
+    "explain_tr": "ICQ’lar.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "q5-05",
+    "type": "mcq",
+    "prompt_en": "Participate, monitor or vanish refers to…",
+    "prompt_tr": "Katıl, izle veya kaybol şunu ifade eder…",
+    "options": [
+      "Teacher stance during student work",
+      "Homework types",
+      "Exam formats",
+      "Phoneme charts"
+    ],
+    "answer": "Teacher stance during student work",
+    "explain_en": "Conscious choice while pairs/groups work.",
+    "explain_tr": "Eşli/grup çalışırken bilinçli seçim.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "q5-06",
+    "type": "tf",
+    "prompt_en": "Eliciting always means asking for language students cannot possibly know.",
+    "prompt_tr": "Eliciting her zaman öğrencilerin asla bilemeyeceği dili sormaktır.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answer": "False",
+    "explain_en": "Give enough info; don’t elicit the impossible.",
+    "explain_tr": "Yeterli bilgi ver; imkânsızı çıkartma.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "q5-07",
+    "type": "mcq",
+    "prompt_en": "In a 25-student class with only T–S talk, each student may get about…",
+    "prompt_tr": "25 kişilik sınıfta yalnızca Ö–Öğr konuşmada her öğrenci yaklaşık…",
+    "options": [
+      "2 minutes per hour",
+      "30 minutes each",
+      "No time ever",
+      "Exactly 25 minutes"
+    ],
+    "answer": "2 minutes per hour",
+    "explain_en": "60/25 ≈ 2 minutes.",
+    "explain_tr": "60/25 ≈ 2 dakika.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "q5-08",
+    "type": "fill",
+    "prompt_en": "Teacher Talking Time abbreviation is ______.",
+    "prompt_tr": "Teacher Talking Time kısaltması ______.",
+    "answer": "TTT",
+    "explain_en": "TTT.",
+    "explain_tr": "TTT.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "q5-09",
+    "type": "mcq",
+    "prompt_en": "A benefit of eliciting is…",
+    "prompt_tr": "Eliciting’in bir faydası…",
+    "options": [
+      "Maximising student talk / reducing unnecessary TTT",
+      "Increasing only teacher monologue",
+      "Removing all context",
+      "Banning gestures"
+    ],
+    "answer": "Maximising student talk / reducing unnecessary TTT",
+    "explain_en": "Active involvement.",
+    "explain_tr": "Aktif katılım.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "q5-10",
+    "type": "tf",
+    "prompt_en": "A total ban on L1 is always the most realistic policy.",
+    "prompt_tr": "L1’e tam yasak her zaman en gerçekçi politikadır.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answer": "False",
+    "explain_en": "Strategic management often better.",
+    "explain_tr": "Stratejik yönetim sıkça daha iyidir.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "q5-11",
+    "type": "mcq",
+    "prompt_en": "‘How to prevent learning’ section is…",
+    "prompt_tr": "‘Öğrenmeyi engelleme’ bölümü…",
+    "options": [
+      "Ironic list of popular anti-patterns",
+      "A method to stop students permanently",
+      "A seating plan only",
+      "A phonology chart"
+    ],
+    "answer": "Ironic list of popular anti-patterns",
+    "explain_en": "Helps avoid sabotaging learning.",
+    "explain_tr": "Öğrenmeyi sabote etmekten kaçındırır.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "q5-12",
+    "type": "mcq",
+    "prompt_en": "Gestures in class mainly…",
+    "prompt_tr": "Sınıfta jestler esas olarak…",
+    "options": [
+      "Speed up instructions and cut TTT",
+      "Replace all lesson aims",
+      "Increase chaos only",
+      "Ban pairwork"
+    ],
+    "answer": "Speed up instructions and cut TTT",
+    "explain_en": "Clear silent signals.",
+    "explain_tr": "Net sessiz sinyaller.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "q5-13",
+    "type": "fill",
+    "prompt_en": "Getting learners to produce the word/idea themselves is ______.",
+    "prompt_tr": "Öğrenenlerin sözcük/fikri kendilerinin üretmesi ______.",
+    "answer": "eliciting|elicit",
+    "explain_en": "Eliciting.",
+    "explain_tr": "Eliciting.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "q5-14",
+    "type": "mcq",
+    "prompt_en": "Good board use requires…",
+    "prompt_tr": "İyi tahta kullanımı gerektirir…",
+    "options": [
+      "Clear organised layout",
+      "Random overcrowding",
+      "Illegible writing only",
+      "No planning"
+    ],
+    "answer": "Clear organised layout",
+    "explain_en": "Students must find info.",
+    "explain_tr": "Öğrenciler bilgiyi bulmalı.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "q5-15",
+    "type": "mcq",
+    "prompt_en": "Separate instructions from chit-chat because…",
+    "prompt_tr": "Yönergeyi sohbetten ayır çünkü…",
+    "options": [
+      "Students need a clear signal of what to do",
+      "Chaos is always good",
+      "TTT must be maximised",
+      "Aims don’t matter"
+    ],
+    "answer": "Students need a clear signal of what to do",
+    "explain_en": "Clarity.",
+    "explain_tr": "Netlik.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "q5-16",
+    "type": "tf",
+    "prompt_en": "Pairwork can dramatically increase speaking practice time.",
+    "prompt_tr": "Eşli çalışma konuşma pratik süresini dramatik artırabilir.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answer": "True",
+    "explain_en": "Many speak at once.",
+    "explain_tr": "Birçok kişi aynı anda konuşur.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "q5-17",
+    "type": "mcq",
+    "prompt_en": "Teacher sitting in the student circle can signal…",
+    "prompt_tr": "Öğretmenin öğrenci çemberinde oturması şunu sinyalleyebilir…",
+    "options": [
+      "A more equal role",
+      "Absolute dictatorship only",
+      "No teaching possible",
+      "End of the lesson always"
+    ],
+    "answer": "A more equal role",
+    "explain_en": "Role message via seating.",
+    "explain_tr": "Oturma ile rol mesajı.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "q5-18",
+    "type": "fill",
+    "prompt_en": "U-shaped seating is often called a ______.",
+    "prompt_tr": "U biçimi oturmaya sıkça ______ denir.",
+    "answer": "horseshoe",
+    "explain_en": "Horseshoe.",
+    "explain_tr": "At nalı.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "q5-19",
+    "type": "mcq",
+    "prompt_en": "While vanishing, the teacher…",
+    "prompt_tr": "Kaybolurken öğretmen…",
+    "options": [
+      "Steps back so learners work without hovering",
+      "Talks over every pair continuously",
+      "Confiscates worksheets",
+      "Stops the clock forever"
+    ],
+    "answer": "Steps back so learners work without hovering",
+    "explain_en": "Space for independence.",
+    "explain_tr": "Bağımsızlık alanı.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "q5-20",
+    "type": "mcq",
+    "prompt_en": "Classroom management is best defined as…",
+    "prompt_tr": "Sınıf yönetimi en iyi şöyle tanımlanır…",
+    "options": [
+      "Organising conditions so learning can happen",
+      "Only punishing students",
+      "Only decorating walls",
+      "Only writing tests"
+    ],
+    "answer": "Organising conditions so learning can happen",
+    "explain_en": "Enabling learning.",
+    "explain_tr": "Öğrenmeyi mümkün kılma.",
+    "difficulty": "easy"
+  }
+]

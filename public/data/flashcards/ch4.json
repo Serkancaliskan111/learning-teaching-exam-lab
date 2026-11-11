@@ -1,0 +1,202 @@
+[
+  {
+    "id": "c4-01",
+    "front_en": "Needs analysis",
+    "front_tr": "İhtiyaç analizi",
+    "back_en": "Find what learners need/want; use it to plan",
+    "back_tr": "Ne ihtiyaç/istediğini bul; planlamak için kullan",
+    "tag": "concept"
+  },
+  {
+    "id": "c4-02",
+    "front_en": "Homogenous class?",
+    "front_tr": "Türdeş sınıf?",
+    "back_en": "Myth—individuals differ widely",
+    "back_tr": "Mit—bireyler genişçe farklı",
+    "tag": "concept"
+  },
+  {
+    "id": "c4-03",
+    "front_en": "Spiky profile",
+    "front_tr": "Dikenli profil",
+    "back_en": "Strong in some skills, weak in others",
+    "back_tr": "Bazı becerilerde güçlü, bazılarında zayıf",
+    "tag": "concept"
+  },
+  {
+    "id": "c4-04",
+    "front_en": "Learner training aim",
+    "front_tr": "Öğrenen eğitimi amacı",
+    "back_en": "Autonomy / learn how to learn",
+    "back_tr": "Özerklik / nasıl öğrenileceğini öğren",
+    "tag": "concept"
+  },
+  {
+    "id": "c4-05",
+    "front_en": "Let them into the secret",
+    "front_tr": "Sırrı paylaş",
+    "back_en": "Explain why activities are done",
+    "back_tr": "Etkinliklerin nedenini açıkla",
+    "tag": "technique"
+  },
+  {
+    "id": "c4-06",
+    "front_en": "Mixed level causes",
+    "front_tr": "Karışık seviye nedenleri",
+    "back_en": "Placement, pace, skill imbalance, promotion policy",
+    "back_tr": "Yerleştirme, tempo, beceri dengesizliği, yükseltme",
+    "tag": "concept"
+  },
+  {
+    "id": "c4-07",
+    "front_en": "Feedback danger",
+    "front_tr": "GB tehlikesi",
+    "back_en": "Avoiding feedback hides problems",
+    "back_tr": "GB’den kaçınmak sorunları gizler",
+    "tag": "concept"
+  },
+  {
+    "id": "c4-08",
+    "front_en": "Ask learning not only fun",
+    "front_tr": "Yalnızca eğlence değil öğrenme sor",
+    "back_en": "Which words were new? not only which activity fun",
+    "back_tr": "Hangi sözcükler yeni? yalnızca hangi etkinlik eğlenceli değil",
+    "tag": "technique"
+  },
+  {
+    "id": "c4-09",
+    "front_en": "Multiple intelligences classroom tip",
+    "front_tr": "Çoklu zekâ ipucu",
+    "back_en": "Vary activity types",
+    "back_tr": "Etkinlik türlerini çeşitlendir",
+    "tag": "technique"
+  },
+  {
+    "id": "c4-10",
+    "front_en": "Objective vs subjective needs",
+    "front_tr": "Nesnel vs öznel ihtiyaç",
+    "back_en": "Necessities/lacks vs wants",
+    "back_tr": "Gereklilik/eksik vs istek",
+    "tag": "concept"
+  },
+  {
+    "id": "c4-11",
+    "front_en": "Tools for needs analysis",
+    "front_tr": "İhtiyaç analizi araçları",
+    "back_en": "Questionnaires, interviews, diagnostics, observation",
+    "back_tr": "Anket, görüşme, tanı, gözlem",
+    "tag": "technique"
+  },
+  {
+    "id": "c4-12",
+    "front_en": "Differentiate for mixed level",
+    "front_tr": "Karışık seviyede farklılaştır",
+    "back_en": "Extension tasks + support + careful pairing",
+    "back_tr": "Uzantı + destek + dikkatli eşleme",
+    "tag": "technique"
+  },
+  {
+    "id": "c4-13",
+    "front_en": "Process vs content talk",
+    "front_tr": "Süreç vs içerik konuşması",
+    "back_en": "Discuss how we learn as well as what",
+    "back_tr": "Ne kadar nasıl öğrendiğimizi de konuş",
+    "tag": "concept"
+  },
+  {
+    "id": "c4-14",
+    "front_en": "Integrate study skills",
+    "front_tr": "Çalışma becerilerini entegre et",
+    "back_en": "Not only an optional add-on",
+    "back_tr": "Yalnızca isteğe bağlı ek değil",
+    "tag": "technique"
+  },
+  {
+    "id": "c4-15",
+    "front_en": "First-glance class info",
+    "front_tr": "İlk bakış sınıf bilgisi",
+    "back_en": "Age, materials, energy, groupings",
+    "back_tr": "Yaş, materyal, enerji, gruplaşmalar",
+    "tag": "technique"
+  },
+  {
+    "id": "c4-16",
+    "front_en": "CEFR/levels are…",
+    "front_tr": "CEFR/seviyeler…",
+    "back_en": "Rough labels",
+    "back_tr": "Kaba etiketler",
+    "tag": "concept"
+  },
+  {
+    "id": "c4-17",
+    "front_en": "Use needs data or it is…",
+    "front_tr": "İhtiyaç verisini kullan yoksa…",
+    "back_en": "Useless paperwork",
+    "back_tr": "İşlevsiz evrak",
+    "tag": "concept"
+  },
+  {
+    "id": "c4-18",
+    "front_en": "Autonomy",
+    "front_tr": "Özerklik",
+    "back_en": "Learners take charge of learning",
+    "back_tr": "Öğrenen öğrenmenin sorumluluğunu alır",
+    "tag": "concept"
+  },
+  {
+    "id": "c4-19",
+    "front_en": "Interpersonal intelligence classroom",
+    "front_tr": "Kişilerarası zekâ sınıfı",
+    "back_en": "Benefits from contact/group work",
+    "back_tr": "Temas/grup çalışmasından yararlanır",
+    "tag": "concept"
+  },
+  {
+    "id": "c4-20",
+    "front_en": "Intrapersonal intelligence",
+    "front_tr": "İçsel zekâ",
+    "back_en": "Understanding oneself; reflective tasks help",
+    "back_tr": "Kendini anlama; yansıtıcı görevler yardım eder",
+    "tag": "concept"
+  },
+  {
+    "id": "c4-21",
+    "front_en": "Regular short feedback > rare long forms",
+    "front_tr": "Düzenli kısa GB > nadir uzun form",
+    "back_en": "Avoid survey fatigue",
+    "back_tr": "Anket yorgunluğundan kaçın",
+    "tag": "technique"
+  },
+  {
+    "id": "c4-22",
+    "front_en": "Exit ticket idea",
+    "front_tr": "Çıkış bileti fikri",
+    "back_en": "Quick end-of-lesson learner comment",
+    "back_tr": "Ders sonu hızlı öğrenen yorumu",
+    "tag": "technique"
+  },
+  {
+    "id": "c4-23",
+    "front_en": "Pair strong/weak carefully",
+    "front_tr": "Güçlü/zayıfı dikkatli eşle",
+    "back_en": "Can support or frustrate—design roles",
+    "back_tr": "Destek veya hayal kırıklığı—rolleri tasarla",
+    "tag": "technique"
+  },
+  {
+    "id": "c4-24",
+    "front_en": "Wants matter because…",
+    "front_tr": "İstekler önemlidir çünkü…",
+    "back_en": "Motivation rises when course feels relevant",
+    "back_tr": "Kurs ilgili hissedilince motivasyon artar",
+    "tag": "concept"
+  },
+  {
+    "id": "c4-25",
+    "front_en": "Learner feedback builds…",
+    "front_tr": "Öğrenen GB şunu kurar…",
+    "back_en": "Shared responsibility for class quality",
+    "back_tr": "Sınıf kalitesi için ortak sorumluluk",
+    "tag": "concept"
+  }
+]

@@ -1,0 +1,399 @@
+{
+  "id": "ch5",
+  "title_en": "Toolkit 1: classroom management",
+  "title_tr": "Araç seti 1: sınıf yönetimi",
+  "sections": [
+    {
+      "id": "5.0",
+      "heading_en": "What is classroom management?",
+      "heading_tr": "Sınıf yönetimi nedir?",
+      "points": [
+        {
+          "en": "Classroom management = decisions/actions that keep learning possible: tasks, time, behaviour, interaction, space.",
+          "tr": "Sınıf yönetimi = öğrenmeyi mümkün kılan karar/eylemler: görev, zaman, davranış, etkileşim, alan.",
+          "exam": true
+        },
+        {
+          "en": "Everyday dilemmas: student refusal, activity overruns, regrouping, early finishers.",
+          "tr": "Günlük ikilemler: öğrenci reddi, sürenin aşılması, yeniden gruplama, erken bitirenler.",
+          "exam": true
+        },
+        {
+          "en": "Good management grows from clear aims, routines, and involving students in classroom duties.",
+          "tr": "İyi yönetim net amaçlar, rutinler ve öğrencileri sınıf görevlerine katmaktan büyür.",
+          "exam": true
+        },
+        {
+          "en": "Beliefs drive management: if you believe students must only listen to you, interaction stays teacher-centred.",
+          "tr": "İnançlar yönetimi şekillendirir: yalnızca seni dinlemeliler diye düşünürsen etkileşim öğretmen merkezli kalır.",
+          "exam": true
+        }
+      ],
+      "key_terms": [
+        {
+          "en": "Classroom management",
+          "tr": "Sınıf yönetimi",
+          "def_en": "Organising people, time, space and activities for learning.",
+          "def_tr": "Öğrenme için insan, zaman, alan ve etkinlik örgütleme."
+        }
+      ]
+    },
+    {
+      "id": "5.2",
+      "heading_en": "2 Classroom interaction",
+      "heading_tr": "2 Sınıf etkileşimi",
+      "points": [
+        {
+          "en": "Interaction patterns: T–S, S–T, S–S, pairs, groups, open class, individual.",
+          "tr": "Etkileşim örüntüleri: Ö–Öğr, Öğr–Ö, Öğr–Öğr, eşli, grup, açık sınıf, bireysel.",
+          "exam": true
+        },
+        {
+          "en": "In a class of 25, one-hour divided by 25 ≈ 2 minutes each if only T–S talk—too little speaking practice.",
+          "tr": "25 kişilik sınıfta 1 saat/25 ≈ kişi başı 2 dk—yalnızca Ö–Öğr ise konuşma pratiği çok az.",
+          "exam": true
+        },
+        {
+          "en": "Pair/group work multiplies STT (student talking time) quickly.",
+          "tr": "Eşli/grup çalışması STT’yi hızla çoğaltır.",
+          "exam": true
+        },
+        {
+          "en": "Reduce unnecessary TTT; increase useful STT.",
+          "tr": "Gereksiz TTT’yi azalt; yararlı STT’yi artır.",
+          "exam": true
+        },
+        {
+          "en": "Vary patterns for pace/mood and different learning goals.",
+          "tr": "Tempo/ruh hali ve farklı öğrenme hedefleri için örüntüleri çeşitlendir.",
+          "exam": false
+        }
+      ],
+      "key_terms": [
+        {
+          "en": "TTT",
+          "tr": "Öğretmen konuşma süresi",
+          "def_en": "Teacher Talking Time.",
+          "def_tr": "Teacher Talking Time."
+        },
+        {
+          "en": "STT",
+          "tr": "Öğrenci konuşma süresi",
+          "def_en": "Student Talking Time.",
+          "def_tr": "Student Talking Time."
+        }
+      ]
+    },
+    {
+      "id": "5.3",
+      "heading_en": "3 Seating",
+      "heading_tr": "3 Oturma düzeni",
+      "points": [
+        {
+          "en": "Circle/horseshoe: eye contact with everyone; better for communication.",
+          "tr": "Çember/at nalı: herkesle göz teması; iletişim için daha iyi.",
+          "exam": true
+        },
+        {
+          "en": "Teacher in the circle signals more equal role vs always at the front.",
+          "tr": "Öğretmenin çemberde olması her zaman önde olmaktan daha eşit rol sinyali verir.",
+          "exam": true
+        },
+        {
+          "en": "Rows face the teacher—good for focus on board, weaker for S–S talk.",
+          "tr": "Sıralar öğretmene bakar—tahta odağı için iyi, Öğr–Öğr için zayıf.",
+          "exam": true
+        },
+        {
+          "en": "Change seating when activity type changes if possible.",
+          "tr": "Mümkünse etkinlik tipi değişince oturmayı değiştir.",
+          "exam": false
+        }
+      ],
+      "key_terms": [
+        {
+          "en": "Horseshoe",
+          "tr": "At nalı düzen",
+          "def_en": "U-shape seating for visibility and interaction.",
+          "def_tr": "Görünürlük ve etkileşim için U düzen."
+        }
+      ]
+    },
+    {
+      "id": "5.4",
+      "heading_en": "4 Giving instructions",
+      "heading_tr": "4 Yönerge verme",
+      "points": [
+        {
+          "en": "Become aware of your instruction-giving; pre-plan essential instructions.",
+          "tr": "Yönerge vermenin farkında ol; temel yönergeleri önceden planla.",
+          "exam": true
+        },
+        {
+          "en": "Separate instructions from chit-chat and telling-off.",
+          "tr": "Yönergeleri sohbet ve azarlamadan ayır.",
+          "exam": true
+        },
+        {
+          "en": "Demonstrate rather than explain whenever possible.",
+          "tr": "Mümkün olduğunca açıklamak yerine göster (demo).",
+          "exam": true
+        },
+        {
+          "en": "Check understanding (ICQs); don’t assume everyone knows what to do.",
+          "tr": "Anlamayı kontrol et (ICQ); herkesin bildiğini varsayma.",
+          "exam": true
+        },
+        {
+          "en": "Keep language simple, staged, in the right order; cut unnecessary words.",
+          "tr": "Dili basit, aşamalı, doğru sırada tut; gereksiz sözcükleri kes.",
+          "exam": true
+        },
+        {
+          "en": "Bad: long rambling ‘actually I would really like you if you could now stand up…’ → Good: ‘Stand up.’ / gesture.",
+          "tr": "Kötü: uzun dolambaçlı yönerge → İyi: ‘Ayağa kalk.’ / jest.",
+          "exam": true
+        }
+      ],
+      "key_terms": [
+        {
+          "en": "ICQ",
+          "tr": "Yönerge kontrol sorusu",
+          "def_en": "Instruction-checking question.",
+          "def_tr": "Instruction-checking question."
+        },
+        {
+          "en": "Demo",
+          "tr": "Gösterim",
+          "def_en": "Show the task instead of long explanation.",
+          "def_tr": "Uzun açıklama yerine görevi gösterme."
+        }
+      ]
+    },
+    {
+      "id": "5.5",
+      "heading_en": "5 Participate, monitor or vanish?",
+      "heading_tr": "5 Katıl, izle veya kaybol?",
+      "points": [
+        {
+          "en": "During pair/group work choose consciously: participate, monitor, or vanish.",
+          "tr": "Eşli/grup sırasında bilinçli seç: katıl, izle veya kaybol.",
+          "exam": true
+        },
+        {
+          "en": "Participate: join as a partner (can help or dominate—careful).",
+          "tr": "Katıl: eş olarak gir (yardımcı veya baskın olabilir—dikkat).",
+          "exam": true
+        },
+        {
+          "en": "Monitor: listen, note errors/ideas, offer brief help, gather feedback points.",
+          "tr": "İzle: dinle, hata/fikir not et, kısa yardım et, geri bildirim noktaları topla.",
+          "exam": true
+        },
+        {
+          "en": "Vanish: step back so learners work independently without teacher hovering.",
+          "tr": "Kaybol: öğretmen üstlerine çökmeden bağımsız çalışmaları için geri çekil.",
+          "exam": true
+        }
+      ],
+      "key_terms": []
+    },
+    {
+      "id": "5.6",
+      "heading_en": "6 Gestures",
+      "heading_tr": "6 Jestler",
+      "points": [
+        {
+          "en": "Gestures speed instructions and reduce TTT: pairs, stand up, longer answer, time left, don’t show sheet.",
+          "tr": "Jestler yönergeyi hızlandırır ve TTT’yi azaltır: eşleş, kalk, daha uzun cevap, süre, kâğıdı gösterme.",
+          "exam": true
+        },
+        {
+          "en": "Establish consistent gesture meanings with the class.",
+          "tr": "Jest anlamlarını sınıfla tutarlı belirle.",
+          "exam": true
+        }
+      ],
+      "key_terms": []
+    },
+    {
+      "id": "5.7",
+      "heading_en": "7 Using the board well",
+      "heading_tr": "7 Tahtayı iyi kullanma",
+      "points": [
+        {
+          "en": "Plan board layout; keep writing clear, organised, not overcrowded.",
+          "tr": "Tahta düzenini planla; yazıyı net, örgütlü, kalabalık olmadan tut.",
+          "exam": true
+        },
+        {
+          "en": "Use sections (e.g. vocab / examples / homework) so students can find information.",
+          "tr": "Bölümler kullan (sözcük / örnek / ödev) ki öğrenciler bilgiyi bulabilsin.",
+          "exam": true
+        }
+      ],
+      "key_terms": []
+    },
+    {
+      "id": "5.8",
+      "heading_en": "8 Board drawing",
+      "heading_tr": "8 Tahta çizimi",
+      "points": [
+        {
+          "en": "Simple drawings convey meaning fast without long explanations.",
+          "tr": "Basit çizimler uzun açıklamasız anlamı hızlı iletir.",
+          "exam": true
+        },
+        {
+          "en": "Stick figures and basic icons are enough; artistic skill not required.",
+          "tr": "Çöp adam ve basit ikonlar yeter; sanat becerisi şart değil.",
+          "exam": false
+        }
+      ],
+      "key_terms": []
+    },
+    {
+      "id": "5.9",
+      "heading_en": "9 Eliciting",
+      "heading_tr": "9 Çıkartma (eliciting)",
+      "points": [
+        {
+          "en": "Eliciting draws language/ideas from learners instead of teacher modelling everything first.",
+          "tr": "Eliciting, öğretmenin her şeyi önce modellemesi yerine dil/fikri öğrenenden çıkarır.",
+          "exam": true
+        },
+        {
+          "en": "Benefits: less unnecessary TTT, more STT, active learners, continuous language use.",
+          "tr": "Faydalar: daha az gereksiz TTT, daha çok STT, aktif öğrenen, sürekli dil kullanımı.",
+          "exam": true
+        },
+        {
+          "en": "Technique: give enough context/info, gesture for the word, get peer repetition, finger correction if needed.",
+          "tr": "Teknik: yeterli bağlam ver, sözcük için jest et, akran tekrarı al, gerekirse parmak düzeltmesi.",
+          "exam": true
+        },
+        {
+          "en": "Don’t elicit what they cannot know; give sufficient information first.",
+          "tr": "Bilemeyeceklerini çıkartma; önce yeterli bilgi ver.",
+          "exam": true
+        }
+      ],
+      "key_terms": [
+        {
+          "en": "Eliciting",
+          "tr": "Çıkartma",
+          "def_en": "Getting learners to produce target language/ideas.",
+          "def_tr": "Öğrenenlerden hedef dil/fikir üretmelerini sağlama."
+        }
+      ]
+    },
+    {
+      "id": "5.10",
+      "heading_en": "10 Students using their own language",
+      "heading_tr": "10 Öğrencilerin kendi dilini kullanması",
+      "points": [
+        {
+          "en": "L1 can support learning (quick clarify) or reduce English practice if overused.",
+          "tr": "L1 öğrenmeyi destekleyebilir (hızlı netleştirme) veya aşırı kullanılırsa İngilizce pratiğini azaltır.",
+          "exam": true
+        },
+        {
+          "en": "Total bans are often unrealistic; aim for maximum useful English.",
+          "tr": "Tam yasaklar sıkça gerçekçi değildir; maksimum yararlı İngilizce hedefle.",
+          "exam": true
+        },
+        {
+          "en": "Set clear times/tasks for English-only; allow strategic L1 when it saves time.",
+          "tr": "Yalnızca İngilizce için net zaman/görev koy; zaman kazandıran stratejik L1’e izin ver.",
+          "exam": true
+        }
+      ],
+      "key_terms": [
+        {
+          "en": "L1",
+          "tr": "Anadil",
+          "def_en": "Learner’s first language.",
+          "def_tr": "Öğrenenin birinci dili."
+        }
+      ]
+    },
+    {
+      "id": "5.11",
+      "heading_en": "11 Intuition",
+      "heading_tr": "11 Sezgi",
+      "points": [
+        {
+          "en": "Teacher intuition grows from experience; use it but also reflect and check evidence.",
+          "tr": "Öğretmen sezgisi deneyimden büyür; kullan ama yansıt ve kanıtla kontrol et.",
+          "exam": true
+        },
+        {
+          "en": "Intuition helps real-time decisions (when to stop an activity, who needs help).",
+          "tr": "Sezgi anlık kararlara yardım eder (etkinliği ne zaman bitir, kim yardım ister).",
+          "exam": false
+        }
+      ],
+      "key_terms": []
+    },
+    {
+      "id": "5.12",
+      "heading_en": "12 How to prevent learning — some popular techniques",
+      "heading_tr": "12 Öğrenmeyi engelleme — bazı popüler teknikler",
+      "points": [
+        {
+          "en": "Ironic anti-patterns: too much TTT, unclear aims, no student talk, over-helping, chaos without purpose.",
+          "tr": "İronik anti-örüntüler: aşırı TTT, belirsiz amaçlar, öğrenci konuşması yok, aşırı yardım, amaçsız kaos.",
+          "exam": true
+        },
+        {
+          "en": "Recognising ‘how to prevent learning’ helps you avoid sabotaging your own lessons.",
+          "tr": "‘Öğrenmeyi engelleme’yi tanımak kendi dersini sabote etmekten kaçındırır.",
+          "exam": true
+        },
+        {
+          "en": "Echoing every student answer unnecessarily can kill interaction flow.",
+          "tr": "Her öğrenci cevabını gereksiz yankılamak etkileşim akışını öldürebilir.",
+          "exam": true
+        }
+      ],
+      "key_terms": [
+        {
+          "en": "Anti-pattern",
+          "tr": "Anti-örüntü",
+          "def_en": "Common practice that blocks learning.",
+          "def_tr": "Öğrenmeyi engelleyen yaygın uygulama."
+        }
+      ]
+    }
+  ],
+  "chapter_review": [
+    {
+      "en": "Management = enabling learning via time/space/interaction decisions.",
+      "tr": "Yönetim = zaman/alan/etkileşim kararlarıyla öğrenmeyi mümkün kılma."
+    },
+    {
+      "en": "Boost STT with pairs/groups; cut useless TTT.",
+      "tr": "Eşli/grupla STT’yi artır; yararsız TTT’yi kes."
+    },
+    {
+      "en": "Instructions: short, staged, demo, check (ICQ).",
+      "tr": "Yönerge: kısa, aşamalı, demo, kontrol (ICQ)."
+    },
+    {
+      "en": "Participate / monitor / vanish—choose on purpose.",
+      "tr": "Katıl / izle / kaybol—bilerek seç."
+    },
+    {
+      "en": "Elicit to increase involvement; don’t elicit the impossible.",
+      "tr": "Katılım için elicit et; imkânsızı çıkartma."
+    },
+    {
+      "en": "Board: clear layout; gestures: reduce talk.",
+      "tr": "Tahta: net düzen; jest: konuşmayı azalt."
+    },
+    {
+      "en": "Manage L1 strategically; avoid learning anti-patterns.",
+      "tr": "L1’i stratejik yönet; öğrenme anti-örüntülerinden kaçın."
+    }
+  ]
+}

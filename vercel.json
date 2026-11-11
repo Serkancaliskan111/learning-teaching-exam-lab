@@ -1,0 +1,21 @@
+{
+  "buildCommand": "npm run build",
+  "outputDirectory": "dist",
+  "cleanUrls": true,
+  "trailingSlash": false,
+  "rewrites": [
+    { "source": "/chapter", "destination": "/chapter.html" },
+    { "source": "/chapters", "destination": "/chapters.html" },
+    { "source": "/flashcards", "destination": "/flashcards.html" },
+    { "source": "/quiz", "destination": "/quiz.html" },
+    { "source": "/methods", "destination": "/methods.html" }
+  ],
+  "headers": [
+    {
+      "source": "/data/(.*)",
+      "headers": [
+        { "key": "Cache-Control", "value": "public, max-age=3600" }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,280 @@
+{
+  "id": "ch1",
+  "title_en": "Classrooms at work",
+  "title_tr": "Sınıfta çalışma",
+  "sections": [
+    {
+      "id": "1.0",
+      "heading_en": "Chapter overview",
+      "heading_tr": "Bölüm genel bakış",
+      "points": [
+        {
+          "en": "This chapter introduces ways of working in a language classroom, teacher/learner roles, and how people learn.",
+          "tr": "Bu bölüm dil sınıfında çalışma biçimlerini, öğretmen/öğrenen rollerini ve insanların nasıl öğrendiğini tanıtır.",
+          "exam": true
+        },
+        {
+          "en": "Teaching is a constant processing of options; better teachers are aware of more options.",
+          "tr": "Öğretim sürekli seçenek işleme sürecidir; daha iyi öğretmenler daha fazla seçeneğin farkındadır.",
+          "exam": true
+        }
+      ],
+      "key_terms": [
+        {
+          "en": "Toolkit",
+          "tr": "Araç seti",
+          "def_en": "A set of possibilities to choose from, not one fixed method.",
+          "def_tr": "Tek sabit yöntem değil, içinden seçilecek olanaklar seti."
+        }
+      ]
+    },
+    {
+      "id": "1.1",
+      "heading_en": "1 Looking round some classroom doors",
+      "heading_tr": "1 Bazı sınıf kapılarından bakmak",
+      "points": [
+        {
+          "en": "Observing other teachers yields concrete ideas: activities, pace, things said/done.",
+          "tr": "Diğer öğretmenleri gözlemek somut fikirler verir: etkinlikler, tempo, söylenen/yapılanlar.",
+          "exam": true
+        },
+        {
+          "en": "Much lesson ‘magic’ comes from specific actions, comments and attitudes—not only personality.",
+          "tr": "Ders ‘sihri’nin çoğu kişilikten değil belirli eylem, yorum ve tutumlardan gelir.",
+          "exam": true
+        },
+        {
+          "en": "Andrea: large class, group project (youth club), teacher monitors unobtrusively, avoids over-helping stuck groups.",
+          "tr": "Andrea: kalabalık sınıf, grup projesi; öğretmen fark ettirmeden izler, takılan gruba aşırı yardım etmez.",
+          "exam": true
+        },
+        {
+          "en": "Maia: small circle chat about news; discreet teaching via managing talk, bringing in quiet students, echoing/correcting gently.",
+          "tr": "Maia: küçük çemberde haber sohbeti; sessiz öğrencileri dahil ederek, yankılayarak nazikçe öğretir.",
+          "exam": true
+        },
+        {
+          "en": "Lee: front-of-class presentation of going to for future predictions—more teacher-led clarification.",
+          "tr": "Lee: future prediction için going to’yu sınıf önünde sunar—daha öğretmen merkezli açıklama.",
+          "exam": true
+        },
+        {
+          "en": "Different contexts need different methodology; what works is a compromise between beliefs and local reality.",
+          "tr": "Farklı bağlamlar farklı yöntem ister; işe yarayan, inançlar ile yerel gerçeklik arasındaki uzlaşmadır.",
+          "exam": true
+        },
+        {
+          "en": "‘Jug and mug’: knowledge poured from teacher into empty students—oversimplified transmission model.",
+          "tr": "‘Sürahi ve kupa’: bilgi öğretmenden boş öğrenciye dökülür—aşırı basitleştirilmiş aktarım modeli.",
+          "exam": true
+        },
+        {
+          "en": "In one taught lesson, many different lessons are received by different learners.",
+          "tr": "Tek ‘öğretilen’ derste farklı öğrenenler çok farklı dersler alır.",
+          "exam": true
+        },
+        {
+          "en": "Long explanations (especially in the target language) often help less than brief hints for language learning.",
+          "tr": "Uzun açıklamalar (özellikle hedef dilde) dil öğreniminde kısa ipuçlarından daha az işe yarar.",
+          "exam": true
+        }
+      ],
+      "key_terms": [
+        {
+          "en": "Jug and mug",
+          "tr": "Sürahi ve kupa",
+          "def_en": "Teacher as full jug pouring knowledge into empty student mug.",
+          "def_tr": "Öğretmen dolu sürahi, öğrenci boş kupa."
+        },
+        {
+          "en": "Observation",
+          "tr": "Gözlem",
+          "def_en": "Watching classes to learn transferable techniques.",
+          "def_tr": "Aktarılabilir teknikler öğrenmek için sınıfları izleme."
+        }
+      ]
+    },
+    {
+      "id": "1.2",
+      "heading_en": "2 What's a teacher for?",
+      "heading_tr": "2 Öğretmen ne işe yarar?",
+      "points": [
+        {
+          "en": "Learners don’t always need teachers: self-study, immersion, and classroom work are three routes.",
+          "tr": "Öğrenenler her zaman öğretmene muhtaç değildir: kendi kendine çalışma, immersion ve sınıf üç yoldur.",
+          "exam": true
+        },
+        {
+          "en": "Immersion = picking up language by living/communicating where it is used.",
+          "tr": "Immersion = dilin kullanıldığı yerde yaşayarak/iletişim kurarak edinme.",
+          "exam": true
+        },
+        {
+          "en": "Entertainer teaching: amusing monologue may hide little real learning.",
+          "tr": "Eğlendirici öğretmenlik: eğlenceli monolog gerçek öğrenmenin azlığını gizleyebilir.",
+          "exam": true
+        },
+        {
+          "en": "Explainer: teacher mainly explains language; useful but insufficient alone.",
+          "tr": "Açıklayıcı: öğretmen esas olarak dili açıklar; yararlı ama tek başına yetmez.",
+          "exam": true
+        },
+        {
+          "en": "Involver: creates conditions and tasks so learners do the learning work.",
+          "tr": "Dahil edici: öğrenenlerin öğrenme işini yapacağı koşullar ve görevler yaratır.",
+          "exam": true
+        },
+        {
+          "en": "Scrivener argues teaching should move towards enabling/involving rather than only telling.",
+          "tr": "Scrivener, öğretmenliğin yalnızca anlatmaktan olanaklı kılma/dahil etmeye kayması gerektiğini savunur.",
+          "exam": true
+        },
+        {
+          "en": "A teacher’s job includes organising, prompting, supporting, feeding back—not only transmitting facts.",
+          "tr": "Öğretmenin işi örgütleme, teşvik, destek, geri bildirimdir—yalnızca bilgi aktarmak değil.",
+          "exam": true
+        }
+      ],
+      "key_terms": [
+        {
+          "en": "Entertainer",
+          "tr": "Eğlendirici",
+          "def_en": "Teacher as performer; risk of low learning.",
+          "def_tr": "Öğretmen şovmen; düşük öğrenme riski."
+        },
+        {
+          "en": "Explainer",
+          "tr": "Açıklayıcı",
+          "def_en": "Teacher as knower who explains.",
+          "def_tr": "Açıklayan bilen öğretmen."
+        },
+        {
+          "en": "Involver",
+          "tr": "Dahil edici",
+          "def_en": "Teacher who involves learners in doing.",
+          "def_tr": "Öğrenenleri işin içine katan öğretmen."
+        }
+      ]
+    },
+    {
+      "id": "1.3",
+      "heading_en": "3 Teaching and learning",
+      "heading_tr": "3 Öğretme ve öğrenme",
+      "points": [
+        {
+          "en": "Teaching does not automatically equal learning; learners construct understanding actively.",
+          "tr": "Öğretmek otomatik olarak öğrenmek demek değildir; öğrenenler anlamı aktif kurar.",
+          "exam": true
+        },
+        {
+          "en": "Key conditions for language learning include exposure, noticing, use, and motivation.",
+          "tr": "Dil öğreniminin ana koşulları: maruz kalma, fark etme, kullanım ve motivasyon.",
+          "exam": true
+        },
+        {
+          "en": "Exposure: meeting language in meaningful use (input).",
+          "tr": "Maruz kalma: dili anlamlı kullanımda görme/duyma (girdi).",
+          "exam": true
+        },
+        {
+          "en": "Noticing: paying attention to features of language.",
+          "tr": "Fark etme: dil özelliklerine dikkat etme.",
+          "exam": true
+        },
+        {
+          "en": "Use/output: producing language to communicate.",
+          "tr": "Kullanım/çıktı: iletişim için dil üretme.",
+          "exam": true
+        },
+        {
+          "en": "Motivation and engagement strongly affect whether techniques work.",
+          "tr": "Motivasyon ve katılım, tekniklerin işe yarayıp yaramamasını güçlü etkiler.",
+          "exam": true
+        },
+        {
+          "en": "Teachers create the conditions; learners do the learning.",
+          "tr": "Öğretmen koşulları yaratır; öğrenmeyi öğrenen yapar.",
+          "exam": true
+        }
+      ],
+      "key_terms": [
+        {
+          "en": "Exposure",
+          "tr": "Maruz kalma",
+          "def_en": "Contact with language input.",
+          "def_tr": "Dil girdisiyle temas."
+        },
+        {
+          "en": "Noticing",
+          "tr": "Fark etme",
+          "def_en": "Conscious attention to language form/use.",
+          "def_tr": "Dil biçim/kullanımına bilinçli dikkat."
+        },
+        {
+          "en": "Output",
+          "tr": "Çıktı",
+          "def_en": "Language learners produce.",
+          "def_tr": "Öğrenenlerin ürettiği dil."
+        }
+      ]
+    },
+    {
+      "id": "1.4",
+      "heading_en": "4 Different kinds of teacher",
+      "heading_tr": "4 Farklı öğretmen türleri",
+      "points": [
+        {
+          "en": "Teachers differ in roles, style, beliefs and how much control they keep.",
+          "tr": "Öğretmenler rol, stil, inanç ve kontrol miktarında farklılaşır.",
+          "exam": false
+        },
+        {
+          "en": "No single ‘best’ teacher type; effectiveness depends on learners and context.",
+          "tr": "Tek ‘en iyi’ öğretmen tipi yoktur; etkililik öğrenenlere ve bağlama bağlıdır.",
+          "exam": true
+        },
+        {
+          "en": "Reflect on your default style (explainer/entertainer/involver) and expand your options.",
+          "tr": "Varsayılan stilini (açıklayıcı/eğlendirici/dahil edici) fark et ve seçeneklerini genişlet.",
+          "exam": true
+        },
+        {
+          "en": "Rapport, respect and clear purpose matter as much as technique labels.",
+          "tr": "Teknik etiketleri kadar ilişki, saygı ve net amaç da önemlidir.",
+          "exam": false
+        }
+      ],
+      "key_terms": []
+    }
+  ],
+  "chapter_review": [
+    {
+      "en": "Teaching = choosing among options; toolkit mindset.",
+      "tr": "Öğretim = seçenekler arasından seçmek; araç seti zihniyeti."
+    },
+    {
+      "en": "Jug-and-mug transmission is too simple for language learning.",
+      "tr": "Sürahi-kupa aktarımı dil öğrenimi için fazla basittir."
+    },
+    {
+      "en": "Routes: self-study, immersion, classroom.",
+      "tr": "Yollar: kendi kendine, immersion, sınıf."
+    },
+    {
+      "en": "Roles: entertainer / explainer / involver — aim to involve/enable.",
+      "tr": "Roller: eğlendirici / açıklayıcı / dahil edici — dahil et/olanaklı kıl."
+    },
+    {
+      "en": "Learning needs exposure + noticing + use + motivation.",
+      "tr": "Öğrenme: maruz kalma + fark etme + kullanım + motivasyon."
+    },
+    {
+      "en": "Long lectures rarely beat short useful guidance for language.",
+      "tr": "Uzun ders anlatımı dilde kısa yararlı rehberliği nadiren geçer."
+    },
+    {
+      "en": "Classroom snapshots show managerial vs conversational vs presentational teaching.",
+      "tr": "Sınıf anlık görüntüleri yönetsel / sohbet / sunum öğretimini gösterir."
+    }
+  ]
+}

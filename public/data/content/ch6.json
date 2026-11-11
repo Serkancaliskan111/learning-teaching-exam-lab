@@ -1,0 +1,268 @@
+{
+  "id": "ch6",
+  "title_en": "Planning lessons and courses",
+  "title_tr": "Ders ve kurs planlama",
+  "sections": [
+    {
+      "id": "6.1",
+      "heading_en": "1 Planning is a thinking skill",
+      "heading_tr": "1 Planlama bir düşünme becerisidir",
+      "points": [
+        {
+          "en": "Planning is thinking about learners, aims, activities, order, timing—not only filling a form.",
+          "tr": "Planlama öğrenen, amaç, etkinlik, sıra, süre hakkında düşünmektir—yalnızca form doldurmak değil.",
+          "exam": true
+        },
+        {
+          "en": "Written plans support training and clarity; the thinking behind them matters most.",
+          "tr": "Yazılı planlar eğitim ve netliği destekler; asıl önemli olan arkasındaki düşüncedir.",
+          "exam": true
+        }
+      ],
+      "key_terms": []
+    },
+    {
+      "id": "6.2",
+      "heading_en": "2 How do people learn a language",
+      "heading_tr": "2 İnsanlar bir dili nasıl öğrenir",
+      "points": [
+        {
+          "en": "Planning should reflect how language is learned: exposure, noticing, use, motivation, scaffolding.",
+          "tr": "Planlama dilin nasıl öğrenildiğini yansıtmalı: maruz kalma, fark etme, kullanım, motivasyon, scaffolding.",
+          "exam": true
+        },
+        {
+          "en": "Don’t plan only teacher talk; plan learner opportunities to process and use language.",
+          "tr": "Yalnızca öğretmen konuşması planlama; öğrenenin dili işleyip kullanma fırsatlarını planla.",
+          "exam": true
+        }
+      ],
+      "key_terms": [
+        {
+          "en": "Scaffolding",
+          "tr": "İskele / destek",
+          "def_en": "Temporary support that helps learners succeed then fades.",
+          "def_tr": "Öğrenenin başarısını sağlayan, sonra azalan geçici destek."
+        }
+      ]
+    },
+    {
+      "id": "6.3",
+      "heading_en": "3 Sequencing lesson components",
+      "heading_tr": "3 Ders bileşenlerini sıralama",
+      "points": [
+        {
+          "en": "Order activities so each stage prepares the next (logic + energy + challenge).",
+          "tr": "Her aşama sonrakine hazırlasın diye etkinlikleri sırala (mantık + enerji + zorluk).",
+          "exam": true
+        },
+        {
+          "en": "Common shapes include PPP; also TTT, skills lessons with task–feedback cycles.",
+          "tr": "Yaygın şekiller: PPP; ayrıca TTT, görev–geri bildirim döngülü beceri dersleri.",
+          "exam": true
+        },
+        {
+          "en": "Consider warm-up, input, practice, freer use, feedback, closer.",
+          "tr": "Isınma, girdi, alıştırma, daha özgür kullanım, geri bildirim, kapanış düşün.",
+          "exam": false
+        }
+      ],
+      "key_terms": []
+    },
+    {
+      "id": "6.4",
+      "heading_en": "4 Formal lesson planning",
+      "heading_tr": "4 Resmi ders planlama",
+      "points": [
+        {
+          "en": "Formal plans often include: aims, level, materials, stages, timing, interaction, anticipated problems.",
+          "tr": "Resmi planlar sıkça içerir: amaçlar, seviye, materyal, aşamalar, süre, etkileşim, olası sorunlar.",
+          "exam": true
+        },
+        {
+          "en": "Useful on training courses (CELTA etc.) and for complex lessons.",
+          "tr": "Eğitim kurslarında (CELTA vb.) ve karmaşık derslerde yararlıdır.",
+          "exam": true
+        },
+        {
+          "en": "Anticipated problems + solutions show professional thinking.",
+          "tr": "Olası sorunlar + çözümler profesyonel düşünmeyi gösterir.",
+          "exam": true
+        }
+      ],
+      "key_terms": [
+        {
+          "en": "Formal lesson plan",
+          "tr": "Resmi ders planı",
+          "def_en": "Detailed written plan of a lesson.",
+          "def_tr": "Dersin ayrıntılı yazılı planı."
+        }
+      ]
+    },
+    {
+      "id": "6.5",
+      "heading_en": "5 Lesson aims",
+      "heading_tr": "5 Ders amaçları",
+      "points": [
+        {
+          "en": "Aims state what learners will be better able to do by the end.",
+          "tr": "Amaçlar, ders sonunda öğrenenlerin daha iyi ne yapabileceğini belirtir.",
+          "exam": true
+        },
+        {
+          "en": "Prefer learner-centred observable aims over ‘teach the past simple’.",
+          "tr": "‘Past simple öğret’ yerine öğrenen merkezli gözlemlenebilir amaçları tercih et.",
+          "exam": true
+        },
+        {
+          "en": "Main aim vs subsidiary/stage aims; personal aims for the teacher.",
+          "tr": "Ana amaç vs yan/aşama amaçları; öğretmen için kişisel amaçlar.",
+          "exam": true
+        },
+        {
+          "en": "Good aim example: ‘Learners will be able to invite a friend to an event using Would you like to…?’",
+          "tr": "İyi amaç: ‘Öğrenenler Would you like to…? ile bir etkinliğe davet edebilecek.’",
+          "exam": true
+        }
+      ],
+      "key_terms": [
+        {
+          "en": "SMART-ish aims",
+          "tr": "Net amaçlar",
+          "def_en": "Clear, achievable, learner-focused outcomes.",
+          "def_tr": "Net, ulaşılabilir, öğrenen odaklı çıktılar."
+        }
+      ]
+    },
+    {
+      "id": "6.6",
+      "heading_en": "6 A very short section on ‘challenge’",
+      "heading_tr": "6 ‘Zorluk’ üzerine çok kısa bölüm",
+      "points": [
+        {
+          "en": "Tasks need appropriate challenge: stretch without crushing.",
+          "tr": "Görevler uygun zorlukta olmalı: ezmeden zorlamalı.",
+          "exam": true
+        },
+        {
+          "en": "Too easy → boredom; too hard → failure/demotivation.",
+          "tr": "Çok kolay → sıkıntı; çok zor → başarısızlık/motivasyon kaybı.",
+          "exam": true
+        }
+      ],
+      "key_terms": []
+    },
+    {
+      "id": "6.7",
+      "heading_en": "7 Alternatives to formal planning",
+      "heading_tr": "7 Resmi plana alternatifler",
+      "points": [
+        {
+          "en": "Experienced teachers may use lighter notes, outlines, or responsive ‘jungle path’ teaching.",
+          "tr": "Deneyimli öğretmenler daha hafif not, ana hat veya esnek ‘jungle path’ öğretim kullanabilir.",
+          "exam": true
+        },
+        {
+          "en": "Less formal ≠ no thinking; still purposeful sequencing and aims.",
+          "tr": "Daha az resmi ≠ düşüncesiz; yine amaçlı sıralama ve hedefler vardır.",
+          "exam": true
+        }
+      ],
+      "key_terms": [
+        {
+          "en": "Jungle path",
+          "tr": "Jungle path",
+          "def_en": "Responsive teaching following emerging classroom paths.",
+          "def_tr": "Sınıfta beliren yolları izleyen esnek öğretim."
+        }
+      ]
+    },
+    {
+      "id": "6.8",
+      "heading_en": "8 Planning a course",
+      "heading_tr": "8 Kurs planlama",
+      "points": [
+        {
+          "en": "Course planning maps aims, syllabus, materials, assessment across weeks.",
+          "tr": "Kurs planlama amaç, izlence, materyal, değerlendirmeyi haftalara yayar.",
+          "exam": true
+        },
+        {
+          "en": "Needs analysis feeds course design; balance skills/systems and recycling.",
+          "tr": "İhtiyaç analizi kurs tasarımını besler; beceri/sistem ve geri dönüşümü dengele.",
+          "exam": true
+        }
+      ],
+      "key_terms": [
+        {
+          "en": "Syllabus",
+          "tr": "İzlence",
+          "def_en": "Outline of content/order for a course.",
+          "def_tr": "Kurs için içerik/sıra ana hattı."
+        }
+      ]
+    },
+    {
+      "id": "6.9",
+      "heading_en": "9 Unrealistic requirements",
+      "heading_tr": "9 Gerçekçi olmayan beklentiler",
+      "points": [
+        {
+          "en": "Institutions may demand impossible coverage/perfection; negotiate priorities.",
+          "tr": "Kurumlar imkânsız kapsam/mükemmellik isteyebilir; öncelikleri müzakere et.",
+          "exam": true
+        },
+        {
+          "en": "Know what is achievable with your hours, level mix, and resources.",
+          "tr": "Saat, seviye karışımı ve kaynaklarınla neyin başarılabilir olduğunu bil.",
+          "exam": false
+        }
+      ],
+      "key_terms": []
+    },
+    {
+      "id": "6.10",
+      "heading_en": "10 English and teaching in the world",
+      "heading_tr": "10 Dünyada İngilizce ve öğretim",
+      "points": [
+        {
+          "en": "English teaching contexts worldwide differ hugely (exam pressure, class size, resources, culture).",
+          "tr": "Dünyada İngilizce öğretim bağlamları çok farklıdır (sınav baskısı, sınıf büyüklüğü, kaynak, kültür).",
+          "exam": true
+        },
+        {
+          "en": "Global methods must be localised; respect learners’ realities.",
+          "tr": "Küresel yöntemler yerelleştirilmeli; öğrenen gerçeklerine saygı göster.",
+          "exam": true
+        }
+      ],
+      "key_terms": []
+    }
+  ],
+  "chapter_review": [
+    {
+      "en": "Planning = thinking skill first, paperwork second.",
+      "tr": "Planlama = önce düşünme becerisi, evrak ikinci."
+    },
+    {
+      "en": "Write learner-centred observable aims.",
+      "tr": "Öğrenen merkezli gözlemlenebilir amaçlar yaz."
+    },
+    {
+      "en": "Sequence for logic, energy, challenge.",
+      "tr": "Mantık, enerji, zorluk için sırala."
+    },
+    {
+      "en": "Formal plans: stages, timing, interaction, problems.",
+      "tr": "Resmi plan: aşama, süre, etkileşim, sorunlar."
+    },
+    {
+      "en": "Challenge: stretch, don’t crush.",
+      "tr": "Zorluk: zorla, ezme."
+    },
+    {
+      "en": "Alternatives exist; course planning uses needs analysis.",
+      "tr": "Alternatifler vardır; kurs planı ihtiyaç analizi kullanır."
+    }
+  ]
+}
