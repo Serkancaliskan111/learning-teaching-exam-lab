@@ -1,0 +1,292 @@
+[
+  {
+    "id": "q11-01",
+    "type": "mcq",
+    "prompt_en": "Lexis is best described as…",
+    "prompt_tr": "Lexis en iyi şöyle tanımlanır…",
+    "options": [
+      "Words and word combinations/chunks",
+      "Only grammar tenses",
+      "Only pronunciation charts",
+      "Only essay titles"
+    ],
+    "answer": "Words and word combinations/chunks",
+    "explain_en": "Broader than single-word vocab lists.",
+    "explain_tr": "Tek kelime listelerinden daha geniştir.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "q11-02",
+    "type": "mcq",
+    "prompt_en": "pass an exam is an example of…",
+    "prompt_tr": "pass an exam örneğidir…",
+    "options": [
+      "Collocation",
+      "Phoneme",
+      "Seating plan",
+      "Lesson aim"
+    ],
+    "answer": "Collocation",
+    "explain_en": "Common word partnership.",
+    "explain_tr": "Yaygın sözcük ortaklığı.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "q11-03",
+    "type": "mcq",
+    "prompt_en": "It’s up to you is typically treated as…",
+    "prompt_tr": "It’s up to you tipik olarak…",
+    "options": [
+      "A lexical chunk / multi-word item",
+      "A seating pattern",
+      "A needs analysis form",
+      "A skimming task only"
+    ],
+    "answer": "A lexical chunk / multi-word item",
+    "explain_en": "Ready-made phrase.",
+    "explain_tr": "Hazır ifade.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "q11-04",
+    "type": "fill",
+    "prompt_en": "Words that commonly go together are called ______.",
+    "prompt_tr": "Sıkça birlikte giden sözcüklere ______ denir.",
+    "answer": "collocations|collocation",
+    "explain_en": "Collocations.",
+    "explain_tr": "Eşdizimler.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "q11-05",
+    "type": "tf",
+    "prompt_en": "Knowing a word only means knowing its L1 translation.",
+    "prompt_tr": "Bir sözcüğü bilmek yalnızca L1 çevirisini bilmek demektir.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answer": "False",
+    "explain_en": "Multi-dimensional knowledge.",
+    "explain_tr": "Çok boyutlu bilgi.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "q11-06",
+    "type": "mcq",
+    "prompt_en": "Productive lexis means…",
+    "prompt_tr": "Üretici lexis demektir…",
+    "options": [
+      "Items learners can use actively",
+      "Items only recognised in texts",
+      "Items banned in class",
+      "Items for teacher only"
+    ],
+    "answer": "Items learners can use actively",
+    "explain_en": "Active use.",
+    "explain_tr": "Aktif kullanım.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "q11-07",
+    "type": "mcq",
+    "prompt_en": "Before a listening task, pre-teach…",
+    "prompt_tr": "Dinleme görevinden önce önceden öğret…",
+    "options": [
+      "Only blocking lexical items",
+      "Every word in the transcript",
+      "Nothing ever",
+      "Only irregular verbs always"
+    ],
+    "answer": "Only blocking lexical items",
+    "explain_en": "Don’t pre-teach everything.",
+    "explain_tr": "Her şeyi önceden öğretme.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "q11-08",
+    "type": "fill",
+    "prompt_en": "Meeting and using words again over time is ______.",
+    "prompt_tr": "Sözcükleri zamanla yeniden görüp kullanmak ______.",
+    "answer": "recycling",
+    "explain_en": "Recycling.",
+    "explain_tr": "Geri dönüşüm.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "q11-09",
+    "type": "mcq",
+    "prompt_en": "A weak way to record vocabulary is…",
+    "prompt_tr": "Sözcük kaydının zayıf yolu…",
+    "options": [
+      "Bare word lists without examples/collocations",
+      "Word maps with examples",
+      "Collocation columns",
+      "Personalised sentences"
+    ],
+    "answer": "Bare word lists without examples/collocations",
+    "explain_en": "Lists alone are weak.",
+    "explain_tr": "Yalnızca listeler zayıftır.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "q11-10",
+    "type": "mcq",
+    "prompt_en": "Presenting lexis should include…",
+    "prompt_tr": "Lexis sunumu şunları içermeli…",
+    "options": [
+      "Meaning, form, pronunciation, context example",
+      "Only the spelling bee",
+      "Only the translation forever",
+      "Only the phonemic chart with no meaning"
+    ],
+    "answer": "Meaning, form, pronunciation, context example",
+    "explain_en": "Full first meeting.",
+    "explain_tr": "Tam ilk karşılaşma.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "q11-11",
+    "type": "tf",
+    "prompt_en": "One mid-lesson spontaneous explanation usually guarantees long-term learning of a lexical item.",
+    "prompt_tr": "Ders ortası tek spontan açıklama lexical öğenin uzun vadeli öğrenilmesini genelde garanti eder.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answer": "False",
+    "explain_en": "Need systematic recycling.",
+    "explain_tr": "Sistemli geri dönüşüm gerekir.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "q11-12",
+    "type": "fill",
+    "prompt_en": "Real objects used to teach meaning are called ______.",
+    "prompt_tr": "Anlam öğretmek için kullanılan gerçek nesnelere ______ denir.",
+    "answer": "realia",
+    "explain_en": "Realia.",
+    "explain_tr": "Realia.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "q11-13",
+    "type": "mcq",
+    "prompt_en": "Register in lexis refers to…",
+    "prompt_tr": "Lexis’te register şunu ifade eder…",
+    "options": [
+      "Formality/appropriacy",
+      "Page numbers only",
+      "Seating charts",
+      "Exam scores only"
+    ],
+    "answer": "Formality/appropriacy",
+    "explain_en": "Part of knowing an item.",
+    "explain_tr": "Öğeyi bilmenin parçası.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "q11-14",
+    "type": "mcq",
+    "prompt_en": "Lexical practice games mainly help to…",
+    "prompt_tr": "Lexical alıştırma oyunları esas olarak…",
+    "options": [
+      "Recycle and remember items",
+      "Replace all skills work forever",
+      "Eliminate collocations",
+      "Ban notebooks"
+    ],
+    "answer": "Recycle and remember items",
+    "explain_en": "Memory through reuse.",
+    "explain_tr": "Yeniden kullanımla hafıza.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "q11-15",
+    "type": "mcq",
+    "prompt_en": "Recognition of a word…",
+    "prompt_tr": "Bir sözcüğü tanımak…",
+    "options": [
+      "Is not the same as full productive knowledge",
+      "Equals mastery of all collocations automatically",
+      "Means no stress knowledge needed",
+      "Ends all teaching"
+    ],
+    "answer": "Is not the same as full productive knowledge",
+    "explain_en": "Exam hotspot.",
+    "explain_tr": "Sınav sıcak noktası.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "q11-16",
+    "type": "fill",
+    "prompt_en": "Extra associative meaning beyond the basic sense is ______.",
+    "prompt_tr": "Temel anlamın ötesindeki ek çağrışımsal anlam ______.",
+    "answer": "connotation",
+    "explain_en": "Connotation.",
+    "explain_tr": "Çağrışım.",
+    "difficulty": "hard"
+  },
+  {
+    "id": "q11-17",
+    "type": "mcq",
+    "prompt_en": "Dictionary training especially with English–English dictionaries supports…",
+    "prompt_tr": "Özellikle İng–İng sözlüklerle sözlük eğitimi destekler…",
+    "options": [
+      "Learner independence",
+      "More teacher monologue only",
+      "Less noticing",
+      "No recording strategies"
+    ],
+    "answer": "Learner independence",
+    "explain_en": "Autonomy tool.",
+    "explain_tr": "Özerklik aracı.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "q11-18",
+    "type": "mcq",
+    "prompt_en": "Which is a multi-word lexical item?",
+    "prompt_tr": "Hangisi çok sözcüklü lexical öğedir?",
+    "options": [
+      "paint the town red",
+      "cat",
+      "the letter A",
+      "page 12"
+    ],
+    "answer": "paint the town red",
+    "explain_en": "Idiomatic chunk.",
+    "explain_tr": "Deyimsel chunk.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "q11-19",
+    "type": "tf",
+    "prompt_en": "Teachers should deal only with single-word vocabulary, never chunks.",
+    "prompt_tr": "Öğretmenler yalnızca tek sözcüklü kelimeyle ilgilenmeli, chunk’larla asla.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answer": "False",
+    "explain_en": "Chunks are central to lexis.",
+    "explain_tr": "Chunk’lar lexis’in merkezidir.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "q11-20",
+    "type": "mcq",
+    "prompt_en": "A strong memory strategy is…",
+    "prompt_tr": "Güçlü bir hafıza stratejisi…",
+    "options": [
+      "Spaced recycling with examples and collocations",
+      "One look at a list forever",
+      "Never personalise",
+      "Avoid games always"
+    ],
+    "answer": "Spaced recycling with examples and collocations",
+    "explain_en": "Organisation + repetition.",
+    "explain_tr": "Örgütleme + tekrar.",
+    "difficulty": "medium"
+  }
+]

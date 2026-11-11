@@ -1,0 +1,202 @@
+[
+  {
+    "id": "c11-01",
+    "front_en": "Lexis includes…",
+    "front_tr": "Lexis içerir…",
+    "back_en": "Single words + multi-word units",
+    "back_tr": "Tek sözcük + çok sözcüklü birimler",
+    "tag": "concept"
+  },
+  {
+    "id": "c11-02",
+    "front_en": "Collocation example",
+    "front_tr": "Eşdizim örneği",
+    "back_en": "pass/fail/take an exam",
+    "back_tr": "pass/fail/take an exam",
+    "tag": "concept"
+  },
+  {
+    "id": "c11-03",
+    "front_en": "Chunk example",
+    "front_tr": "Chunk örneği",
+    "back_en": "It’s up to you / kick the bucket",
+    "back_tr": "It’s up to you / kick the bucket",
+    "tag": "concept"
+  },
+  {
+    "id": "c11-04",
+    "front_en": "Productive vs receptive",
+    "front_tr": "Üretici vs alıcı",
+    "back_en": "Use actively vs understand when met",
+    "back_tr": "Aktif kullan vs karşılaşınca anla",
+    "tag": "concept"
+  },
+  {
+    "id": "c11-05",
+    "front_en": "Why spontaneous lexis teaching fails",
+    "front_tr": "Spontan lexis öğretimi neden başarısız",
+    "back_en": "Rarely becomes long-term store",
+    "back_tr": "Nadiren uzun vadeli depoya girer",
+    "tag": "concept"
+  },
+  {
+    "id": "c11-06",
+    "front_en": "Pre-teach before skills",
+    "front_tr": "Beceri öncesi ön öğret",
+    "back_en": "Only blocking items",
+    "back_tr": "Yalnızca engelleyici öğeler",
+    "tag": "technique"
+  },
+  {
+    "id": "c11-07",
+    "front_en": "Knowing a word dimensions",
+    "front_tr": "Sözcük bilme boyutları",
+    "back_en": "Meaning, form, sound, collocation, register…",
+    "back_tr": "Anlam, biçim, ses, eşdizim, üslup…",
+    "tag": "concept"
+  },
+  {
+    "id": "c11-08",
+    "front_en": "Recycling",
+    "front_tr": "Geri dönüşüm",
+    "back_en": "Meet/use again over time",
+    "back_tr": "Zamanla yeniden gör/kullan",
+    "tag": "technique"
+  },
+  {
+    "id": "c11-09",
+    "front_en": "Weak notebook strategy",
+    "front_tr": "Zayıf defter stratejisi",
+    "back_en": "Bare word lists only",
+    "back_tr": "Yalnızca çıplak kelime listeleri",
+    "tag": "concept"
+  },
+  {
+    "id": "c11-10",
+    "front_en": "Better recording",
+    "front_tr": "Daha iyi kaydetme",
+    "back_en": "Examples + collocations + maps",
+    "back_tr": "Örnek + eşdizim + harita",
+    "tag": "technique"
+  },
+  {
+    "id": "c11-11",
+    "front_en": "Presenting meaning tools",
+    "front_tr": "Anlam sunma araçları",
+    "back_en": "Picture, mime, realia, definition, translation",
+    "back_tr": "Resim, jest, realia, tanım, çeviri",
+    "tag": "technique"
+  },
+  {
+    "id": "c11-12",
+    "front_en": "Check concept",
+    "front_tr": "Kavramı kontrol et",
+    "back_en": "Translation ≠ full understanding",
+    "back_tr": "Çeviri ≠ tam anlama",
+    "tag": "technique"
+  },
+  {
+    "id": "c11-13",
+    "front_en": "Dictionary training",
+    "front_tr": "Sözlük eğitimi",
+    "back_en": "Especially English–English independence",
+    "back_tr": "Özellikle İng–İng bağımsızlık",
+    "tag": "technique"
+  },
+  {
+    "id": "c11-14",
+    "front_en": "Practice games purpose",
+    "front_tr": "Alıştırma oyunları amacı",
+    "back_en": "Recycle and remember lexis",
+    "back_tr": "Lexis’i geri dönüştür ve hatırla",
+    "tag": "technique"
+  },
+  {
+    "id": "c11-15",
+    "front_en": "Controlled → freer",
+    "front_tr": "Kontrollü → daha özgür",
+    "back_en": "Practice path for new lexis",
+    "back_tr": "Yeni lexis için pratik yolu",
+    "tag": "technique"
+  },
+  {
+    "id": "c11-16",
+    "front_en": "Compound example",
+    "front_tr": "Bileşik örneği",
+    "back_en": "compact disc / sky blue",
+    "back_tr": "compact disc / sky blue",
+    "tag": "concept"
+  },
+  {
+    "id": "c11-17",
+    "front_en": "Store phrases as wholes",
+    "front_tr": "İfadeleri bütün sakla",
+    "back_en": "Not only assemble word-by-word",
+    "back_tr": "Yalnızca sözcük sözcük kurma",
+    "tag": "concept"
+  },
+  {
+    "id": "c11-18",
+    "front_en": "Stress knowledge",
+    "front_tr": "Vurgu bilgisi",
+    "back_en": "Part of knowing a lexical item",
+    "back_tr": "Lexical öğeyi bilmenin parçası",
+    "tag": "concept"
+  },
+  {
+    "id": "c11-19",
+    "front_en": "Register of lexis",
+    "front_tr": "Lexis üslubu",
+    "back_en": "Formal/informal appropriacy",
+    "back_tr": "Resmi/gayriresmi uygunluk",
+    "tag": "concept"
+  },
+  {
+    "id": "c11-20",
+    "front_en": "Connotation",
+    "front_tr": "Çağrışım",
+    "back_en": "Extra associative meaning",
+    "back_tr": "Ek çağrışımsal anlam",
+    "tag": "concept"
+  },
+  {
+    "id": "c11-21",
+    "front_en": "Integrate lexis & skills",
+    "front_tr": "Lexis ve beceriyi entegre et",
+    "back_en": "Exploit texts for vocabulary work",
+    "back_tr": "Sözcük çalışması için metinleri işlet",
+    "tag": "technique"
+  },
+  {
+    "id": "c11-22",
+    "front_en": "Guess from context question",
+    "front_tr": "Bağlamdan tahmin sorusu",
+    "back_en": "Can you guess meaning from nearby text?",
+    "back_tr": "Yakın metinden anlamı tahmin edebilir misin?",
+    "tag": "technique"
+  },
+  {
+    "id": "c11-23",
+    "front_en": "Personalisation helps memory",
+    "front_tr": "Kişiselleştirme hafızaya yardım",
+    "back_en": "Link items to learners’ lives",
+    "back_tr": "Öğeleri öğrenenin yaşamına bağla",
+    "tag": "technique"
+  },
+  {
+    "id": "c11-24",
+    "front_en": "Spaced repetition idea",
+    "front_tr": "Aralıklı tekrar fikri",
+    "back_en": "Return to items across lessons",
+    "back_tr": "Öğelere dersler boyunca dön",
+    "tag": "technique"
+  },
+  {
+    "id": "c11-25",
+    "front_en": "Recognition ≠ production",
+    "front_tr": "Tanıma ≠ üretim",
+    "back_en": "Understanding item ≠ being able to use it",
+    "back_tr": "Öğeyi anlamak ≠ kullanabilmek",
+    "tag": "concept"
+  }
+]

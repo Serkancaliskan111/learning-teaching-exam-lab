@@ -1,0 +1,290 @@
+[
+  {
+    "id": "q4-01",
+    "type": "mcq",
+    "prompt_en": "Needs analysis is mainly used to…",
+    "prompt_tr": "İhtiyaç analizi esas olarak…",
+    "options": [
+      "Find what learners need/want for planning",
+      "Punish weak students",
+      "Replace all materials with jokes",
+      "Ban pairwork"
+    ],
+    "answer": "Find what learners need/want for planning",
+    "explain_en": "Feeds course/lesson design.",
+    "explain_tr": "Kurs/ders tasarımını besler.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "q4-02",
+    "type": "tf",
+    "prompt_en": "A labelled ‘intermediate’ class is always truly homogenous.",
+    "prompt_tr": "‘Intermediate’ etiketli sınıf her zaman gerçekten türdeştir.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answer": "False",
+    "explain_en": "Individuals differ.",
+    "explain_tr": "Bireyler farklıdır.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "q4-03",
+    "type": "fill",
+    "prompt_en": "Teaching students how to learn is called learner ______.",
+    "prompt_tr": "Öğrencilere nasıl öğrenileceğini öğretmeye learner ______ denir.",
+    "answer": "training",
+    "explain_en": "Learner training.",
+    "explain_tr": "Öğrenen eğitimi.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "q4-04",
+    "type": "mcq",
+    "prompt_en": "A spiky profile means…",
+    "prompt_tr": "Dikenli profil demektir…",
+    "options": [
+      "Uneven strengths across skills",
+      "Perfect equal skills",
+      "No vocabulary",
+      "Only L1 use"
+    ],
+    "answer": "Uneven strengths across skills",
+    "explain_en": "E.g. strong reading, weak speaking.",
+    "explain_tr": "Örn. güçlü okuma, zayıf konuşma.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "q4-05",
+    "type": "mcq",
+    "prompt_en": "‘Let them into the secret’ means…",
+    "prompt_tr": "‘Sırrı paylaş’ demektir…",
+    "options": [
+      "Explain aims/reasons for activities",
+      "Never tell aims",
+      "Hide all materials",
+      "Only use L1"
+    ],
+    "answer": "Explain aims/reasons for activities",
+    "explain_en": "Transparency builds autonomy.",
+    "explain_tr": "Şeffaflık özerklik kurar.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "q4-06",
+    "type": "tf",
+    "prompt_en": "Avoiding learner feedback is safer for teachers long-term.",
+    "prompt_tr": "Öğrenen geri bildiriminden kaçınmak uzun vadede öğretmen için daha güvenlidir.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answer": "False",
+    "explain_en": "Ungiven feedback becomes dangerous.",
+    "explain_tr": "Verilmeyen GB tehlikeli olur.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "q4-07",
+    "type": "mcq",
+    "prompt_en": "Multiple intelligences remind teachers to…",
+    "prompt_tr": "Çoklu zekâ öğretmenlere şunu hatırlatır…",
+    "options": [
+      "Vary activity types",
+      "Use only grammar drills",
+      "Ignore individuals",
+      "Teach one way only"
+    ],
+    "answer": "Vary activity types",
+    "explain_en": "Different channels.",
+    "explain_tr": "Farklı kanallar.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "q4-08",
+    "type": "fill",
+    "prompt_en": "Systematic investigation of learner needs is ______.",
+    "prompt_tr": "Öğrenen ihtiyaçlarının sistemli incelenmesi ______.",
+    "answer": "needs analysis",
+    "explain_en": "Needs analysis.",
+    "explain_tr": "İhtiyaç analizi.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "q4-09",
+    "type": "mcq",
+    "prompt_en": "Needs data is useful only if…",
+    "prompt_tr": "İhtiyaç verisi yalnızca şu olursa yararlıdır…",
+    "options": [
+      "It changes teaching decisions",
+      "It fills a file forever",
+      "Students never see aims",
+      "You ignore it"
+    ],
+    "answer": "It changes teaching decisions",
+    "explain_en": "Actionable data.",
+    "explain_tr": "Eyleme dönük veri.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "q4-10",
+    "type": "mcq",
+    "prompt_en": "Mixed-level response can include…",
+    "prompt_tr": "Karışık seviye yanıtı şunları içerebilir…",
+    "options": [
+      "Differentiated tasks and careful pairing",
+      "Identical unreachable tasks only",
+      "No support ever",
+      "Removing all challenge"
+    ],
+    "answer": "Differentiated tasks and careful pairing",
+    "explain_en": "Support + stretch.",
+    "explain_tr": "Destek + zorlama.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "q4-11",
+    "type": "tf",
+    "prompt_en": "Learner feedback should ask only ‘Was it fun?’",
+    "prompt_tr": "Öğrenen geri bildirimi yalnızca ‘Eğlenceli miydi?’ sormalıdır.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answer": "False",
+    "explain_en": "Also ask about learning.",
+    "explain_tr": "Öğrenme hakkında da sor.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "q4-12",
+    "type": "fill",
+    "prompt_en": "Taking charge of one’s learning is learner ______.",
+    "prompt_tr": "Kendi öğrenmesinin sorumluluğunu almak öğrenen ______dır.",
+    "answer": "autonomy",
+    "explain_en": "Autonomy.",
+    "explain_tr": "Özerklik.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "q4-13",
+    "type": "mcq",
+    "prompt_en": "Level labels are best treated as…",
+    "prompt_tr": "Seviye etiketleri en iyi şöyle görülür…",
+    "options": [
+      "Rough guides",
+      "Exact DNA",
+      "Punishment ranks",
+      "Seating plans"
+    ],
+    "answer": "Rough guides",
+    "explain_en": "Approximate.",
+    "explain_tr": "Yaklaşık.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "q4-14",
+    "type": "mcq",
+    "prompt_en": "Integrate study-skills work means…",
+    "prompt_tr": "Çalışma becerilerini entegre etmek demektir…",
+    "options": [
+      "Build strategy training into lessons",
+      "Never mention strategies",
+      "Only after graduation",
+      "Only in detention"
+    ],
+    "answer": "Build strategy training into lessons",
+    "explain_en": "Not optional fluff only.",
+    "explain_tr": "Yalnızca isteğe bağlı süs değil.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "q4-15",
+    "type": "mcq",
+    "prompt_en": "First-glance observation might notice…",
+    "prompt_tr": "İlk bakış gözlemi şunu fark edebilir…",
+    "options": [
+      "Who has materials / energy / groupings",
+      "Exact CEFR scores of everyone",
+      "Future exam results",
+      "Teachers’ salaries"
+    ],
+    "answer": "Who has materials / energy / groupings",
+    "explain_en": "Visible clues.",
+    "explain_tr": "Görünür ipuçları.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "q4-16",
+    "type": "fill",
+    "prompt_en": "Discuss ______ as well as content and procedure.",
+    "prompt_tr": "İçerik ve prosedürün yanı sıra ______ de tartış.",
+    "answer": "process",
+    "explain_en": "Process.",
+    "explain_tr": "Süreç.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "q4-17",
+    "type": "tf",
+    "prompt_en": "Automatic promotion can contribute to mixed levels.",
+    "prompt_tr": "Otomatik yükseltme karışık seviyeye katkı yapabilir.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answer": "True",
+    "explain_en": "Policy effect.",
+    "explain_tr": "Politika etkisi.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "q4-18",
+    "type": "mcq",
+    "prompt_en": "Necessities vs wants roughly equals…",
+    "prompt_tr": "Gereklilikler vs istekler kabaca…",
+    "options": [
+      "Objective needs vs subjective wishes",
+      "Grammar vs lexis",
+      "TTT vs STT",
+      "Skimming vs scanning"
+    ],
+    "answer": "Objective needs vs subjective wishes",
+    "explain_en": "Needs analysis distinction.",
+    "explain_tr": "İhtiyaç analizi ayrımı.",
+    "difficulty": "hard"
+  },
+  {
+    "id": "q4-19",
+    "type": "mcq",
+    "prompt_en": "Overdoing feedback forms can cause…",
+    "prompt_tr": "GB formlarını abartmak şuna yol açabilir…",
+    "options": [
+      "Survey fatigue / groans",
+      "Perfect motivation always",
+      "More TTT automatically",
+      "Better phonemes"
+    ],
+    "answer": "Survey fatigue / groans",
+    "explain_en": "Keep short & regular.",
+    "explain_tr": "Kısa ve düzenli tut.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "q4-20",
+    "type": "mcq",
+    "prompt_en": "Goal of learner training is mainly…",
+    "prompt_tr": "Öğrenen eğitiminin ana hedefi…",
+    "options": [
+      "More independent learners",
+      "More teacher monologue",
+      "Less student talk",
+      "No homework strategies"
+    ],
+    "answer": "More independent learners",
+    "explain_en": "Autonomy outside class too.",
+    "explain_tr": "Sınıf dışında da özerklik.",
+    "difficulty": "easy"
+  }
+]

@@ -1,0 +1,286 @@
+[
+  {
+    "id": "q2-01",
+    "type": "mcq",
+    "prompt_en": "PPP stands for…",
+    "prompt_tr": "PPP açılımı…",
+    "options": [
+      "Presentation–Practice–Production",
+      "Plan–Perform–Publish",
+      "Pair–Practice–Present",
+      "Pronounce–Parse–Produce"
+    ],
+    "answer": "Presentation–Practice–Production",
+    "explain_en": "Classic lesson shape.",
+    "explain_tr": "Klasik ders şekli.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "q2-02",
+    "type": "mcq",
+    "prompt_en": "Language skills are…",
+    "prompt_tr": "Dil becerileri…",
+    "options": [
+      "Listening, speaking, reading, writing",
+      "Only grammar and vocabulary",
+      "Only phonemes",
+      "Only translation"
+    ],
+    "answer": "Listening, speaking, reading, writing",
+    "explain_en": "Four skills.",
+    "explain_tr": "Dört beceri.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "q2-03",
+    "type": "mcq",
+    "prompt_en": "A typical activity sequence is…",
+    "prompt_tr": "Tipik etkinlik sırası…",
+    "options": [
+      "Lead-in → setup → do → feedback",
+      "Test → punish → homework",
+      "Lecture only",
+      "Silence → exam"
+    ],
+    "answer": "Lead-in → setup → do → feedback",
+    "explain_en": "Core classroom management of activities.",
+    "explain_tr": "Etkinlik yönetiminin özü.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "q2-04",
+    "type": "tf",
+    "prompt_en": "There is one best method for every teaching context.",
+    "prompt_tr": "Her öğretim bağlamı için tek en iyi yöntem vardır.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answer": "False",
+    "explain_en": "Personal theory + local fit.",
+    "explain_tr": "Kişisel kuram + yerel uyum.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "q2-05",
+    "type": "fill",
+    "prompt_en": "______ Approach prioritises meaningful communication.",
+    "prompt_tr": "______ Yaklaşım anlamlı iletişime öncelik verir.",
+    "answer": "communicative|CLT|communicative approach",
+    "explain_en": "Communicative Approach / CLT.",
+    "explain_tr": "İletişimsel yaklaşım.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "q2-06",
+    "type": "mcq",
+    "prompt_en": "TBL often places…",
+    "prompt_tr": "TBL sıkça şunu koyar…",
+    "options": [
+      "A communicative task before detailed language focus",
+      "Translation first always",
+      "Only drills forever",
+      "No feedback ever"
+    ],
+    "answer": "A communicative task before detailed language focus",
+    "explain_en": "Task before language focus.",
+    "explain_tr": "Dil odağından önce görev.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "q2-07",
+    "type": "mcq",
+    "prompt_en": "Analysing ‘Can you play the guitar?’ should include…",
+    "prompt_tr": "‘Can you play the guitar?’ analizi şunları içermeli…",
+    "options": [
+      "Form, meaning, pronunciation, function, discourse",
+      "Only spelling of guitar",
+      "Only translation to L1",
+      "Only the word can"
+    ],
+    "answer": "Form, meaning, pronunciation, function, discourse",
+    "explain_en": "Multi-angle language analysis.",
+    "explain_tr": "Çok açılı dil analizi.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "q2-08",
+    "type": "fill",
+    "prompt_en": "Grammar, lexis and phonology are language ______.",
+    "prompt_tr": "Gramer, lexis ve sesbilgisi dil ______dır.",
+    "answer": "systems",
+    "explain_en": "Systems.",
+    "explain_tr": "Sistemler.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "q2-09",
+    "type": "tf",
+    "prompt_en": "Beginners only need grammar, never skills work.",
+    "prompt_tr": "Başlangıç seviyesi yalnızca gramer ister, beceri çalışması asla.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answer": "False",
+    "explain_en": "Balanced course needed.",
+    "explain_tr": "Dengeli kurs gerekir.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "q2-10",
+    "type": "mcq",
+    "prompt_en": "Audio-Lingual Method is associated with…",
+    "prompt_tr": "Audio-Lingual Yöntem şununla ilişkilidir…",
+    "options": [
+      "Drills and habit formation",
+      "Only free debate",
+      "Only extensive reading",
+      "Only needs analysis forms"
+    ],
+    "answer": "Drills and habit formation",
+    "explain_en": "Pattern practice tradition.",
+    "explain_tr": "Kalıp pratik geleneği.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "q2-11",
+    "type": "mcq",
+    "prompt_en": "Lead-in is…",
+    "prompt_tr": "Lead-in…",
+    "options": [
+      "A brief introduction to engage topic interest",
+      "The final exam",
+      "A seating ban",
+      "A punishment"
+    ],
+    "answer": "A brief introduction to engage topic interest",
+    "explain_en": "Warm start.",
+    "explain_tr": "Isınma girişi.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "q2-12",
+    "type": "fill",
+    "prompt_en": "Formality differences in language are called ______.",
+    "prompt_tr": "Dildeki resmiyet farklarına ______ denir.",
+    "answer": "register",
+    "explain_en": "Register.",
+    "explain_tr": "Register/üslup.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "q2-13",
+    "type": "mcq",
+    "prompt_en": "A seating sketch-map of names helps mainly to…",
+    "prompt_tr": "İsimli oturma krokisi esas olarak…",
+    "options": [
+      "Learn students’ names quickly",
+      "Teach phonemes",
+      "Replace planning",
+      "Ban L1 forever"
+    ],
+    "answer": "Learn students’ names quickly",
+    "explain_en": "First-lesson name strategy.",
+    "explain_tr": "İlk ders isim stratejisi.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "q2-14",
+    "type": "mcq",
+    "prompt_en": "Grammar-Translation emphasises…",
+    "prompt_tr": "Gramer-Çeviri vurgular…",
+    "options": [
+      "Rules, translation, written accuracy",
+      "Only role-play fluency",
+      "Only songs",
+      "Only Cuisenaire rods"
+    ],
+    "answer": "Rules, translation, written accuracy",
+    "explain_en": "Classic GT features.",
+    "explain_tr": "Klasik GT özellikleri.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "q2-15",
+    "type": "tf",
+    "prompt_en": "Eclectic teaching means randomly mixing anything without thought.",
+    "prompt_tr": "Eklektik öğretim düşünmeden her şeyi rastgele karıştırmaktır.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answer": "False",
+    "explain_en": "Principled selection for context.",
+    "explain_tr": "Bağlam için ilkeli seçim.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "q2-16",
+    "type": "fill",
+    "prompt_en": "Presentation–Practice–Production is abbreviated ______.",
+    "prompt_tr": "Presentation–Practice–Production kısaltması ______.",
+    "answer": "PPP",
+    "explain_en": "PPP.",
+    "explain_tr": "PPP.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "q2-17",
+    "type": "mcq",
+    "prompt_en": "‘I’ve been to Paris’ vs ‘I went to Paris’ mainly shows a difference of…",
+    "prompt_tr": "‘I’ve been…’ vs ‘I went…’ esas olarak hangi farkı gösterir?",
+    "options": [
+      "Meaning/aspect use",
+      "Only spelling",
+      "Only handwriting",
+      "Only volume"
+    ],
+    "answer": "Meaning/aspect use",
+    "explain_en": "Concept contrast teachers must clarify.",
+    "explain_tr": "Öğretmenin netleştireceği kavram karşıtı.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "q2-18",
+    "type": "mcq",
+    "prompt_en": "During ‘students do the activity’, the teacher typically…",
+    "prompt_tr": "‘Öğrenciler etkinliği yapar’ sırasında öğretmen tipik olarak…",
+    "options": [
+      "Monitors",
+      "Leaves the school",
+      "Lectures over them continuously",
+      "Confiscates all pens"
+    ],
+    "answer": "Monitors",
+    "explain_en": "Monitor while they work.",
+    "explain_tr": "Onlar çalışırken izle.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "q2-19",
+    "type": "fill",
+    "prompt_en": "Task-Based Learning is abbreviated ______.",
+    "prompt_tr": "Task-Based Learning kısaltması ______.",
+    "answer": "TBL",
+    "explain_en": "TBL.",
+    "explain_tr": "TBL.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "q2-20",
+    "type": "mcq",
+    "prompt_en": "Scrivener’s view of methods is closest to…",
+    "prompt_tr": "Scrivener’ın yöntem görüşüne en yakın…",
+    "options": [
+      "Toolkit of options filtered by local context",
+      "One universal script forever",
+      "Never learn method history",
+      "Only entertainment methods"
+    ],
+    "answer": "Toolkit of options filtered by local context",
+    "explain_en": "Personal theory + context filter.",
+    "explain_tr": "Kişisel kuram + bağlam filtresi.",
+    "difficulty": "hard"
+  }
+]

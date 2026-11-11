@@ -1,0 +1,8 @@
+ocr_tmp/
+pdf_source/
+__MACOSX/
+php_server.log
+php_server.pid
+.DS_Store
+*.zip
+*.pdf

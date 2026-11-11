@@ -1,0 +1,1267 @@
+
+
+===== PAGE 227 =====
+: 6 Analysing communicative function
+Task 143: Filling in a function table
+
+i Try filling in the following version of the function table:
+
+| Sentence | Possible context | Who? | Possible meaning
+
+‘It’s midday.’ Pf Reminding him to phone.
+
+| ‘It’s midday.’ ee Warning her to do it now.
+
+: ‘It’s midday.’ Be inviting him to have some food.
+:
+
+Commentary a # &
+
+There are no right answers to this sort of task (though some answers seem less
+likely than others). Students often enjoy finding convincing but funny solutions.
+Everyday contexts are probably the most useful to explore, e.g. the first could be
+a girlfriend to boyfriend who has had a job interview and was told to call back at
+twelve o’clock to hear the results. Asking students to consider how to say this in
+
+: an appropriate way (and to practise it) is very useful.
+
+Working on appropriacy
+
+A lot of work in the area of function is to do with common sense and common
+
+: politeness — and most of all to do with an awareness of audience. This, of course,
+: is partly cultural. We can help students become more aware of appropriacy by
+getting them to consider:
+
+: ¢ Who are you talking/writing to? How well do you know them?
+
+‘ ¢ How formal/informal is the relationship?
+
+1 ¢ Where are you? What unwritten rules or codes of conduct apply?
+
+' Some ideas for integrating functional work into a course:
+
+: ¢ focusing on a functional area and studying a number of exponents;
+
+: * role-plays: considering what to say in particular relationships;
+
+' ¢ listening: working out relationships between speakers;
+
+: ¢ deciding how different situations make one sentence mean different things;
+
+¢ building dialogues and picture-story conversations;
+
+4 ¢ acting out play scripts;
+
+] ¢ writing letters to different people;
+
+‘ ¢ altering written conversations to change the relationship.
+
+Task 144: Relationships in functional exchanges
+
+' What is the relationship of the speakers in the following conversation? Keeping as
+} much of the original meaning as possible, change the dialogue to make it sound
+
+: like a natural exchange between (a) two close friends; (b) parent and young child.
+; A: \’m sorry to interrupt, but | was wondering if you wanted to break for lunch yet?
+: B: I’m afraid I’m still rather busy. But thank you very much for asking.
+
+j A: Perhaps I'll see you in the restaurant later.
+
+B: Yes. That would be nice.
+
+225
+
+
+===== PAGE 228 =====
+Ne arr
+
+Chapter 11 Lexis |
+1 What is lexis? '
+‘Teacher attitudes to vocabulary have changed a lot over recent years. The use of j
+
+the word /exis (rather than the more familiar vocabulary) reflects afundamental 4}
+shift in understanding, attitude and approach. The increasing availability of ]
+corpora (large computerised databases of analysable real conversations and other 4
+text), and dictionaries, grammar books and other resources based on them have 4
+revealed many surprising features of language that had been previously 4
+unrealised. An influential book, The Lexical Approach by Michael Lewis 1
+published in 1993, had a significant impact on the profession in raising awareness 4
+
+of the importance of lexis and of the weaknesses of much classroom vocabulary 4
+work. 4
+
+So what is lexis? Is it more than just a fancy word for vocabulary? How does lexis :
+
+. relate to grammar? I'll give some definitions on the next page, but first it maybe
+useful to see why there is a need for these different words. ’
+Task 145: Lexis compared with grammar 1
+Which of the following items would you consider appropriate for inclusion ina :
+lexis /vocabulary lesson (as opposed to, for example, a grammar lesson)? :
+computer, water, stock market, go off, pass the exam, swim against the tide, j
+
+it’s up to you 4
+Commentary 2am :
+When teaching, should we consider every set of letters that is bordered by spaces
+
+as a separate entity? Or does it make more sense to take some combinationsof 4
+words as a single grouping, a single meaning, a single lexical item? :
+Computer and water are familiar one-word vocabulary items, but what about stock 1
+market? These two words are regularly found together with a fixed meaning; this |
+surely counts as a single item of vocabulary (it has its own entry in the q
+dictionary). How useful would it be to only teach stock and market separately and |
+hope that the learners will somehow find a way of combining them to make a new ]
+meaning? Stock market is an example of a single lexical item, in this case withtwo §
+words rather than one. :
+One possible meaning of go offis explode (asin The bomb went off). Here (in
+contrast to stock market), the meaning is not guessable, even ifastudentknows ]
+
+the meaning of both go and off on their own. This two-word lexicalitem quite |
+clearly has an individual identity that is more than the sum of its parts — and it also
+
+has variant forms (go off, going off, went off, etc.). In class, weneedtodealwith |
+
+go off as a piece of vocabulary in its own right. 1
+
+In sewem against the tide, the four words have a specific, definable meaning
+(perhaps in another language it could be said in a single word). It is listed in {
+dictionaries (sometimes classed as an idiom). Do we need to teach this as a fixed +
+chunk of language? It seems to be a four-word lexical item ~ a single unit of :
+
+226 1
+
+
+===== PAGE 229 =====
+q 1 What is lexis?
+j meaning that requires four words to be expressed. If we change any one of the
+
+3 words, we lose the familiar chunk — swim along the tide or dive against the tide don’t
+
+4 seem to work in the same way. Similar chunks are jump on the band-wagon, kick the :
+4 bucket, paint the town red, put two and two together, have both feet on the ground, etc.
+
+4 Pass the exam doesn’t have quite the same kind of separate identity. The exam and
+4 pass seem more separable, i.e. we can think of lots of alternative words that could
+7 equally well go in front of exam. All the same, it’s clear that pass very often goes
+
+7 together with exam (as do fail, take, enter and a few other words). These are all
+
+a common collocations with exam, i.e. words that typically go together with that
+
+1 word. These are not fixed lexical items, but probable, common collocations.
+
+4 A more difficult problem is provided by expressions such as /t’s up to you. Is this a
+4 single lexical itern, or is it a sentence that a speaker (knowing the rules of
+
+: grammar) constructs afresh every time he needs 1t? Consider some other
+
+1 examples: [t’s all the same to me, What on earth ..., minding my own business, funny
+
+‘ you should say that, Sorry I’m late, wouldn't you rather ..., itll do, etc. These items
+
+; would probably not be found in most dictionaries, but, all the same, they do seem
+| to have an element of being fixed items, in the same way that individual words do.
+‘ It is now generally believed that native speakers do not construct expressions of
+
+1 this type word by word, but rather extract ready-made chunks of language from
+4 an internal store and then put them together with other language items in order to
+] express complete meanings. @
+
+4 Lexis, vocabulary and grammar: a summary
+
+j ¢ Vocabulary typically refers mainly to single words (e.g. dog, green, wash) and
+sometimes to very tightly linked two- or three-word combinations (e.g. stock
+
+4 market, compact disc, sky blue, go off).
+
+’ ¢ The concept of lexis is bigger. It refers to our ‘internal database’ of words and
+4 complete ‘ready-made’ fixed/semi-fixed/typical combinations of words that we
+{ can recall and use quite quickly without having to construct new phrases and
+
+q sentences word by word from scratch using our knowledge of grammar. Lexis
+; includes:
+
+7 a) traditional single-word vocabulary items;
+
+| b) common ‘going-together patterns’ of words (e.g. blonde hair, traffic jam).
+
+; These frequent combinations are known as collocations;
+
+j c) longer combinations of words that are typically used together as if they were
+: a single item (e.g. someone you can talk to, on-the-spot decisions, Id rather not
+
+| say). These longer combinations (which a few years ago would probably
+
+q not have been considered as anything remotely related to vocabulary) are
+
+j commonly referred to as chunks or sometimes as multiword items.
+(Categories b and c are both classed as lexical items.)
+
+{ ¢ Grammar refers to the generalisable patterns of the language and to our
+
+‘ ability to construct new phrases and sentences out of word combinations and
+
+i grammatical features (verb endings, etc.) to express a precise (and probably
+
+' unique) meaning.
+
+We could argue that collocations and chunks occupy an intermediate zone between
+q vocabulary and grammar (see Figure 11.1).
+
+‘ 227
+
+
+===== PAGE 230 =====
+Chapter 11 Lexis q a
+vocabulary 2
+= grammar ——
+lexis Yr _.
+single words . _.
+and fixed two-/ ; ‘ready-made’ formation of q —
+three-word collocations chunks new phrases 4 =
+ve and sentences Z =
+combinations 3 a
+Figure 11.1 Vocabulary, lexis and grammar ' 4
+Having said all that, most teachers still use the terms vocabulary and lexis fairly q _
+interchangeably. Similarly, as the term lexical item is quite a mouthful, staff-room q 3
+chat tends to avoid it, referring instead to words, collocations and chunks. The word “ee
+word is a useful shorthand for all three, and I shall occasionally use it as such in 4q a
+the rest of this book. =
+2 Lexis in the classroom | 3
+Lexis is a powerful carrier of meaning. Beginners often manage tocommunicate ae
+in English by using the accumulative effect of individual words. A student who 7 a
+says ‘Yesterday. Go disco. And friends. Dancing’ will almost certainly get much  @ae.
+of his message over despite completely avoiding grammar; the meaning is 1 4
+conveyed by the lexis alone. A good knowledge of grammar, on the other hand, ) 4
+is not such a powerful tool. ‘I wonder if you could lend me your ...’ means little . =
+without a word to fill the gap, whereas the gapped word —calculator-onitsown ie’
+could possibly communicate the desired message: ‘Calculator?’ 1 a
+A learner, recognising the communicative power of lexis, might reasonably aim 4 ce
+to acquire a working knowledge of a large number of words: “The more words .
+I have, the more precisely I can express the exact meanings I want to’. But (as : 4
+many of us will recall from our own studies of other languages) getting to be on | a
+familiar terms with lexis is quite difficult. The long lists of words and their q 4
+translations in our exercise books somehow always seem to defy memory, and | 4
+even when we can recall the word we want, it doesn’t always seem to fit | a
+comfortably into our own sentences. : a
+Perhaps the translation approach is part of the problem. Lexical items live within 3
+their own languages, and though a dictionary translation can give anintroduction |] a
+to the meaning of a word, it can never really let us into the secrets of how that | &
+word exists within its language. Instead, we are left with questions: oo
+* What lexical items have a similar meaning to this one? How do they differ in =
+meaning? | 4
+¢ Js this lexical item part of a family or group of related lexical items? What are a
+the other members? How do they relate to each other? 9
+¢ What other lexical items typically keep company with this one (often coming a
+before or after it in a sentence)? _
+¢ Is the lexical item normally used as part of a fixed phrase? q
+¢ What other lexical items can be formed by adding or taking away bits? 4
+¢ What are the situations and contexts where this lexical item is typically found a
+or not found? : 2
+228 .
+
+
+===== PAGE 231 =====
+4 2 Lexis in the classroom
+4 Many teachers find that a useful first step towards answering such questions is to
+; encourage (and train students in) the use of English—English dictionaries rather
+F than translation dictionaries. Such dictionaries usually offer sentences
+q exemplifying typical usage, notes on common sentence patterns, pronunciation,
+4 relationships with other lexical items, etc. Learner training in the effective use of
+: dictionaries gives students a valuable skill that they can use in and out of the
+4 classroom (see Chapter 14, Section 5).
+q You need to find other systematic ways of helping learners with lexis. Random
+4 explanations and examples off the top of your head in the middle of a lesson may
+4 solve unexpected problems on the spot, but lexical items dealt with in this way are
+1 unlikely to become a long-term part of the learner’s own store of English. In
+4 contrast, a systematic approach might devote lesson time to helping learners at
+q each of the following stages of learning lexis:
+4 When the learners ...
+F * meet new lexical items and understand their meaning(s), the ways they are
+j used and the other lexical items they often come together with;
+: * practise using the lexical items;
+7 ¢ find ways that help them memorise the lexical items;
+j ¢ recall and use the lexical items appropriately.
+3 An important consideration for planning lexis work is the distinction between
+q productive and receptive lexis. We all understand many more lexical items than
+{ we actually use in everyday situations; for example, in this section, you have seen
+: the words defy, conveyed, acquire and systematic, yet it is unlikely that you have
+: actually used any of these in the past few weeks. Our receptive lexis is the set of
+] lexical items that we recognise and understand, but tend not to use ourselves in
+: everyday speech.
+’ At beginner level, most new lexical items learned by students have obvious
+: immediate practical uses; they quickly become part of the learners’ everyday
+' English — their productive lexis. You can help this by giving students
+; opportunities to practise new lexical items in spoken communication. Good
+; pronunciation might be encouraged — getting the sounds and the stress right.
+: However, as students learn more and more lexical items, they will find that many
+; items seem less immediately useful and are perhaps only occasionally met with in
+the context of reading or listening material. There may seem less point in getting
+students to practise such lexical items. Work on pronunciation can still be useful,
+' but is more likely to be analytical (e.g. “Which is the stressed syllable?’) rather
+' than as part of communication practice.
+| The role of lexis in the classroom
+| Five initial conclusions:
+1 Lexis is important and needs to be dealt with systematically in its own right;
+it is not simply an add-on to grammar or skills lessons.
+2 Our job does not finish as soon as students have first met some new lexis; we
+need to help them practise, learn, store, recall and use the items.
+
+3 ‘Training in the use of English—English dictionaries provides students with
+
+a vital tool for self-study.
+
+229
+
+
+===== PAGE 232 =====
+Chapter 11 Lexis q
+4 We need to distinguish between lexis for productive use and for receptive | ’
+recognition, and adapt our classroom work appropriately. 4
+5 As we saw in the previous section, we need to deal not only with single-word 4
+lexical items, but also with longer, multiword items. }
+3 Lexis and skills work ,
+A great deal of lexis work in class occurs in relation to reading and listening tasks. | q
+There are definite advantages in this, most importantly because learners meetthe
+language in realistic contexts and see how the items fit into the meaningandstyle §&
+of a whole text. &
+"The text that immediately surrounds a lexical item is referred to as co-text. Co- q
+text provides important exposure for learners to samples of language being used.
+This suggests why texts are often more useful for teaching lexis than lessons that | 3
+focus on lexis as separated, stand-alone items without such surrounding language. 3
+When using reading or listening texts, a focus on lexis may occur before, while or — ; a
+after the students read or listen. |g
+Pre-teaching lexis 3
+‘The teacher may select some activities specifically designed to revise, teach and | a
+practise lexis before moving on to work on the text or recording. The lexis &
+selected for teaching is likely to be that most needed for completion of whatever 3
+listening or reading tasks are to be set. Although this is usually called pre- ; 3
+teaching, remember that this work may be helping students to recall items they | 2
+already know as much as introducing new items. The main aimistohelpensure
+that the following activity will work (because there will be fewer stumbling blocks | a
+of unknown lexical items). This work may, of course, also teach or revise some |
+lexis that may be useful in its own right. 4 7
+Task 146: Lexis and listening work | @
+The following audioscript is for a recording that will be used with an Elementary | q
+class. The students have recently been working on ways of describing position : a
+(next to, behind, beside, etc.). Their task when listening will be to look at a picture 1 4
+(Figure 11.2) and note the mistakes. | 3
+Read the audioscript and underline three or four lexical items that you might pre- q
+teach. What other items do you think students will need (or want) to understand?
+Audioscript &
+Well, he’s made a few mistakes, hasn’t he? This place selling snacks—that should} .
+be a souvenir shop, shouldn’t it? So, change that name from ‘Snacks’ to ‘Gifts’. | 2
+Yes, itll be selling postcards and toys and things. And why is the phone box over E
+by the lake? I’m going to sack that artist when I see him again! He’s absolutely | 3
+incompetent. He gets twice my salary and can’t do a basic sketch. I mean, we | 4
+wanted the phone next to the shop, didn’t we, not over there by the lake. Yes,on
+the right of the shop, by that street lamp. And I think there should be aletterbox 9%
+there as well, on the wall of the shop would be fine. And there aren’t enoughtrees | =
+—we could do with a lot more trees — beside the lake, along the edge of the water. .
+Yes, that looks better. : 4
+
+
+===== PAGE 233 =====
+3 Lexis and skills work
+. or . T Series
+\ AP ZAIN B— fF 2 Aer
+x. | | | | | . K — & | =
+eA
+BOF ism ae Gillinggs: 2 Mee
+AIG) | Aan se wd
+SY) LAS e) Hie eisd: a 1 SS
+NS @ 9 DOB aN
+ABSA fe RS OEE Ly
+SNA SS aii Ns
+Quit is Th ‘ INS
+Strath Sy \\e
+CRA ZA =
+. A (( _—
+WEE —_
+<
+ECS
+Figure 11.2. © Amusement park
+Commentary 8 a
+The following lexical items are useful to do the task: snacks, souvenir shop, gifts,
+phone box, street lamp, letter box, trees, edge.
+Note that sack, artist, absolutely, incompetent, twice, salary, basic and sketch,
+although probably unknown to the students, are not necessary in order to
+complete the task, and therefore do not need to be pre-taught or otherwise
+focused on. It is likely that you would not deal with them at all, unless a student
+specifically asked about them.
+Here are some common pre-teaching tasks of the kind you frequently find in
+coursebooks.
+¢ Match the words with the pictures.
+* Check the meaning of these words in the dictionary.
+¢ Match the words with the definitions.
+¢ Brainstorm words on a set topic (1.e. collect as many as you can).
+¢ Divide these words into two groups (e.g. food words and hobby words).
+¢ Label the items in a picture with the right names.
+¢ Complete gapped sentences with words from a list.
+¢ Discuss a topic (that will feature in the text).
+¢ Say which words (from a list) you expect to be in a text about...
+In addition to these ideas, you may want to do some teacher-led presentation or
+clarification. You could use ideas from Presenting lexis (page 234), for example
+offering students definitions or illustrations of words and eliciting the items from
+learners.
+231
+ey
+
+
+===== PAGE 234 =====
+Chapter 11 Lexis ; a
+Using short anecdotes for pre-teaching | .
+One difficulty you may find when planning pre-teaching is that you have quite a ] 4
+random collection of words, and it may be hard to organise the teaching into a 4 .
+coherent shape. One strategy teachers often use is to concoct a short story 4 a
+(perhaps a personal anecdote) that includes each of the separate items. The story @aRRE.
+can be designed to help make the meanings of the items clearand memorable. It @a
+may be similar to the text that students are going to read or listen to, but it 4 3
+shouldn’t be so close that it diffuses later interest in working with that text. When 4 =
+the story has been prepared, you can: ; _
+¢ tell it, miming or showing flash cards or board drawings, etc. to illustrate 4 a
+
+meanings as you go; [|
+¢ tell it, explaining or translating meanings as you go; ; =
+* tell it, asking comprehension questions and concept questions as words come @aee
+up in the story; 2
+* tell it, asking comprehension questions and concept questions afterwards; F 4
+* tellit, pretending to forget the words as you tell the story. Elicit the words from @aRe
+students; 4 a
+¢ tell the whole story once with the lexis included, then retellitand ‘forget’ the | —
+items (as above). | @
+Note that pre-teaching is not compulsory! It may sometimes interfere with or ] a
+undermine the aims of your reading or listening work. For example, ifoneofthe 4 a
+aims of a reading task is that learners read quickly and do not get worried about j a
+lexical items they don’t know, you may upset this by dealing with some of this ; 3
+potentially unknown lexis before they even start the task. : a
+Task 147: Planning a story including specific lexis | 4
+Work out a short story you could tell to help students at Elementary level j &
+understand the meaning of the following lexical items: bridge, basket, goldfish, =
+library, map, photographer. _
+Dealing with lexis during and after reading or listening work _ a
+During listening or reading work : a
+While students are mainly working on reading or listening skills, you are less likely 4 a
+to spend time on lexis, as this might clash with the reading, listening or other _
+aims. During such stages, you are likely only to: , 3
+* deal with an item when a student specifically asks about it; a
+* give brief, to-the~point explanations or translations, rather than detailed | «=
+presentations; | =
+* offer help quietly to the one or two students who ask, rather than to the whole | -
+class; —
+* sometimes refuse help and tell students to do their best without knowing some @ae
+items. _—
+
+
+===== PAGE 235 =====
+q 3 Lexis and skills work
+j After the first phase of listening or reading work
+j Once the learners have become comfortable with the text, you can focus attention
+q on lexical items in the text and how they are used. Here are some things that you
+’ could ask:
+4 * Can you guess the meaning of this word from the meaning of the text around it?
+: ¢ Find some words in the text that mean ...
+‘ ¢ Find some words in the text connected with the subject of ...
+‘ ¢ Inline X, what does ... mean?
+d ¢ Find words and sort them into three separate groups under these headings: ...
+3 * Why does the writer use the word ... here?
+‘ ¢ Find words in the text that match this list of synonyms.
+; ¢ What words come before/after the word .... What other words collocate with
+4 this word?
+4 ¢* Can you remember any other phrases you know with this word in them?
+‘ ¢ Can you find any multiword items (1.e. groups of words that go
+together/chunks) ?
+‘ ¢ What’s the opposite of this word?
+; ¢ How many different words does the writer use to describe the ...?
+' Lexis work after the main stages of reading or listening work
+j Coursebooks frequently offer follow-up tasks and exercises that focus on the use
+: of lexis in the text and encourage learners to try using the items themselves.
+j These are often similar to the practice activities we'll look at in Section 5 of this
+: chapter.
+: Lesson procedures
+Here is a brief lesson procedure for a reading and speaking lesson including lexis
+‘ work at Elementary level for a multinational group of young adults who have
+i recently travelled to the UK.
+/ 1 Pre-teach lexis
+: Use board pictures to draw an airport. Elicit the following items (and clarify
+those they don’t know): plane, check-in, take off, delayed, passenger, customs, first
+: aid, bureau de change. Practise pronunciation. Focus on getting the stress
+; correct. Make sure students get oral practice.
+: 2 Written practice of lexis
+Give each student a handout showing photos of an airport, with a list of lexical
+items around the edges. Students match the lexical items to objects in the
+picture by drawing lines.
+3 Oral practice of lexis
+
+Put students in pairs. Ask them to think about the last time they used an airport
+| and describe to each other the procedure from arrival to the moment they took
+off. What did they like or not like about it?
+4 Reading to find specific information
+Use a Heathrow Airport information leaflet for a fast-reading exercise.
+
+Students have to find the answers to ten questions as quickly as possible,
+
+e.g. What time does the bureau de change close? (The questions should involve
+using the lexis taught in Stage 1.)
+
+233
+
+
+===== PAGE 236 =====
+Chapter 11 Lexes 7 3
+5 Further lexis work : | 3
+When they’ve finished, ask questions to focus them on Arrivals, Departures, q : .
+Duty Free, Immigration, Baggage Claim, plus any useful lexical items the j 3
+students ask about. 4 4
+6 Communicative activity (an opportunity to use lexis learned) : a
+Role-play in small groups: one student in each group Is at the Information 4 4
+desk; the other students have various problems and come to get advice. 1 3
+Task 148: Planning a procedure for a lexical lesson _
+Prepare a similar procedure for a lesson focused around lexis to do with the i i
+countryside. _
+| Task 149: Selecting an order for a skills and lexis lesson |
+Here is a procedure of a reading, speaking and lexis lesson for Advanced q a
+students. Put the stages in a likely working order. 4 a
+a Set the task: read the article and find two arguments for banning all cars and 4
+two against. : a
+b Simulation: a formal meeting of the two opposing sides is held at the United ‘
+Nations. 1 <
+c Elicit/teach lexis that students have seen in the text: scaremongering, pressure Zr
+group, target, manifesto. : 4
+d Show picture of the Earth. The globe has a cartoon face and is sweating and |
+mopping its brow. Elicit what it means (global warming) and find out student _.
+Opinions. | 3
+e Elicit/teach ozone layer, iceberg, extinct, exhaust fumes, ultra-violet. ; *
+f Divide students into two opposing groups and have them use the article to help | a
+prepare a detailed argument either for or against. Help with lexis problems a
+while they are working. | =
+g Students read the article and do the task. Discuss the answers together. | 4
+Commentary H&B |
+A possible order would be: d, e, a, g,c, f, b. 4
+You can find more about focusing on language when working on reading or a
+listening texts in Chapter 12. gg
+4 Presenting lexis 4
+You may sometimes want to offer a short, teacher-led focus on the meaning, form ie
+and use of lexical items. This may be to clarify a single item, perhaps when a | 4s
+problem comes up unexpectedly in the middle of a lesson, though more often you #ie.
+will group items together and teach a small set at the same time. Itis usually most 7a.
+useful when the lexical items presented are connected in some way, forexample: | 3
+¢ words connected with the same location or event (e.g. shop words, wedding 1 3
+words); .
+* words that have the same grammar and similar use (e.g. adjectives todescribe (ie
+people, movement verbs); 3
+¢ words that can be used to achieve success in a specific task (e.g. persuading a | 4
+foreign friend to visit your town). 4
+234 4
+
+
+===== PAGE 237 =====
+it
+
+4 Presenting lexis . |
+
+Task 150: Grouping lexical items for teaching | |
+
+Think of one or two other ways to group lexical items for teaching. | q
+Presentation techniques for lexis | |
+If you just want to quickly convey the meaning of one or more lexical items, there |
+are a number of ways you could do that. ‘The most common technique probably
+involves a presentation-practice route: ‘|
+e Present: you first offer some cues, pictures or information about the target |
+items and elicit the words from students or model them yourself; 7
+
+¢ Practice: you then get the students to practise, e.g. by repeating items, using |
+
+them in short dialogues, etc. {
+
+"These techniques are similar to those used in the present-practice section on i
+
+grammar (see Chapter 12, Section 4). :
+
+Alternatively, there are many other ways to convey meaning. For each lexical item | i
+
+in the following random list, ’ve suggested a different way that you could help 4
+
+students begin to learn the meaning. i
+
+gloves Mime putting them on. | i
+
+disgusting Mime (e.g. smelling old food) and make a facial :
+expression. :
+
+swimming ‘Translate it. :
+
+café Draw a quick sketch on the board or show a flashcard or |
+
+picture in a book. a
+
+often Draw aline. Mark never at one end and always at the if
+
+other. Mark points along it: usually, rarely, etc.
+
+chase Get two or three students to act it out. i
+
+frightened Tella personal anecdote. 3
+
+crossroads Build a model with Cuisenaire rods or toy construction |
+
+bricks. q
+
+window sill Point to the object. 4
+exploitation Explain the meaning (with examples). |
+
+hope Read out the dictionary definition. 7.
+
+putup with Tellashort story that includes it. q
+
+stapler Bring one into class to show them. |
+
+put your foot down Act outa short conversation. .
+
+contact lens Students who know explain to those who don’t. ¢
+
+reduction Draw a diagram or graph. {
+
+Some of these ideas used on their own might seem more time-consuming than is j
+
+worthwhile for a single word. However, they may be valid if they are generative, |
+i.e. if they also allow you to introduce other items using the same technique, :
+context or illustration. For example, the idea given above for crossroads involves §
+using Cuisenaire rods to make a little road scene, which presumably would take a :
+
+minute or so to set up and introduce. That might arguably be long-winded, but -
+
+becomes more usable if, having set up the scene, you can then also easily teach 4
+traffic lights, zebra crossing, signpost, traffic using the same situational context. |
+Bear in mind that, whatever you do, the stand-alone words are not much use on
+their own. For example, disgusting as a single word has some use but is limited. a
+
+
+===== PAGE 238 =====
+Chapter 11 Lexis q
+But if students know that they can smell food and say ‘Ooh! That’s disgusting!’ ' a
+and “That café was absolutely disgusting!’, it starts to become a really usable item. ] a
+So, if you present lexical items, remember not just to teach isolated items, butto j a
+make sure that learners get to hear and use them in realistic sentences. 4 4
+Task 151; Teaching ideas for lexis =
+a Add anew teaching idea to the list above. | | a
+b Continue the list with teaching ideas for the following words: Wednesday, d Po
+
+tunnel, chilly, overtake, vodka. - 4
+A simple lexis-presentation activity at Beginner or Elementary level might involve q
+using techniques such as these to introduce students to a short list of new lexical J =
+items. This input (i.e. teaching) of new lexis would probably be followed by a 8
+practice activity in which students could find ways to use the words that theyhad ae
+just met or revised (see the next section). —
+However, even if you have used these techniques in class, you can’t really say that 4 4
+the students have learned the new item. The first meeting with alexicalitem (in ae
+class or elsewhere) is only one step. Coming to really learn the scope and limits of @ae-
+a lexical item is a long and gradual process; a lexical item learned initially at ;
+Beginner level (for example, book) can go on revealing more and more of itself ] a
+even up to Advanced level (to do something by the book, bookworm, bookish, little >
+black book, to throw the book at at someone, to book someone, etc.). The list of 1 =
+teaching ideas for swimming can be extended to include some ways of studying ' 3
+this lexical item beyond a first meeting, for example: /  &
+¢ draw a circle with the word swimming in the centre. Add lines leading from this} a
+word to a variety of collocations or phrases: ~ pool, ~ lesson, ~ trunks, Shallwe ie
+go ~, etc. These items could be elicited from students, searched for in 4 a
+dictionaries, found in texts, etc.; 1 a
+* use swimming as starting point and collect a number of connected lexical items, a
+e.g. water polo, diving board, deep end, crawl, etc.; = -
+* collect grammatical variations on swimming, e.g. swim, swam, swum, swimmer, 4 ..
+swimmers. | @
+‘The teaching ideas in this section are mainly to do with showing, illustrating or | a
+demonstrating the meaning. This is possible for many words (particularly | 3
+tangible, visible objects or simple verbs), but problematic for more complex . 4
+meanings (e.g. superficial, revelation, avert). In such cases, learners are likely to ' .
+need to see or hear words in specific contexts in reading texts or listening | @
+materials. | a
+5 Lexical practice activities and games fg
+After students have seen and heard a new lexical item for the first time, they will Jae
+need opportunities to become more familiar with it, to practise recognising, 4
+manipulating and using it. Many simple lexical practice activities are based . a
+around the following ideas: : q
+¢ discussions, communicative activities and role-play requiring use of the lexical | q
+items;  §
+¢ making use of the lexis in written tasks. 4
+
+
+===== PAGE 239 =====
+S Lexical practice activities and games
+: ‘There are many published exercises on lexis. These include:
+¢ matching pictures to lexical items;
+¢ matching parts of lexical items to other parts, e.g. beginnings and endings; |
+: ¢ matching lexical items to others, e.g. collocations, synonyms, opposites, sets of
+related words, etc.;
+; * using prefixes and suffixes to build new lexical items from given words;
+¢ classifying items into lists;
+¢ using given lexical items to complete a specific task;
+be ¢ filling in crosswords, grids or diagrams;
+¢ filling in gaps in sentences;
+* memory games.
+| Many such tasks seem to be designed for students working on their own, but can
+; easily be used in class.
+: Task 152: Using lexical practice exercises in class
+This is a practice exercise from a lexis book for Beginner/ Elementary students.
+| How could you use it in aclass of students?
+; W ovS) Fam
+Which word is different from the others? 5 2 \
+. AY 1 Road 5 Gallon (\
+: NA Bottle a i a
+| Street Litre “ Kaa
+[| 2 Book 6 Boss SS C >
+Magazine Wife
+Television Son
+Newspaper Daughter a
+3 Arm 7 Doctor NW : :
+o> Hea K
+From Word Games with English 1, Howard-Williams and Herd (Heinemann, 1986)
+Commentary 8
+There are many options. For example:
+* You could ask each student to do the exercise on his/her own.
+¢ Students could work together in pairs or small groups to find the answers
+(possibly comparing with other pairs later).
+¢ The whole class could decide on answers together.
+¢ You could make teams and the exercise could be run as a competition, giving
+questions in turns to the separate teams and awarding points for right answers.
+237
+eC
+
+
+===== PAGE 240 =====
+Chapter 11 Lexis ' 4
+You could also use this exercise as source material for a series of activities, ; a
+perhaps getting students to: _
+* match word groups with the pictures; 1 .
+¢ look up any lexical items they don’t know in their dictionaries; z=
+* explain new lexical items to other students; q —
+¢ do the exercise in pairs; _.
+¢ check and compare answers as a whole class; . =
+¢ in groups, write their own questions in the same style; q .
+* use the new questions as a quiz between teams. @ _.
+This kind of practice is mainly focused on reading and writing and on using the a
+lexical items individually and away from any context. The students arelearning ay
+about the lexical items rather than actually using them. In lexis work, you also | &
+need to provide chances for students to get oral and/or written practiceinusing a
+the lexical items. —
+Task 153: Lexical items in a practice task _
+Here are two exercises from a higher-level lexis book. List ten or more items of |
+
+. lexis that students will practise when they do these exercises. a
+Practice 4
+Write or discuss the answers to these questions. =
+
+1 How much do you know about each of the planets in our system? 4 4
+
+2 How far do you think man will get in space discovery in the next a
+
+hundred years? |
+
+3 Dowe really need to know what other planets and systems are like? - @
+
+You are an astronaut reporting back to Earth from outer space. : a
+
+Describe what you can see as you float through space. | 2
+
+From Wordbuilder by Guy Wellman (Heinemann, 1989) | 3g
+Commentary 8 #& | 4
+Some possible lexis: planet, solar system, Earth, Mars, Fupiter, Saturn, etc., Sun, 4
+star, galaxy, UFO, comet, spaceship, satellite, moon, rocket, alien, black hole, rings, —
+asteroids, speed of light, ET, etc. | =
+Many practice activities combine giving the students a list of lexical items and 3
+setting them a task to do with those lexical items. The practice activity in Task | 4
+153, for example, is preceded in the book by an activity that focuses the students am
+clearly on a large number of useful lexical items. &
+Task 154: Designing a task for specific lexical items 4
+Look at the picture and lexical items on the next page. Design a task that will give | 4
+students written or oral practice in using a number of these lexical items: cash -.
+register, shop assistant, trolley, credit card, expensive, thief, purse, change, 4
+shopping bag, receipt, customer, pay, paid, shopping (noun). 4
+238 | 4
+
+
+===== PAGE 241 =====
+; 6 Remembering lexical items
+IS ESE Sy ES aay 7
+’ —_ == . = 7.
+a Zt — \ — “as
+Sa A Ny |
+| Commentary HH @
+) Here are four ideas:
+1 You were at the shops yesterday and you lost your purse. You think another
+: person took it. Look at the picture and think about your story. The other
+: student in your pair is a policewoman. Tell her exactly what happened.
+2 Do you like shopping? What are some of the problems? Perhaps this picture
+will give you some ideas. Write five or six sentences about what you like and
+; dislike. When you are ready, compare with other students.
+| 3 Get into groups of three. Look at this picture. In your group, one student is this
+man, one student is the shop assistant, and one student is this woman. First of
+| all, think about what they are discussing. Are they arguing? Why? Then stand
+| up and practise the conversation.
+| 4 Write a strong letter of complaint to the manager of this shop about a terrible
+; incident that happened to you yesterday.
+| 6 Remembering lexical items
+‘There is no point in studying new lexical items if they are not remembered. Many
+students record newly learned lexical items in long lists in their files or exercise
+books. In many cases, these lists are disorganised and are often never looked at
+again after they have been written. If we can train students to record their new
+lexis in a more useful manner, we can do a lot to help their progress.
+239
+
+
+===== PAGE 242 =====
+Chapter 11 Lexis a
+Task 155: Student word lists -
+Here is part of a word list from an Intermediate-level Xanadusian student’s 4
+exercise book. Find some reasons why it is not as useful as it might be. 4
+
+Word Translations |
+express atcito 3
+opt out organo kotor nganinot 4
+megumba stron 4
+(ff skulo, firmo) | 2
+star galactio 4
+interview tuo baire medjurma a
+shun bacawao ina terusco a
+kinsman megrobaro a
+foyer auditorio pri mecxt 3
+piss kchir 3
+pottery oborosto a
+o'er tubea 4
+hotchpotch senico kotor emio ina tulmulenco |
+semi-conductor semikonductto 2
+prosecuted epallis na magistralo a
+Commentary # = & .
+Some reasons: s
+¢ The items on the list seem to have no connection with each other. They appear 4
+to be arandom list (possibly written down in order of appearance in a text). | 4
+¢ There are no other words that might be useful in situations where one needs -
+to use one of these words (e.g. foyer: dress circle, stalls, stage, aisle, etc.). 3
+* How are they pronounced? Where is the stress (e.g. prosecuted) ? a
+¢ There are no examples of the words in use, in sentences. a
+¢ Are the words usable as nouns, adjectives, verbs, etc. (e.g. interview) ? A
+¢ How many different meanings does each word have (e.g. star)? a
+¢ What other words are connected in form to any of these words (e.g. interviewer, 3
+interviewee, interview room)? _
+* There is nothing to help the students remember the lexical items. 4
+¢ Where might one typically come across these lexical items (e.g. Trespassers will .
+be prosecuted, We prosecute all shoplifters) ? -
+« Who uses them? a
+¢« Some of the lexical items are very specialised and would only be used 1n very @
+specific contexts; not necessarily very useful to learn for active use (e.g. opt a
+out). 4
+¢ Some words may be archaic or literary, not used in contemporary speech. 4
+‘There is no indication of this restriction. (e.g. o’er, kinsman). 4
+* What collocations are common (e.g. job interview) ? | q
+¢ There are not always direct translations; perhaps a complex cultural idea is 3
+being conveyed that four or five words cannot really explain (e.g. opt out). 4
+¢ No indication or warning of taboos (e.g. piss). 4
+240 3
+
+
+===== PAGE 243 =====
+6 Remembering lexical items
+Alternative ways of recording lexis
+: ‘The action of noting down a list of lexical items is no guarantee that remembering
+will take place. Remembering involves four things:
+: ff yw " ge 2
+: C7 @& a
+: a af YS 9 into Storage
+Putting into °°" NSN
+| Sa
+Figure 11.3. The four things involved in remembering
+Figure 11.4 shows an alternative lexical item list that should provide more
+information than the one in [ask 155. Fill it in for two or three English lexical
+items of your choice. (Decide yourself how you want to interpret the column
+titles; the last column is intended for the student to think of some ‘bright idea’ to
+help them remember the word — something it sounds like, a sketch or whatever.)
+A full, photocopiable version of this is given in Resource 18 in Appendix 2.
+Lexical item Translation | Grammar | Collocations | Example | Idea
+motorcycle /‘moutasartkal/ pikipiki noun ridea~, She’s just
+getonmy~, bought a an
+~ maintenance, 600cc OC
+~ race, Suzuki
+~ courier motorcycle.
+Figure 11.4 — Alternative lexical item list
+Encouraging students to keep a useful lexical item list is one way to ensure that
+the teaching of lexis has a value after the lesson is over. It is also possible to
+integrate the teaching and the storing of lexis in a more direct way by introducing
+the lexis into the lesson in a way that enables the students to record not only the
+word but also the way in which they learned the word.
+241
+
+
+===== PAGE 244 =====
+Chapter 11 Lexis a
+One way involves grouping words so that a set is learned together. This is often 1 a
+more effective than studying unrelated individual words. For example, youcould 4 4
+present a set of words connected with kitchens by using a picture of a kitchen q
+(Figure 11.5); the students each have a copy of the picture and write the words j a
+on it as they learn them. | 3
+
+L, Gee teSsSe~w ee \ FF
+ed —= Lo A K NOW
+Figure 11.5 = Kitchen vocabulary q |
+A similar idea is to build a word web (or memory map or mind map, as it is q 3
+sometimes called) where connections in meaning or use between different words | .
+are visually indicated in the structure of the diagram (Figure 11.6). Obviouslya
+completed word web could be presented to the students, but itis probably more 3
+useful for the students themselves to think through the connections and to decide
+where each new word fits on the plan; thus the learning of new words and the | 4
+recording of them are part of the same activity. , 4
+Cherub
+infant < Caw | 3
+babe (in arms) a
+BABY =
+Cot a
+tiny pram | 3
+cute push-chair .
+sweet high chair | 4
+nappy a
+Figure 11.6 Word web |
+Task 156: Recording words in student notebooks
+Figure 11.7 (pages 243-4) shows four examples of sets of words recorded in ‘
+students’ notebooks, using a number of different ideas. In each case, they 4
+represent the end result of a lesson procedure used in class. Read the brief q
+lesson descriptions written by students — (a) to (d) (see page 244) — and match j
+each one to a diagram. Try the tasks yourself. P
+242 |
+
+
+===== PAGE 245 =====
+6 Remembering lexical items
+1
+ice |
+rain stream
+frost river
+snow waterfall
+WATER
+Swim
+dive
+paddle.
+@
+Q @
+2 oy 4 o & > @ iS
+& > @ /. S/
+£/ 8/2) 90/2/8/8/8/8/8/ §/2/E/ €/ &/ 8S
+S/ESESEI S/T) S/BS/ T/L L/S/S/ F/S/ S/L
+From The Words You Need, Rudzka, Channell, Putseys and Ostyn (Macmillan 1981)
+o << or ene By
+er. oe ain ee
+. LEG = 2
+<> = ae w <> ohn, ;
+Ss ea “s e Py
+wy 4 Le editorial 4 N
+Pee fe a
+O% 6
+Q \ a3 a S ee
+WW
+&% SPS. swan 0
+£ pee
+| 0 «)
+m G =
+Oe, NS iS “IY aa
+vA
+| ! oO
+| Figure 11.7. Ways of recording words
+243
+
+
+===== PAGE 246 =====
+Chapter 11 Lexis q a
+fo s se / 5 if, €f / | 3
+© 2.0 , ® f/f Sco 7. "
+eo f @ o a =
+i &e (££ J ee fe ef s
+. ss / gs = & ee / ss f/f. EC
+se of . f = o os 7 & os Le 3
+w/ fe (sy 8S £ SS 7 BS fe 7
+a
+From The Words You Need, Rudzka, Channell, Putseys and Ostyn (Macmillan 1981) 4
+Figure 11.7. Ways of recording words (continued) a
+a The teacher asked us to consider each word in turn, and we discussed the fine 7
+differences in meaning between them and tried to come to some agreement. 3
+We didn’t always agree, but | think the discussion itself was very useful, as | 3
+became more aware about how subtle and precise meaning can be. | especially 4
+liked it when | realised that the teacher wasn't always entirely certain herself 2
+about what made one word different from another. 4
+b The teacher wrote one word on the board and then added a few examples, then 3
+she gave the pens to us and we had to add other words. If we made a mistake, 4
+got the spelling wrong or put a word in the wrong place, then she didn’t correct 3
+us. She didn’t need to, because usually one of the other students noticed it 4
+was wrong and we discussed it and then changed it. At the end, when we’d q
+filled the board, the teacher pointed out three words that were still problems. 7
+Then we copied it all down into our notebooks. We used the words in our next E
+activity making a story about a hike in the countryside. a
+c We had to find our own way to remember some new words. As we learned each 4
+new word, we had to write it down in an appropriate place, finding a strong z
+reason for putting it there. The teacher said we should try to make a mental link 2
+or association with that part of the picture; for example, one of the words was 3
+spanner, so | wrote it here and tried to imagine an Australian beach with a 3
+surfer coming in on a spanner instead of a surfboard. It sounds a bit crazy, but} a
+haven’t forgotten the word! 4
+d We worked in pairs trying to decide which words typically went together with 3
+other words, and which combinations were impossible. Our teacher told us that x
+this ‘going together’ is called collocation. E
+
+
+===== PAGE 247 =====
+i
+7 6 Remembering lexical items
+| Word page: Collocations and chunks
+‘This page is for recording lexical items that typically go together in patterns with
+: a single key word. ‘The learner writes the key word in the centre box and then uses
+the columns before and after the box to write in phrases, sentences, chunks, etc.
+| For example:
+There was a terrible jam round the ring road.
+OO
+Lexical item page: Topic webs
+Learners write a topic in the centre box and then add some useful sub-headings
+in the other boxes. ‘Then they collect and group words under these sub-headings,
+connecting each new word by a line to the appropriate box. ‘Thus, for example,
+the centre word might be station, some sub-headings could be places, timetable,
+people, things to buy, etc. Lexical items within these categories might include:
+places — platform, booking office, waiting room, ticket window, etc.; timetable —
+departure, delayed, ten minutes late, etc.; people — guard, ticket inspector, clerk,
+driver, etc.; things to buy — A single to X, please, A return to X, please, A day return
+to X, please, etc. (see Figure 11.8). This way of recording lexical items may reflect
+more accurately the way that we store lexical item networks in our brains — and
+may therefore be more useful for students than the traditional lists.
+platform
+booking office }—| the window |
+STATION
+single to X, please.
+delayed “2 P
+A return to X, please’
+‘A day return to X.
+Figure 11.8 ‘Topic web
+245
+er
+
+
+===== PAGE 248 =====
+Chapter 11 Lexis 4 a
+Lexical item page: Lexical item collector . 4
+‘This page can be used to record lexical items and then collect and relate items, ; a
+classified as different grammatical types. For example, if the student has found fF 4
+happy, they could then go on to find and record happiness and happily. 4 a
+
+Noun Noun Adjective Verb Adverb Phrases =
+(thing) (person) (present — past — : =
+past participle) q 3
+
+happiness happy happily Happy birthday! i a
+I'm not happy. .
+
+‘There’s no need to fill in all columns. Different lexical items will let you to fill in 4 a
+different columns. _
+Noun Noun Adjective | Verb Adverb _
+(thing) (person) (present — past — . 2
+past participle) 4 s
+
+report reporter | reported report — reported — 3 q
+reported . #
+
+7 Knowing a lexical item fr 3
+Task 157: ‘I know this word already’ Pog
+You're in the middle of teaching some ‘new’ words in a lexis lesson when one of ; a
+your students politely interrupts and says that he knows all these words already. | 4
+What do you think he means by ‘knowing a word’? 4 a
+Commentary sm 5 _
+He probably means that he has seen it before and knows a meaning for it. Quite a 4 q
+few students seem content with this; lexis learning involves matching ameaning a
+in their language with an English word. But this definition of ‘knowing a word’ is ae
+fairly limited. Does he know more than this basic meaning? Can he actually use  @ae
+the word appropriately to do things in a variety of contexts? _—
+Many teachers assume that the real work of teaching lexis is introducing students ee
+to the meanings of new lexical items, and perhaps to the spelling and the 4 a
+pronunciation. In fact, much of the difficulty of lexis isn’t to do with learning : a
+endless new words, it’s learning how to successfully use words one already knows, 4 4
+i.e. learning how ‘old’ words are used in ‘new’ ways. For example, the word table + 3
+might conceivably be first met on Day 1 of a beginner’s course. But it’s unlikely to 4
+be fully explored and used, even as the student reaches advanced levels. Fromthe 4 a
+basic ‘core’ meaning of table (a piece of furniture), we find there are various other j .
+meanings that grow out of that: the food spread on it to make a meal, the guests
+you meet at the meal, to table a motion, a table of data, a games surface, football 4 a
+league lists, part of a musical instrument, to postpone, etc. It also features in j a
+many chunks and idioms, e.g. Do you have a free table?, a round-table discussion, to | @
+set the table, to be under the table (= drunk), etc. To learn your way round allthese <@e
+takes time and requires exposure to a lot of samples of language in use. 4 .
+246 i 3
+
+
+===== PAGE 249 =====
+| 7 Knowing a lexicalitem
+4 What are some things you can know about a lexical item?
+3 which syllables are stressed Short words usually have one main stress;
+4 longer words may have a number of secondary
+j stresses, too.
+j which stresses are stronger
+E or weaker
+‘ grammatically related forms e.g. the past-tense form of a verb
+’ the basic, ‘core’ meaning e.g. table = piece of furniture with a flat
+j surface and legs
+' the ‘semantic space’ it occupies | Where the meaning of one word ends and
+‘ another begins; for example, fence/wall/
+{ hedge
+: metaphorical meanings e.g. the uses of ‘water’ words to talk about
+} business: drowning in debt, cash flow, etc.
+j connotation The associations and ‘feelings’ that seem to
+j attach to words quite apart from their literal,
+: ‘dictionary’ meaning, e.g. junkie sounds more
+disapproving than drug user.
+| appropriacy for certain social e.g. It may not be appropriate to call a job
+situations, contexts, etc. interviewer mate.
+immediate collocates Words that typically go with the word
+collocational field The range of words that an item collocates
+| with
+| colligation The grammatical position in a sentence that
+| the word typically takes, and the grammatical
+patterns that typically go with this item.
+common chunks, phrases,
+idioms it appears in
+—
+247
+1
+
+
+===== PAGE 250 =====
+Chapter 11 Lexis 7 a
+translation(s) words often do not have a precise Correlation 1 4
+false friends Words which in translation suggest a wrong 4 4
+
+meaning, e.g. in Hungarian kastély looks _—
+similar to the English castle, but in fact . &
+means palace. _
+true friends Words which mean almost precisely the same 4 a
+in the other language. _
+lexical families Other words related to the word by its topic, q a
+e.g. saucepan, frying pan, can opener, ladle, 1 a
+food mixer, etc. , 8
+lexical sets Many words are related to other words that ] a
+cover a wider or smaller range of meaning, . 3
+e.g. sweater is included within c/othes. ; a
+Similarly sweater itself includes polo-neck . &
+sweater. | @
+synonyms Words that mean the same or nearly the | a
+same. | 4
+homonyms Words that have the same spelling but have a
+different meanings. | 3
+homophones Words that are pronounced the same but q
+have a different meaning. : 4
+suffixes that can be added to e.g. possess — possession a
+the word -
+prefixes that can be added to e.g. flow — overflow 4
+the word | 3
+the visual image people q
+typically have for this word a
+mnemonics (things help you 4
+remember the word) 4
+Now this, of course, is a massive list. There is no way that an initial classroom 4
+meeting with a lexical item could deal with more than two or three of these. q
+Naturally, therefore, initial teaching tends to prioritise on core meaning, spelling q
+and pronunciation. However, problems arise when classroom work continually E
+focuses on introducing more and more new items in this way — and doesn’t 4
+explore in more depth. By Intermediate level, most students will have met a large .
+percentage of the most useful English lexical items. It’s arguable that by this point 4
+in a learner’s progress, it becomes more important to explore uses of lexical items q
+248
+
+
+===== PAGE 251 =====
+{
+7 Knowing a lexical item
+they already know than to learn new things, i.e. what is new is not the words
+: themselves but the new combinations and patterns they are used in. This suggests
+that, rather than following a traditional teaching model such as ‘teach new lexis,
+| then practise it, then later on recycle it’, we might do better to plan lessons that
+| allow students to constantly meet the same items in use 1n different texts,
+| recordings, conversations, etc. and notice them in new combinations with
+different surroundings with different uses, and then have repeated opportunities
+\ to try using the items themselves. The initial ‘teaching’ is of relatively little
+. importance. Items need to be encountered again and again: many encounters,
+| many associations. Seeing real examples of language being used is often more
+important than hearing ‘cold’ definitions.
+How can we do this? How can we worry less about the ‘input’ of lexis and spend
+more time on going deeper with language, looking at how words are used,
+noticing patterns, encouraging students to notice more in the texts they see,
+encouraging long-term recognition and recall and getting our students to use
+: the language themselves? Here are some ideas:
+| Record lexical items in useful ways
+We have already looked at alternatives to the traditional ‘word + translation’ list
+and discussed encouraging learners to keep word pages that let them collect
+collocations, pronunciation, idioms, etc. Encourage them to use these. Help
+learners by giving out blank formats (e.g. word lists, collocation grids, etc.)
+and teaching them how to use them.
+Revisit lexical item pages
+"Traditionally, word lists were written in class then never looked at again.
+Encourage students to revisit their word collections and keep amending and
+adding new examples, collocations, etc. (This is a good reason to tell students to
+make sure they leave blank spaces when they first record items.) Keep referring
+back to and making use of these pages in class, for homework, etc. Train students
+how to use them. Integrate their use into your lesson.
+Collect lexical items
+When students read a text or listen to a recording, encourage them to notice
+interesting items and ‘collect’ them on their word pages. You can provide specific
+‘collecting’ tasks that focus away from the typical search for ‘new’ items, e.g.
+‘Find three words in the text that you already know but seem to be used ina
+different way’.
+Sort and classify items
+Get students to read specific texts to collect and classify items together on single
+word pages (e.g. from a cooking article: ‘things found in the kitchen’; from a
+holiday story: ‘travel words’; from a love letter: ‘happy words’; from a job
+advertisement: ‘adjectives describing people’; etc.).
+Chunk and collocation spotting
+‘Teachers sometimes ask ‘Are there any words you don’t understand?’ after
+students have read a text.
+| 249
+el
+
+
+===== PAGE 252 =====
+chapter 11 Lexzs a
+But this may be a problematic question, as students could read a text and believe 3 .
+that they understand all the lexical items, but miss the fact that they have not a
+registered that familiar words may be being used in new ways and combinations. a
+This leads us to a variation on the third idea: collecting items from a text but with 3
+a focus on longer pieces of text. For example, you could ask students to: 4
+* find pairs of words that seem to go together: e.g. in the sentence He had very ,
+
+good communication skills, students may not know that communication skulls is .
+a common collocation (or that good communication skills is also very common); 2
+¢ find phrases of three or more words long that seem to be a frequently used | =
+‘fixed’ chunk: e.g. /t’s well worth avoiding Guildford city centre if you possibly can 3
+contains It’s well worth avoiding and if you possibly can (and probably Guildford | @
+city centre is also a chunk, but one in which you can substitute different town
+names in the first position); |
+* underline ten nouns (or words used as nouns) and then search out which verb 3
+is used in connection with each one: e.g. in the sentence Although the potatoes a
+were rather old, we botled them along with the carrots, the noun potatoes is E
+connected to the verb boiled. q
+‘Chunk spotting’ is a great classroom (or homework) learning activity. It often ' q
+astonishes students and teachers to realise how much of authentic texts are made y
+out of these ‘pre-fabricated’ pieces of language. | 3
+Redesign your pages i
+Encourage learners to sometimes reorganise, reclassify and redesign some of 7
+their word pages, writing them up nicely (maybe with coloured pens? sketches? 2
+diagrams?), perhaps changing format, e.g. a list into a mind map, labels ona a
+picture, etc. The act of mentally sorting and rearranging will be a helpful learning a
+activity. s
+When an error comes up, review a range of collocations
+In class, a student says ‘I made the exam last week’. Rather than just swiftly giving '
+the correct verb, have a look at a number of useful ‘exam’ collocations and ;
+chunks: took the exam, failed the exam, passed the exam, exam questions, exam results, q
+etc. :
+Record real language 4
+Students often try to record ‘pure’ versions of language, e.g. separating 3
+connected items or writing verbs in the infinitive form. But to have someone’s cake 4
+and eat itis much less useful than with the raw, original sample of text You can’t q
+have your cake and eat it. Many phrases and sentences only exist in a single form; 4
+there’s no point in trying to generalise universal models out of them. 4
+Challenge students to upgrade language 4
+Students and teachers are often satisfied with getting language only ;
+approximately right. This is fine in activities mainly intended to promote greater ‘
+fluency in speech, but at other times it’s worth challenging students to improve. 4
+Point out to students that as well as making errors, they get language .
+‘approximately’ right, i.e. it communicates, but isn’t the best way of saying 4
+something. For example, if a student says “The food has a not interesting taste’, j

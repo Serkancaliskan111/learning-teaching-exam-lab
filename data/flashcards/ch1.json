@@ -1,0 +1,202 @@
+[
+  {
+    "id": "c1-01",
+    "front_en": "What is ‘jug and mug’?",
+    "front_tr": "‘Jug and mug’ nedir?",
+    "back_en": "Transmission model: teacher pours knowledge into empty learners.",
+    "back_tr": "Aktarım modeli: öğretmen bilgiyi boş öğrenene döker.",
+    "tag": "concept"
+  },
+  {
+    "id": "c1-02",
+    "front_en": "Three learning routes without always needing a teacher class",
+    "front_tr": "Her zaman sınıf/öğretmen gerektirmeyen üç yol",
+    "back_en": "Self-study, immersion, classroom work",
+    "back_tr": "Kendi kendine çalışma, immersion, sınıf çalışması",
+    "tag": "concept"
+  },
+  {
+    "id": "c1-03",
+    "front_en": "Define immersion",
+    "front_tr": "Immersion’ı tanımla",
+    "back_en": "Picking up language by living/communicating where it is used",
+    "back_tr": "Dilin kullanıldığı yerde yaşayarak/iletişimle edinme",
+    "tag": "concept"
+  },
+  {
+    "id": "c1-04",
+    "front_en": "Entertainer teacher risk",
+    "front_tr": "Eğlendirici öğretmen riski",
+    "back_en": "Fun show but little lasting learning",
+    "back_tr": "Eğlenceli gösteri ama kalıcı öğrenme az",
+    "tag": "role"
+  },
+  {
+    "id": "c1-05",
+    "front_en": "Explainer vs Involver",
+    "front_tr": "Açıklayıcı vs Dahil edici",
+    "back_en": "Explainer tells; involver designs tasks so learners do the work",
+    "back_tr": "Açıklayıcı anlatır; dahil edici öğrenenin işi yapacağı görev tasarlar",
+    "tag": "role"
+  },
+  {
+    "id": "c1-06",
+    "front_en": "Four key learning conditions (Scrivener)",
+    "front_tr": "Dört ana öğrenme koşulu",
+    "back_en": "Exposure, noticing, use, motivation",
+    "back_tr": "Maruz kalma, fark etme, kullanım, motivasyon",
+    "tag": "concept"
+  },
+  {
+    "id": "c1-07",
+    "front_en": "Why long TL explanations fail",
+    "front_tr": "Uzun hedef dil açıklamaları neden başarısız",
+    "back_en": "Harder than the language point being explained",
+    "back_tr": "Açıklanan dil noktasından daha zordur",
+    "tag": "technique"
+  },
+  {
+    "id": "c1-08",
+    "front_en": "Andrea’s main teacher role in the snapshot",
+    "front_tr": "Andrea anlığında ana öğretmen rolü",
+    "back_en": "Managerial: set up, monitor, give space",
+    "back_tr": "Yönetsel: kur, izle, alan ver",
+    "tag": "role"
+  },
+  {
+    "id": "c1-09",
+    "front_en": "Maia’s discreet teaching moves",
+    "front_tr": "Maia’nın gizli öğretim hareketleri",
+    "back_en": "Bring in quiet students, echo, gently rephrase",
+    "back_tr": "Sessizleri dahil et, yankıla, nazikçe yeniden söyle",
+    "tag": "technique"
+  },
+  {
+    "id": "c1-10",
+    "front_en": "Teaching ≠ Learning means…",
+    "front_tr": "Öğretmek ≠ Öğrenmek demek…",
+    "back_en": "What is taught is not automatically what is learned",
+    "back_tr": "Öğretilen otomatik öğrenilen değildir",
+    "tag": "concept"
+  },
+  {
+    "id": "c1-11",
+    "front_en": "Toolkit approach",
+    "front_tr": "Araç seti yaklaşımı",
+    "back_en": "Many options; choose what fits context",
+    "back_tr": "Çok seçenek; bağlama uyanı seç",
+    "tag": "method"
+  },
+  {
+    "id": "c1-12",
+    "front_en": "One lesson taught = ?",
+    "front_tr": "Tek ders öğretilir = ?",
+    "back_en": "Many different lessons received by learners",
+    "back_tr": "Öğrenenlerce alınan birçok farklı ders",
+    "tag": "concept"
+  },
+  {
+    "id": "c1-13",
+    "front_en": "Method choice depends on…",
+    "front_tr": "Yöntem seçimi şuna bağlı…",
+    "back_en": "Beliefs + what is appropriate locally",
+    "back_tr": "İnançlar + yerel olarak uygun olan",
+    "tag": "method"
+  },
+  {
+    "id": "c1-14",
+    "front_en": "Observation benefit",
+    "front_tr": "Gözlem faydası",
+    "back_en": "Steal useful activities, pace, phrases",
+    "back_tr": "Yararlı etkinlik, tempo, ifadeleri al",
+    "tag": "technique"
+  },
+  {
+    "id": "c1-15",
+    "front_en": "Enablement",
+    "front_tr": "Olanaklı kılma",
+    "back_en": "Help learners do things with language themselves",
+    "back_tr": "Öğrenenlerin dili kendilerinin kullanmasını sağla",
+    "tag": "role"
+  },
+  {
+    "id": "c1-16",
+    "front_en": "Noticing definition",
+    "front_tr": "Noticing tanımı",
+    "back_en": "Paying attention to language features in input",
+    "back_tr": "Girdideki dil özelliklerine dikkat etme",
+    "tag": "concept"
+  },
+  {
+    "id": "c1-17",
+    "front_en": "Why watch other teachers?",
+    "front_tr": "Neden başka öğretmenleri izlemeli?",
+    "back_en": "‘Natural skill’ is often learnable specific behaviours",
+    "back_tr": "‘Doğal beceri’ çoğu zaman öğrenilebilir spesifik davranışlardır",
+    "tag": "concept"
+  },
+  {
+    "id": "c1-18",
+    "front_en": "Lee classroom style",
+    "front_tr": "Lee sınıf stili",
+    "back_en": "Teacher-fronted language presentation",
+    "back_tr": "Öğretmen merkezli dil sunumu",
+    "tag": "role"
+  },
+  {
+    "id": "c1-19",
+    "front_en": "Best teacher type?",
+    "front_tr": "En iyi öğretmen tipi?",
+    "back_en": "No single best; match learners/context",
+    "back_tr": "Tek en iyi yok; öğrenen/bağlama uy",
+    "tag": "concept"
+  },
+  {
+    "id": "c1-20",
+    "front_en": "Exposure alone is…",
+    "front_tr": "Yalnızca maruz kalma…",
+    "back_en": "Necessary but not sufficient",
+    "back_tr": "Gerekli ama yeterli değil",
+    "tag": "concept"
+  },
+  {
+    "id": "c1-21",
+    "front_en": "Self-study tools examples",
+    "front_tr": "Kendi kendine çalışma araçları",
+    "back_en": "Books, CDs, multimedia, video, etc.",
+    "back_tr": "Kitap, CD, çoklu ortam, video vb.",
+    "tag": "concept"
+  },
+  {
+    "id": "c1-22",
+    "front_en": "Scrivener’s stance on ‘the right method’",
+    "front_tr": "Scrivener’ın ‘doğru yöntem’ duruşu",
+    "back_en": "No scientific ideal method; observe what helps",
+    "back_tr": "Bilimsel ideal yöntem yok; neyin yaradığını gözle",
+    "tag": "method"
+  },
+  {
+    "id": "c1-23",
+    "front_en": "Rapport importance",
+    "front_tr": "İlişki (rapport) önemi",
+    "back_en": "Relationship/respect affects learning as much as techniques",
+    "back_tr": "İlişki/saygı teknikler kadar öğrenmeyi etkiler",
+    "tag": "concept"
+  },
+  {
+    "id": "c1-24",
+    "front_en": "Managerial teacher focus",
+    "front_tr": "Yönetsel öğretmen odağı",
+    "back_en": "Set up tasks, timing, grouping, monitoring",
+    "back_tr": "Görev, süre, gruplama, izleme kur",
+    "tag": "role"
+  },
+  {
+    "id": "c1-25",
+    "front_en": "Brief hints vs lectures",
+    "front_tr": "Kısa ipucu vs uzun anlatım",
+    "back_en": "Language learners use brief guidance better than long lectures",
+    "back_tr": "Dil öğrenenler uzun anlatımdan çok kısa rehberliği kullanır",
+    "tag": "technique"
+  }
+]

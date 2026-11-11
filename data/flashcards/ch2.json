@@ -1,0 +1,202 @@
+[
+  {
+    "id": "c2-01",
+    "front_en": "Systems vs skills",
+    "front_tr": "Sistem vs beceri",
+    "back_en": "Systems=grammar/lexis/phonology; skills=LSRW",
+    "back_tr": "Sistemler=gramer/lexis/ses; beceriler=DSKY",
+    "tag": "concept"
+  },
+  {
+    "id": "c2-02",
+    "front_en": "Five analysis angles for a language point",
+    "front_tr": "Dil noktası için beş analiz açısı",
+    "back_en": "Form, meaning, pronunciation, function, discourse",
+    "back_tr": "Biçim, anlam, telaffuz, işlev, söylem",
+    "tag": "concept"
+  },
+  {
+    "id": "c2-03",
+    "front_en": "PPP stands for…",
+    "front_tr": "PPP açılımı",
+    "back_en": "Presentation–Practice–Production",
+    "back_tr": "Sunum–Alıştırma–Üretim",
+    "tag": "method"
+  },
+  {
+    "id": "c2-04",
+    "front_en": "TBL typical order",
+    "front_tr": "TBL tipik sıra",
+    "back_en": "Task first, language focus often after",
+    "back_tr": "Önce görev, dil odağı çoğu sonra",
+    "tag": "method"
+  },
+  {
+    "id": "c2-05",
+    "front_en": "CLT priority",
+    "front_tr": "CLT önceliği",
+    "back_en": "Meaningful communication / fluency",
+    "back_tr": "Anlamlı iletişim / akıcılık",
+    "tag": "method"
+  },
+  {
+    "id": "c2-06",
+    "front_en": "Grammar-Translation focus",
+    "front_tr": "Gramer-Çeviri odağı",
+    "back_en": "Rules, translation, written accuracy",
+    "back_tr": "Kurallar, çeviri, yazılı doğruluk",
+    "tag": "method"
+  },
+  {
+    "id": "c2-07",
+    "front_en": "Audio-Lingual hallmark",
+    "front_tr": "Audio-Lingual belirti",
+    "back_en": "Drills and habit formation",
+    "back_tr": "Alıştırma ve alışkanlık oluşturma",
+    "tag": "method"
+  },
+  {
+    "id": "c2-08",
+    "front_en": "Lead-in purpose",
+    "front_tr": "Lead-in amacı",
+    "back_en": "Engage interest / introduce topic",
+    "back_tr": "İlgi uyandır / konuyu tanıt",
+    "tag": "technique"
+  },
+  {
+    "id": "c2-09",
+    "front_en": "Activity sequence (4 steps)",
+    "front_tr": "Etkinlik sırası (4 adım)",
+    "back_en": "Lead-in, setup, students do, close+feedback",
+    "back_tr": "Lead-in, kurulum, öğrenciler yapar, kapat+GB",
+    "tag": "technique"
+  },
+  {
+    "id": "c2-10",
+    "front_en": "Register example",
+    "front_tr": "Register örneği",
+    "back_en": "Lend us a fiver vs Could you possibly…",
+    "back_tr": "Resmiyet farkı örneği",
+    "tag": "concept"
+  },
+  {
+    "id": "c2-11",
+    "front_en": "Personal methodological theory",
+    "front_tr": "Kişisel yöntem kuramı",
+    "back_en": "Your working theory from experience/context",
+    "back_tr": "Deneyim/bağlamdan gelen çalışma kuramın",
+    "tag": "method"
+  },
+  {
+    "id": "c2-12",
+    "front_en": "Name learning tip",
+    "front_tr": "İsim öğrenme ipucu",
+    "back_en": "Seating sketch-map or place cards",
+    "back_tr": "Oturma krokisi veya isim kartları",
+    "tag": "technique"
+  },
+  {
+    "id": "c2-13",
+    "front_en": "Why balance for beginners",
+    "front_tr": "Başlangıç için denge neden",
+    "back_en": "Need systems AND skills",
+    "back_tr": "Hem sistem hem beceri gerekir",
+    "tag": "concept"
+  },
+  {
+    "id": "c2-14",
+    "front_en": "Weak forms example area",
+    "front_tr": "Zayıf biçim örneği alanı",
+    "back_en": "Pronunciation of can you /kən jə/",
+    "back_tr": "can you telaffuzu",
+    "tag": "concept"
+  },
+  {
+    "id": "c2-15",
+    "front_en": "Function of ‘Can you play…?’ often",
+    "front_tr": "‘Can you play…?’ işlevi",
+    "back_en": "Asking about ability",
+    "back_tr": "Yetenek sorma",
+    "tag": "concept"
+  },
+  {
+    "id": "c2-16",
+    "front_en": "Eclectic teacher means…",
+    "front_tr": "Eklektik öğretmen…",
+    "back_en": "Selects useful techniques from methods",
+    "back_tr": "Yöntemlerden yararlı teknikleri seçer",
+    "tag": "method"
+  },
+  {
+    "id": "c2-17",
+    "front_en": "Feedback after activity",
+    "front_tr": "Etkinlik sonrası geri bildirim",
+    "back_en": "Share results and useful language",
+    "back_tr": "Sonuçları ve yararlı dili paylaş",
+    "tag": "technique"
+  },
+  {
+    "id": "c2-18",
+    "front_en": "Metalanguage",
+    "front_tr": "Üstdil",
+    "back_en": "Language used to talk about language",
+    "back_tr": "Dil hakkında konuşmak için kullanılan dil",
+    "tag": "concept"
+  },
+  {
+    "id": "c2-19",
+    "front_en": "First lessons should avoid…",
+    "front_tr": "İlk derslerde kaçın…",
+    "back_en": "Overloading procedures; aim early success",
+    "back_tr": "Prosedür aşırı yükü; erken başarı hedefle",
+    "tag": "technique"
+  },
+  {
+    "id": "c2-20",
+    "front_en": "Discourse in analysis",
+    "front_tr": "Analizde söylem",
+    "back_en": "Typical question-reply sequences etc.",
+    "back_tr": "Tipik soru-cevap dizileri vb.",
+    "tag": "concept"
+  },
+  {
+    "id": "c2-21",
+    "front_en": "Skills acronym L/S/R/W",
+    "front_tr": "Beceriler L/S/R/W",
+    "back_en": "Listening Speaking Reading Writing",
+    "back_tr": "Dinleme Konuşma Okuma Yazma",
+    "tag": "concept"
+  },
+  {
+    "id": "c2-22",
+    "front_en": "Present perfect vs past contrast teaching",
+    "front_tr": "Present perfect vs past karşıtı",
+    "back_en": "I’ve been to Paris vs I went to Paris",
+    "back_tr": "Anlam farkını netleştir",
+    "tag": "concept"
+  },
+  {
+    "id": "c2-23",
+    "front_en": "Setup stage includes…",
+    "front_tr": "Kurulum aşaması içerir…",
+    "back_en": "Instructions, seating, materials",
+    "back_tr": "Yönerge, oturma, materyal",
+    "tag": "technique"
+  },
+  {
+    "id": "c2-24",
+    "front_en": "Method as religion?",
+    "front_tr": "Yöntem din mi?",
+    "back_en": "No—use as options in toolkit",
+    "back_tr": "Hayır—araç setinde seçenek",
+    "tag": "method"
+  },
+  {
+    "id": "c2-25",
+    "front_en": "Rapport in first lessons",
+    "front_tr": "İlk derslerde rapport",
+    "back_en": "Relationship building supports later learning",
+    "back_tr": "İlişki kurmak sonraki öğrenmeyi destekler",
+    "tag": "concept"
+  }
+]

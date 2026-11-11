@@ -1,0 +1,286 @@
+[
+  {
+    "id": "q1-01",
+    "type": "mcq",
+    "prompt_en": "‘Jug and mug’ describes teaching as…",
+    "prompt_tr": "‘Jug and mug’ öğretimi şöyle tanımlar…",
+    "options": [
+      "Pouring knowledge from teacher into students",
+      "Pairwork information gaps",
+      "Task-feedback circle",
+      "Extensive reading"
+    ],
+    "answer": "Pouring knowledge from teacher into students",
+    "explain_en": "Classic transmission metaphor Scrivener critiques.",
+    "explain_tr": "Scrivener’ın eleştirdiği klasik aktarım metaforu.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "q1-02",
+    "type": "mcq",
+    "prompt_en": "Immersion means…",
+    "prompt_tr": "Immersion demektir…",
+    "options": [
+      "Living/communicating where the language is used",
+      "Only grammar translation",
+      "Teacher entertainment",
+      "Silent board copying"
+    ],
+    "answer": "Living/communicating where the language is used",
+    "explain_en": "Picking up language in a natural environment.",
+    "explain_tr": "Doğal ortamda dil edinme.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "q1-03",
+    "type": "mcq",
+    "prompt_en": "Which teacher type designs tasks so learners do the work?",
+    "prompt_tr": "Öğrenenlerin işi yapması için görev tasarlayan tip?",
+    "options": [
+      "Involver",
+      "Entertainer",
+      "Jug",
+      "Mug"
+    ],
+    "answer": "Involver",
+    "explain_en": "Involver enables active learner work.",
+    "explain_tr": "Dahil edici aktif öğrenen çalışmasını sağlar.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "q1-04",
+    "type": "mcq",
+    "prompt_en": "Which set are Scrivener’s key learning conditions?",
+    "prompt_tr": "Scrivener’ın ana öğrenme koşulları hangisi?",
+    "options": [
+      "Exposure, noticing, use, motivation",
+      "Only homework and tests",
+      "Silence and copying",
+      "Entertainment only"
+    ],
+    "answer": "Exposure, noticing, use, motivation",
+    "explain_en": "These four recur as foundations.",
+    "explain_tr": "Bu dört temel tekrar eder.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "q1-05",
+    "type": "tf",
+    "prompt_en": "Teaching something guarantees that learners learn it.",
+    "prompt_tr": "Bir şeyi öğretmek, öğrenenlerin öğrendiğini garanti eder.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answer": "False",
+    "explain_en": "Teaching ≠ learning.",
+    "explain_tr": "Öğretmek ≠ öğrenmek.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "q1-06",
+    "type": "tf",
+    "prompt_en": "Long target-language explanations are usually the best way to teach language points.",
+    "prompt_tr": "Uzun hedef dil açıklamaları dil noktalarını öğretmenin genellikle en iyi yoludur.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answer": "False",
+    "explain_en": "Brief hints usually work better.",
+    "explain_tr": "Kısa ipuçları genellikle daha iyi işe yarar.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "q1-07",
+    "type": "fill",
+    "prompt_en": "Name the transmission metaphor Scrivener uses for traditional teaching.",
+    "prompt_tr": "Scrivener’ın geleneksel öğretim için kullandığı aktarım metaforunun adı?",
+    "answer": "jug and mug|jug-and-mug",
+    "explain_en": "Jug and mug.",
+    "explain_tr": "Sürahi ve kupa.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "q1-08",
+    "type": "fill",
+    "prompt_en": "Learning a language by living where it is spoken is called ______.",
+    "prompt_tr": "Dilin konuşulduğu yerde yaşayarak öğrenmeye ______ denir.",
+    "answer": "immersion",
+    "explain_en": "Immersion.",
+    "explain_tr": "Daldırma/immersion.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "q1-09",
+    "type": "mcq",
+    "prompt_en": "Entertainer teaching mainly risks…",
+    "prompt_tr": "Eğlendirici öğretmenlik esas olarak neyi riske atar?",
+    "options": [
+      "Little real learning beneath the show",
+      "Too much pairwork",
+      "Too much silence",
+      "No board use"
+    ],
+    "answer": "Little real learning beneath the show",
+    "explain_en": "Amusement can mask low intake.",
+    "explain_tr": "Eğlence düşük alımı gizleyebilir.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "q1-10",
+    "type": "mcq",
+    "prompt_en": "In Andrea’s snapshot, the teacher mostly…",
+    "prompt_tr": "Andrea anlığında öğretmen çoğunlukla…",
+    "options": [
+      "Monitors groups without taking over",
+      "Lectures for 40 minutes",
+      "Translates every sentence",
+      "Bans all talk"
+    ],
+    "answer": "Monitors groups without taking over",
+    "explain_en": "Managerial monitoring, space to think.",
+    "explain_tr": "Yönetsel izleme, düşünme alanı.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "q1-11",
+    "type": "mcq",
+    "prompt_en": "Noticing means…",
+    "prompt_tr": "Noticing demektir…",
+    "options": [
+      "Paying attention to language features",
+      "Ignoring grammar",
+      "Only translating",
+      "Only testing"
+    ],
+    "answer": "Paying attention to language features",
+    "explain_en": "Conscious attention links input to learning.",
+    "explain_tr": "Bilinçli dikkat girdiyi öğrenmeye bağlar.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "q1-12",
+    "type": "fill",
+    "prompt_en": "The teacher type mainly associated with explanations is the ______.",
+    "prompt_tr": "Esasen açıklamalarla ilişkilenen öğretmen tipi ______.",
+    "answer": "explainer",
+    "explain_en": "Explainer.",
+    "explain_tr": "Açıklayıcı.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "q1-13",
+    "type": "tf",
+    "prompt_en": "There is one scientifically proven ideal teaching methodology for all contexts.",
+    "prompt_tr": "Tüm bağlamlar için bilimsel kanıtlı tek ideal öğretim yöntemi vardır.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answer": "False",
+    "explain_en": "Scrivener rejects a single right way.",
+    "explain_tr": "Scrivener tek doğru yolu reddeder.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "q1-14",
+    "type": "mcq",
+    "prompt_en": "Self-study, immersion and classroom work are…",
+    "prompt_tr": "Kendi kendine çalışma, immersion ve sınıf…",
+    "options": [
+      "Three complementary learning routes",
+      "Three punishment types",
+      "Three exam formats",
+      "Three seating plans"
+    ],
+    "answer": "Three complementary learning routes",
+    "explain_en": "Often combined in real learning.",
+    "explain_tr": "Gerçek öğrenmede sıkça birleşir.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "q1-15",
+    "type": "mcq",
+    "prompt_en": "Why observe other teachers?",
+    "prompt_tr": "Neden diğer öğretmenleri gözlemeli?",
+    "options": [
+      "To collect transferable techniques and become aware of options",
+      "To copy personality only",
+      "To avoid planning forever",
+      "To increase TTT"
+    ],
+    "answer": "To collect transferable techniques and become aware of options",
+    "explain_en": "Magic is often learnable behaviour.",
+    "explain_tr": "Sihir çoğu zaman öğrenilebilir davranıştır.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "q1-16",
+    "type": "fill",
+    "prompt_en": "______ is meeting language in use (input).",
+    "prompt_tr": "______ dilin kullanımda karşılanmasıdır (girdi).",
+    "answer": "exposure",
+    "explain_en": "Exposure.",
+    "explain_tr": "Maruz kalma.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "q1-17",
+    "type": "mcq",
+    "prompt_en": "In one class of 25, Scrivener suggests we can think of…",
+    "prompt_tr": "25 kişilik bir sınıfta Scrivener şunu düşünmemizi önerir…",
+    "options": [
+      "Many different lessons being received",
+      "Only one identical experience for all",
+      "No learning possible",
+      "Only homework matters"
+    ],
+    "answer": "Many different lessons being received",
+    "explain_en": "Learners receive differently.",
+    "explain_tr": "Öğrenenler farklı alır.",
+    "difficulty": "hard"
+  },
+  {
+    "id": "q1-18",
+    "type": "mcq",
+    "prompt_en": "Methodology should be…",
+    "prompt_tr": "Yöntem bilimi şöyle olmalı…",
+    "options": [
+      "Appropriate to place and people, not only personal belief imposed",
+      "Always grammar-translation",
+      "Always entertainment",
+      "Never planned"
+    ],
+    "answer": "Appropriate to place and people, not only personal belief imposed",
+    "explain_en": "Local compromise.",
+    "explain_tr": "Yerel uzlaşı.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "q1-19",
+    "type": "fill",
+    "prompt_en": "Producing language yourself is called ______ / use.",
+    "prompt_tr": "Dili kendin üretmen ______ / kullanım adını alır.",
+    "answer": "output",
+    "explain_en": "Output.",
+    "explain_tr": "Çıktı.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "q1-20",
+    "type": "mcq",
+    "prompt_en": "Scrivener’s preferred direction for teacher role is towards…",
+    "prompt_tr": "Scrivener’ın öğretmen rolü için tercih ettiği yön…",
+    "options": [
+      "Involving/enabling learners",
+      "Only entertaining",
+      "Only translating",
+      "Only testing"
+    ],
+    "answer": "Involving/enabling learners",
+    "explain_en": "Move beyond telling towards enabling.",
+    "explain_tr": "Anlatmanın ötesine, olanaklı kılmaya geç.",
+    "difficulty": "medium"
+  }
+]

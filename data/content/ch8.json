@@ -1,0 +1,267 @@
+{
+  "id": "ch8",
+  "title_en": "Receptive skills: listening and reading",
+  "title_tr": "Alıcı beceriler: dinleme ve okuma",
+  "sections": [
+    {
+      "id": "8.1",
+      "heading_en": "1 Task-based listening",
+      "heading_tr": "1 Görev temelli dinleme",
+      "points": [
+        {
+          "en": "Give a clear task BEFORE listening so students listen with purpose.",
+          "tr": "Öğrencilerin amaçlı dinlemesi için dinlemeden ÖNCE net görev ver.",
+          "exam": true
+        },
+        {
+          "en": "Don’t play audio then only ask ‘Did you understand?’",
+          "tr": "Sesi açıp yalnızca ‘Anladınız mı?’ diye sorma.",
+          "exam": true
+        },
+        {
+          "en": "Different listening purposes: gist, specific details (names/numbers), attitude, etc.",
+          "tr": "Farklı dinleme amaçları: gist, spesifik ayrıntı (isim/sayı), tutum vb.",
+          "exam": true
+        },
+        {
+          "en": "Separate different listening goals across replays; don’t overburden one play.",
+          "tr": "Farklı dinleme hedeflerini tekrarlara ayır; tek dinlemeyi aşırı yükleme.",
+          "exam": true
+        }
+      ],
+      "key_terms": [
+        {
+          "en": "Gist",
+          "tr": "Genel fikir",
+          "def_en": "Overall meaning / main message.",
+          "def_tr": "Genel anlam / ana mesaj."
+        }
+      ]
+    },
+    {
+      "id": "8.2",
+      "heading_en": "2 The task–feedback circle",
+      "heading_tr": "2 Görev–geri bildirim çemberi",
+      "points": [
+        {
+          "en": "Core Scrivener model: set task → do task → feedback → harder/more detailed task → repeat.",
+          "tr": "Scrivener’ın çekirdek modeli: görev koy → yap → geri bildirim → daha zor/ayrıntılı görev → tekrarla.",
+          "exam": true
+        },
+        {
+          "en": "Often move ‘big to small’: overview first, then details.",
+          "tr": "Sıkça ‘büyükten küçüğe’: önce genel bakış, sonra ayrıntı.",
+          "exam": true
+        },
+        {
+          "en": "Applies to both listening and reading lessons.",
+          "tr": "Hem dinleme hem okuma derslerine uygulanır.",
+          "exam": true
+        }
+      ],
+      "key_terms": [
+        {
+          "en": "Task–feedback circle",
+          "tr": "Görev–geri bildirim çemberi",
+          "def_en": "Cycle of task, performance, feedback, next task.",
+          "def_tr": "Görev, performans, geri bildirim, sonraki görev döngüsü."
+        }
+      ]
+    },
+    {
+      "id": "8.3",
+      "heading_en": "3 How do we listen?",
+      "heading_tr": "3 Nasıl dinleriz?",
+      "points": [
+        {
+          "en": "We never listen from zero: prior knowledge, predictions, context help.",
+          "tr": "Sıfırdan dinlemeyiz: ön bilgi, tahmin, bağlam yardım eder.",
+          "exam": true
+        },
+        {
+          "en": "Top-down: world knowledge/prediction → meaning.",
+          "tr": "Top-down: dünya bilgisi/tahmin → anlam.",
+          "exam": true
+        },
+        {
+          "en": "Bottom-up: sounds/words/grammar upward to meaning.",
+          "tr": "Bottom-up: ses/sözcük/gramerden yukarı anlama.",
+          "exam": true
+        },
+        {
+          "en": "We hypothesise when we miss bits; we know typical interaction patterns.",
+          "tr": "Kaçırdığımızda hipotez kurarız; tipik etkileşim kalıplarını biliriz.",
+          "exam": true
+        },
+        {
+          "en": "Pre-listening activates schemata: topic talk, predict vocabulary, set context.",
+          "tr": "Dinleme öncesi şemayı etkinleştirir: konu konuşması, sözcük tahmini, bağlam.",
+          "exam": true
+        }
+      ],
+      "key_terms": [
+        {
+          "en": "Top-down",
+          "tr": "Yukarıdan aşağı",
+          "def_en": "Using background knowledge to understand.",
+          "def_tr": "Anlamak için arka plan bilgisi kullanma."
+        },
+        {
+          "en": "Bottom-up",
+          "tr": "Aşağıdan yukarı",
+          "def_en": "Decoding from smaller language units.",
+          "def_tr": "Daha küçük dil birimlerinden çözümleme."
+        },
+        {
+          "en": "Schema",
+          "tr": "Şema",
+          "def_en": "Background knowledge structure.",
+          "def_tr": "Arka plan bilgi yapısı."
+        }
+      ]
+    },
+    {
+      "id": "8.4",
+      "heading_en": "4 Listening ideas",
+      "heading_tr": "4 Dinleme fikirleri",
+      "points": [
+        {
+          "en": "Use authentic/up-to-date recordings when suitable; vary task types.",
+          "tr": "Uygunsa otantik/güncel kayıtlar kullan; görev türlerini çeşitlendir.",
+          "exam": true
+        },
+        {
+          "en": "Ideas: jigsaw listening, predict-then-check, listen and draw/do, live listening.",
+          "tr": "Fikirler: jigsaw dinleme, tahmin-et-kontrol et, dinle-çiz/yap, canlı dinleme.",
+          "exam": true
+        },
+        {
+          "en": "Route map example: lead-in → pre-teach key lexis if needed → gist → detail → language focus → follow-on.",
+          "tr": "Rota örneği: lead-in → gerekirse lexis → gist → ayrıntı → dil odağı → devam görevi.",
+          "exam": true
+        }
+      ],
+      "key_terms": [
+        {
+          "en": "Jigsaw listening",
+          "tr": "Jigsaw dinleme",
+          "def_en": "Different learners hear different parts then share.",
+          "def_tr": "Farklı öğrenenler farklı parçaları dinleyip paylaşır."
+        }
+      ]
+    },
+    {
+      "id": "8.5",
+      "heading_en": "5 Approaches to reading",
+      "heading_tr": "5 Okumaya yaklaşımlar",
+      "points": [
+        {
+          "en": "Skimming = fast reading for gist; scanning = find specific info.",
+          "tr": "Skimming = gist için hızlı okuma; scanning = spesifik bilgi bulma.",
+          "exam": true
+        },
+        {
+          "en": "Top-down reading lesson often: lead-in → predict → gist → scan → detailed tasks → follow-on → closing.",
+          "tr": "Top-down okuma dersi sıkça: lead-in → tahmin → gist → scan → ayrıntı → devam → kapanış.",
+          "exam": true
+        },
+        {
+          "en": "Match task to text type (ads, leaflets, news, novel extract).",
+          "tr": "Görevi metin türüne uydur (ilan, broşür, haber, roman parçası).",
+          "exam": true
+        },
+        {
+          "en": "Pre-reading tasks prepare; post-reading can be role-play, debate, writing, personalisation.",
+          "tr": "Okuma öncesi hazırlar; sonrası rol-oyun, tartışma, yazma, kişiselleştirme olabilir.",
+          "exam": false
+        }
+      ],
+      "key_terms": [
+        {
+          "en": "Skimming",
+          "tr": "Göz gezdirme",
+          "def_en": "Reading for overall idea.",
+          "def_tr": "Genel fikir için okuma."
+        },
+        {
+          "en": "Scanning",
+          "tr": "Tarama",
+          "def_en": "Reading for specific details.",
+          "def_tr": "Spesifik ayrıntı için okuma."
+        }
+      ]
+    },
+    {
+      "id": "8.6",
+      "heading_en": "6 Extensive reading",
+      "heading_tr": "6 Yaygın / serbest okuma",
+      "points": [
+        {
+          "en": "Extensive reading = lots of easy enjoyable reading for fluency/pleasure.",
+          "tr": "Extensive reading = akıcılık/zevk için bol kolay keyifli okuma.",
+          "exam": true
+        },
+        {
+          "en": "Graded readers with controlled vocabulary are ideal classroom resources.",
+          "tr": "Kontrollü sözcük dağarcıklı graded reader’lar ideal sınıf kaynağıdır.",
+          "exam": true
+        },
+        {
+          "en": "Create book-club culture; train selection strategies; allow quiet reading time.",
+          "tr": "Kitap kulübü kültürü oluştur; seçim stratejisi öğret; sessiz okuma zamanı ver.",
+          "exam": true
+        },
+        {
+          "en": "Don’t kill pleasure with too many post-reading exercises every time.",
+          "tr": "Her seferinde aşırı okuma-sonu alıştırma ile zevki öldürme.",
+          "exam": true
+        },
+        {
+          "en": "Round-the-class reading aloud often fails: boredom, anxiety, broken story flow.",
+          "tr": "Sınıf turu yüksek sesle okuma sıkça başarısız: sıkıntı, kaygı, öykü akışı bozulur.",
+          "exam": true
+        }
+      ],
+      "key_terms": [
+        {
+          "en": "Graded reader",
+          "tr": "Seviyeli okuma kitabı",
+          "def_en": "Simplified book at controlled level.",
+          "def_tr": "Kontrollü seviyede sadeleştirilmiş kitap."
+        },
+        {
+          "en": "Extensive reading",
+          "tr": "Yaygın okuma",
+          "def_en": "Reading large amounts for fluency.",
+          "def_tr": "Akıcılık için bol okuma."
+        }
+      ]
+    }
+  ],
+  "chapter_review": [
+    {
+      "en": "Task before listening/reading; never ‘Did you understand?’ alone.",
+      "tr": "Dinleme/okumadan önce görev; yalnız ‘Anladınız mı?’ yok."
+    },
+    {
+      "en": "Task–feedback circle + big-to-small.",
+      "tr": "Görev–geri bildirim çemberi + büyükten küçüğe."
+    },
+    {
+      "en": "Top-down + bottom-up both matter.",
+      "tr": "Top-down + bottom-up ikisi de önemli."
+    },
+    {
+      "en": "Skimming=gist; scanning=specifics.",
+      "tr": "Skimming=gist; scanning=spesifik."
+    },
+    {
+      "en": "Extensive reading: pleasure, graded readers, don’t over-test.",
+      "tr": "Extensive: zevk, graded reader, aşırı test etme."
+    },
+    {
+      "en": "Avoid classic round-the-class aloud reading as main method.",
+      "tr": "Ana yöntem olarak sınıf turu sesli okumadan kaçın."
+    }
+  ]
+}

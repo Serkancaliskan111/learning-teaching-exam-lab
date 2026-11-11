@@ -1,0 +1,202 @@
+[
+  {
+    "id": "c8-01",
+    "front_en": "Task before audio",
+    "front_tr": "Sesten önce görev",
+    "back_en": "Listen with a purpose",
+    "back_tr": "Amaçlı dinle",
+    "tag": "technique"
+  },
+  {
+    "id": "c8-02",
+    "front_en": "Task–feedback circle order",
+    "front_tr": "Görev–GB çemberi sırası",
+    "back_en": "Task → do → feedback → next harder task",
+    "back_tr": "Görev → yap → GB → daha zor görev",
+    "tag": "method"
+  },
+  {
+    "id": "c8-03",
+    "front_en": "Big to small",
+    "front_tr": "Büyükten küçüğe",
+    "back_en": "Overview/gist before details",
+    "back_tr": "Ayrıntıdan önce genel/gist",
+    "tag": "technique"
+  },
+  {
+    "id": "c8-04",
+    "front_en": "Skimming",
+    "front_tr": "Skimming",
+    "back_en": "Gist / general idea",
+    "back_tr": "Gist / genel fikir",
+    "tag": "concept"
+  },
+  {
+    "id": "c8-05",
+    "front_en": "Scanning",
+    "front_tr": "Scanning",
+    "back_en": "Specific information hunt",
+    "back_tr": "Spesifik bilgi avı",
+    "tag": "concept"
+  },
+  {
+    "id": "c8-06",
+    "front_en": "Top-down listening",
+    "front_tr": "Top-down dinleme",
+    "back_en": "Prediction & world knowledge",
+    "back_tr": "Tahmin ve dünya bilgisi",
+    "tag": "concept"
+  },
+  {
+    "id": "c8-07",
+    "front_en": "Bottom-up listening",
+    "front_tr": "Bottom-up dinleme",
+    "back_en": "Decode sounds/words upward",
+    "back_tr": "Ses/sözcükten yukarı çözümle",
+    "tag": "concept"
+  },
+  {
+    "id": "c8-08",
+    "front_en": "Schema activation",
+    "front_tr": "Şema etkinleştirme",
+    "back_en": "Pre-listening topic/predict work",
+    "back_tr": "Dinleme öncesi konu/tahmin",
+    "tag": "technique"
+  },
+  {
+    "id": "c8-09",
+    "front_en": "Extensive reading goal",
+    "front_tr": "Extensive okuma hedefi",
+    "back_en": "Fluency and pleasure",
+    "back_tr": "Akıcılık ve zevk",
+    "tag": "concept"
+  },
+  {
+    "id": "c8-10",
+    "front_en": "Graded readers",
+    "front_tr": "Graded reader’lar",
+    "back_en": "Level-controlled books for extensive reading",
+    "back_tr": "Extensive için seviye kontrollü kitaplar",
+    "tag": "concept"
+  },
+  {
+    "id": "c8-11",
+    "front_en": "Round-the-class reading aloud problem",
+    "front_tr": "Sınıf turu sesli okuma sorunu",
+    "back_en": "Boring, stressful, breaks comprehension",
+    "back_tr": "Sıkıcı, stresli, anlamayı bozar",
+    "tag": "concept"
+  },
+  {
+    "id": "c8-12",
+    "front_en": "Don’t overburden one play",
+    "front_tr": "Tek dinlemeyi aşırı yükleme",
+    "back_en": "Split gist/detail across replays",
+    "back_tr": "Gist/ayrıntıyı tekrarlara böl",
+    "tag": "technique"
+  },
+  {
+    "id": "c8-13",
+    "front_en": "Jigsaw listening",
+    "front_tr": "Jigsaw dinleme",
+    "back_en": "Different input parts then information share",
+    "back_tr": "Farklı girdi parçaları sonra bilgi paylaşımı",
+    "tag": "technique"
+  },
+  {
+    "id": "c8-14",
+    "front_en": "Pre-teach lexis rule",
+    "front_tr": "Lexis ön öğretme kuralı",
+    "back_en": "Only blocking items, not everything",
+    "back_tr": "Yalnızca engelleyici öğeler, her şey değil",
+    "tag": "technique"
+  },
+  {
+    "id": "c8-15",
+    "front_en": "Post-reading follow-ons",
+    "front_tr": "Okuma sonrası devam",
+    "back_en": "Role-play, debate, writing, personalisation",
+    "back_tr": "Rol, tartışma, yazma, kişiselleştirme",
+    "tag": "technique"
+  },
+  {
+    "id": "c8-16",
+    "front_en": "Gist question example",
+    "front_tr": "Gist soru örneği",
+    "back_en": "What is the main topic/message?",
+    "back_tr": "Ana konu/mesaj nedir?",
+    "tag": "technique"
+  },
+  {
+    "id": "c8-17",
+    "front_en": "Scan question example",
+    "front_tr": "Scan soru örneği",
+    "back_en": "What time does the train leave?",
+    "back_tr": "Tren saat kaçta kalkıyor?",
+    "tag": "technique"
+  },
+  {
+    "id": "c8-18",
+    "front_en": "Authentic recordings",
+    "front_tr": "Otantik kayıtlar",
+    "back_en": "Real-world audio when suitable",
+    "back_tr": "Uygunsa gerçek dünya sesi",
+    "tag": "technique"
+  },
+  {
+    "id": "c8-19",
+    "front_en": "Book club classroom",
+    "front_tr": "Sınıfta kitap kulübü",
+    "back_en": "Choice + sharing culture for reading",
+    "back_tr": "Okuma için seçim + paylaşım kültürü",
+    "tag": "technique"
+  },
+  {
+    "id": "c8-20",
+    "front_en": "Quiet reading lesson slot",
+    "front_tr": "Sessiz okuma ders dilimi",
+    "back_en": "Protect time for extensive reading",
+    "back_tr": "Extensive için zaman koru",
+    "tag": "technique"
+  },
+  {
+    "id": "c8-21",
+    "front_en": "Hypothesis while listening",
+    "front_tr": "Dinlerken hipotez",
+    "back_en": "Guess missed parts from context",
+    "back_tr": "Kaçırılanı bağlamdan tahmin et",
+    "tag": "concept"
+  },
+  {
+    "id": "c8-22",
+    "front_en": "Interaction patterns knowledge",
+    "front_tr": "Etkileşim kalıbı bilgisi",
+    "back_en": "Helps predict what comes next in talk",
+    "back_tr": "Konuşmada sıradaki şeyi tahmin ettirir",
+    "tag": "concept"
+  },
+  {
+    "id": "c8-23",
+    "front_en": "Lead-in for skills lesson",
+    "front_tr": "Beceri dersi lead-in",
+    "back_en": "Interest + link text to learners’ lives",
+    "back_tr": "İlgi + metni yaşama bağla",
+    "tag": "technique"
+  },
+  {
+    "id": "c8-24",
+    "front_en": "Closing a skills lesson",
+    "front_tr": "Beceri dersini kapatma",
+    "back_en": "Review what was studied/learned",
+    "back_tr": "Ne çalışıldı/öğrenildi gözden geçir",
+    "tag": "technique"
+  },
+  {
+    "id": "c8-25",
+    "front_en": "Pleasure vs exercises",
+    "front_tr": "Zevk vs alıştırma",
+    "back_en": "Don’t kill extensive reading with endless tasks",
+    "back_tr": "Extensive’i sonsuz görevle öldürme",
+    "tag": "concept"
+  }
+]

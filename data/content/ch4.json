@@ -1,0 +1,247 @@
+{
+  "id": "ch4",
+  "title_en": "Who are the learners?",
+  "title_tr": "Öğrenenler kim?",
+  "sections": [
+    {
+      "id": "4.1",
+      "heading_en": "1 Individuals and groups",
+      "heading_tr": "1 Bireyler ve gruplar",
+      "points": [
+        {
+          "en": "At first glance notice: age, gender mix, energy, materials, seating, who talks to whom.",
+          "tr": "İlk bakışta fark et: yaş, cinsiyet dengesi, enerji, materyal, oturma, kim kiminle konuşuyor.",
+          "exam": true
+        },
+        {
+          "en": "Classes are never fully homogenous; ‘one level’ hides big individual differences.",
+          "tr": "Sınıflar asla tamamen türdeş değildir; ‘tek seviye’ büyük bireysel farkları gizler.",
+          "exam": true
+        },
+        {
+          "en": "Learners share being in the same room/course but differ in goals, styles, personalities, prior knowledge.",
+          "tr": "Öğrenenler aynı oda/kursta olmakta ortaktır ama amaç, stil, kişilik, ön bilgide farklıdır.",
+          "exam": true
+        },
+        {
+          "en": "Multiple intelligences idea (linguistic, visual, musical, logical, bodily, interpersonal, intrapersonal) reminds us to vary activity types.",
+          "tr": "Çoklu zekâ fikri (dilsel, görsel, müzikal, mantıksal, bedensel, kişilerarası, içsel) etkinlik çeşitliliğini hatırlatır.",
+          "exam": true
+        },
+        {
+          "en": "Balance whole-class, individual, pair and group work to reach different learners.",
+          "tr": "Farklı öğrenenlere ulaşmak için tüm sınıf, bireysel, eşli ve grup çalışmasını dengele.",
+          "exam": true
+        }
+      ],
+      "key_terms": [
+        {
+          "en": "Homogenous group myth",
+          "tr": "Türdeş grup miti",
+          "def_en": "Assuming everyone is the same level/needs.",
+          "def_tr": "Herkesin aynı seviye/ihtiyaçta olduğunu varsaymak."
+        },
+        {
+          "en": "Multiple intelligences",
+          "tr": "Çoklu zekâ",
+          "def_en": "Different strength channels for learning.",
+          "def_tr": "Öğrenme için farklı güç kanalları."
+        }
+      ]
+    },
+    {
+      "id": "4.2",
+      "heading_en": "2 What level are my students?",
+      "heading_tr": "2 Öğrencilerimin seviyesi nedir?",
+      "points": [
+        {
+          "en": "Level labels (beginner→advanced / CEFR) are rough guides, not precise truths.",
+          "tr": "Seviye etiketleri kaba rehberdir, kesin gerçek değil.",
+          "exam": true
+        },
+        {
+          "en": "Mixed-level classes are normal: placement, progress rates, skills imbalance, returning students.",
+          "tr": "Karışık seviye sınıflar normaldir: yerleştirme, ilerleme hızı, beceri dengesizliği, geri dönenler.",
+          "exam": true
+        },
+        {
+          "en": "A student may be ‘intermediate’ in reading but weaker in speaking (spiky profile).",
+          "tr": "Bir öğrenci okumada ‘intermediate’ ama konuşmada daha zayıf olabilir (dikenli profil).",
+          "exam": true
+        },
+        {
+          "en": "Automatic end-of-term promotion can increase mixed levels.",
+          "tr": "Dönem sonu otomatik yükseltme karışık seviyeyi artırabilir.",
+          "exam": true
+        },
+        {
+          "en": "Respond with differentiated tasks, pair stronger/weaker carefully, offer extension/support.",
+          "tr": "Farklılaştırılmış görevler, dikkatli eşleme, uzantı/destek ile yanıt ver.",
+          "exam": true
+        }
+      ],
+      "key_terms": [
+        {
+          "en": "Mixed level",
+          "tr": "Karışık seviye",
+          "def_en": "Wide ability range in one class.",
+          "def_tr": "Tek sınıfta geniş yetenek aralığı."
+        },
+        {
+          "en": "Spiky profile",
+          "tr": "Dikenli profil",
+          "def_en": "Uneven skills across areas.",
+          "def_tr": "Alanlar arası dengesiz beceriler."
+        }
+      ]
+    },
+    {
+      "id": "4.3",
+      "heading_en": "3 Learners and their needs",
+      "heading_tr": "3 Öğrenenler ve ihtiyaçları",
+      "points": [
+        {
+          "en": "Needs analysis gathers what learners need/want for work, study, travel, exams, life.",
+          "tr": "İhtiyaç analizi iş, okul, seyahat, sınav, yaşam için neye ihtiyaç/istediklerini toplar.",
+          "exam": true
+        },
+        {
+          "en": "Use questionnaires, interviews, discussions, diagnostic tasks, observation.",
+          "tr": "Anket, görüşme, tartışma, tanısal görev, gözlem kullan.",
+          "exam": true
+        },
+        {
+          "en": "Distinguish necessities (objective needs), lacks, and wants (subjective).",
+          "tr": "Gereklilikler (nesnel ihtiyaçlar), eksikler ve istekler (öznel) ayır.",
+          "exam": true
+        },
+        {
+          "en": "Information is only useful if it changes course/lesson decisions.",
+          "tr": "Bilgi, kurs/ders kararlarını değiştirirse yararlıdır.",
+          "exam": true
+        },
+        {
+          "en": "Needs shift over time; revisit analysis.",
+          "tr": "İhtiyaçlar zamanla değişir; analizi yeniden yap.",
+          "exam": true
+        }
+      ],
+      "key_terms": [
+        {
+          "en": "Needs analysis",
+          "tr": "İhtiyaç analizi",
+          "def_en": "Systematic finding of learner needs/wants.",
+          "def_tr": "Öğrenen ihtiyaç/isteklerini sistemli bulma."
+        }
+      ]
+    },
+    {
+      "id": "4.4",
+      "heading_en": "4 Getting feedback from learners",
+      "heading_tr": "4 Öğrenenlerden geri bildirim alma",
+      "points": [
+        {
+          "en": "Learner feedback informs teaching quality and learner involvement.",
+          "tr": "Öğrenen geri bildirimi öğretim kalitesini ve katılımı bilgilendirir.",
+          "exam": true
+        },
+        {
+          "en": "Ask about learning (‘Which words were new?’) not only enjoyment.",
+          "tr": "Yalnızca keyif değil öğrenme sor (‘Hangi sözcükler yeniydi?’).",
+          "exam": true
+        },
+        {
+          "en": "Avoiding feedback becomes dangerous; problems stay hidden.",
+          "tr": "Geri bildirimden kaçınmak tehlikelidir; sorunlar gizli kalır.",
+          "exam": true
+        },
+        {
+          "en": "Don’t overdo surveys so class groans—keep it short and regular.",
+          "tr": "Sınıf inlemesin diye anketi abartma—kısa ve düzenli tut.",
+          "exam": true
+        },
+        {
+          "en": "Feedback can be oral, written, anonymous forms, exit tickets.",
+          "tr": "Geri bildirim sözlü, yazılı, anonim form, çıkış bileti olabilir.",
+          "exam": false
+        }
+      ],
+      "key_terms": [
+        {
+          "en": "Learner feedback",
+          "tr": "Öğrenen geri bildirimi",
+          "def_en": "Students’ comments on learning/process.",
+          "def_tr": "Öğrencilerin öğrenme/süreç yorumları."
+        }
+      ]
+    },
+    {
+      "id": "4.5",
+      "heading_en": "5 Learner training",
+      "heading_tr": "5 Öğrenen eğitimi",
+      "points": [
+        {
+          "en": "Learner training teaches how to learn: strategies, autonomy, study skills.",
+          "tr": "Öğrenen eğitimi nasıl öğrenileceğini öğretir: stratejiler, özerklik, çalışma becerileri.",
+          "exam": true
+        },
+        {
+          "en": "Integrate study-skills work into lessons, don’t treat it as optional extra only.",
+          "tr": "Çalışma becerilerini derslere entegre et; yalnızca isteğe bağlı ek görme.",
+          "exam": true
+        },
+        {
+          "en": "‘Let them into the secret’: explain why you do activities (aims/process).",
+          "tr": "‘Sırrı paylaş’: etkinlikleri neden yaptığını (amaç/süreç) açıkla.",
+          "exam": true
+        },
+        {
+          "en": "Discuss process as well as content and procedure.",
+          "tr": "İçerik ve prosedürün yanı sıra süreci de tartış.",
+          "exam": true
+        },
+        {
+          "en": "Goal: more independent learners who can continue outside class.",
+          "tr": "Hedef: sınıf dışında da devam edebilen daha bağımsız öğrenenler.",
+          "exam": true
+        }
+      ],
+      "key_terms": [
+        {
+          "en": "Learner training",
+          "tr": "Öğrenen eğitimi",
+          "def_en": "Training learners in learning-how-to-learn.",
+          "def_tr": "Nasıl öğrenileceği konusunda eğitim."
+        },
+        {
+          "en": "Autonomy",
+          "tr": "Özerklik",
+          "def_en": "Taking charge of one’s own learning.",
+          "def_tr": "Kendi öğrenmesinin sorumluluğunu alma."
+        }
+      ]
+    }
+  ],
+  "chapter_review": [
+    {
+      "en": "No truly homogenous class; plan for individuals.",
+      "tr": "Gerçekten türdeş sınıf yok; bireyler için planla."
+    },
+    {
+      "en": "Levels are approximate; expect mixed ability & spiky profiles.",
+      "tr": "Seviyeler yaklaşıktır; karışık yetenek ve dikenli profil bekle."
+    },
+    {
+      "en": "Needs analysis → use the data to change teaching.",
+      "tr": "İhtiyaç analizi → veriyi öğretimi değiştirmek için kullan."
+    },
+    {
+      "en": "Collect learner feedback regularly; avoid avoidance.",
+      "tr": "Öğrenen geri bildirimini düzenli topla; kaçınmaktan kaçın."
+    },
+    {
+      "en": "Learner training builds autonomy (secrets + strategies + process talk).",
+      "tr": "Öğrenen eğitimi özerklik kurar (sırlar + stratejiler + süreç konuşması)."
+    }
+  ]
+}

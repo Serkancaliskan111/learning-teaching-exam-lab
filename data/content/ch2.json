@@ -1,0 +1,218 @@
+{
+  "id": "ch2",
+  "title_en": "Starting out",
+  "title_tr": "Başlangıç",
+  "sections": [
+    {
+      "id": "2.1",
+      "heading_en": "1 The subject matter of language teaching",
+      "heading_tr": "1 Dil öğretiminin konusu",
+      "points": [
+        {
+          "en": "Language teaching subject matter is more than grammar rules: meaning, form, pronunciation, use, discourse.",
+          "tr": "Dil öğretiminin konusu yalnızca gramer kuralları değildir: anlam, biçim, telaffuz, kullanım, söylem.",
+          "exam": true
+        },
+        {
+          "en": "Analyse language points across: form, meaning, pronunciation, function, and typical discourse.",
+          "tr": "Dil noktalarını biçim, anlam, telaffuz, işlev ve tipik söylem açısından analiz et.",
+          "exam": true
+        },
+        {
+          "en": "Example ‘Can you play the guitar?’ involves construction, meaning of words, weak/strong forms, function (ability), typical exchanges.",
+          "tr": "‘Can you play the guitar?’ örneği yapı, sözcük anlamı, zayıf/güçlü biçimler, işlev (yetenek) ve tipik diyalog içerir.",
+          "exam": true
+        },
+        {
+          "en": "Contrast pairs (I’ve been to Paris vs I went to Paris) show meaning differences teachers must clarify.",
+          "tr": "Karşıt çiftler (I’ve been / I went) öğretmenin netleştirmesi gereken anlam farklarını gösterir.",
+          "exam": true
+        },
+        {
+          "en": "Register/politeness matters: Lend us a fiver vs Could you possibly lend me £5?",
+          "tr": "Üslup/nezaket önemlidir: Lend us a fiver vs Could you possibly…",
+          "exam": true
+        },
+        {
+          "en": "Systems vs skills: systems = grammar/lexis/phonology; skills = listening, speaking, reading, writing.",
+          "tr": "Sistemler vs beceriler: sistemler = gramer/lexis/sesbilgisi; beceriler = dinleme, konuşma, okuma, yazma.",
+          "exam": true
+        },
+        {
+          "en": "Beginners usually need a balanced course covering systems and skills—not only grammar.",
+          "tr": "Başlangıç seviyesi genelde sistem + beceriyi dengeli kapsayan kurs ister—yalnızca gramer değil.",
+          "exam": true
+        },
+        {
+          "en": "A grammar-strong learner may still need heavy listening/speaking skills work.",
+          "tr": "Grameri güçlü öğrenen hâlâ yoğun dinleme/konuşma becerisi çalışmasına ihtiyaç duyabilir.",
+          "exam": true
+        },
+        {
+          "en": "Classify activities: grammar exercise, skills reading, noticing forms, chat, writing tasks, vocabulary presentation, metalanguage questions, context questions.",
+          "tr": "Etkinlikleri sınıflandır: gramer alıştırması, okuma, biçim fark etme, sohbet, yazma, sözcük sunumu, üstdil soruları, bağlam soruları.",
+          "exam": false
+        }
+      ],
+      "key_terms": [
+        {
+          "en": "Language systems",
+          "tr": "Dil sistemleri",
+          "def_en": "Grammar, lexis, phonology (and function/discourse).",
+          "def_tr": "Gramer, lexis, sesbilgisi (ve işlev/söylem)."
+        },
+        {
+          "en": "Language skills",
+          "tr": "Dil becerileri",
+          "def_en": "Listening, speaking, reading, writing.",
+          "def_tr": "Dinleme, konuşma, okuma, yazma."
+        },
+        {
+          "en": "Register",
+          "tr": "Üslup / register",
+          "def_en": "Formality level of language.",
+          "def_tr": "Dilin resmiyet düzeyi."
+        }
+      ]
+    },
+    {
+      "id": "2.2",
+      "heading_en": "2 First lessons — hints and strategies",
+      "heading_tr": "2 İlk dersler — ipuçları ve stratejiler",
+      "points": [
+        {
+          "en": "First lessons: learn names, build rapport, set atmosphere, start simple successful activities.",
+          "tr": "İlk dersler: isimleri öğren, ilişki kur, atmosfer oluştur, basit başarılı etkinliklerle başla.",
+          "exam": true
+        },
+        {
+          "en": "Basic activity shape: lead-in → set up → students do (monitor) → close + feedback.",
+          "tr": "Temel etkinlik şekli: lead-in → kurulum → öğrenciler yapar (izle) → kapat + geri bildirim.",
+          "exam": true
+        },
+        {
+          "en": "Lead-in briefly introduces topic (e.g. a picture) to engage interest.",
+          "tr": "Lead-in konuyu kısaca tanıtır (örn. resim) ve ilgi uyandırır.",
+          "exam": true
+        },
+        {
+          "en": "Name strategies: sketch-map of seating + names; place cards; name games (see Ch16).",
+          "tr": "İsim stratejileri: oturma kroki haritası; isim kartları; isim oyunları.",
+          "exam": true
+        },
+        {
+          "en": "Keep early instructions very clear; success builds confidence.",
+          "tr": "Erken yönergeleri çok net tut; başarı güven oluşturur.",
+          "exam": false
+        },
+        {
+          "en": "Don’t overload first lessons with too many new procedures.",
+          "tr": "İlk dersleri çok fazla yeni prosedürle aşırı yükleme.",
+          "exam": true
+        }
+      ],
+      "key_terms": [
+        {
+          "en": "Lead-in",
+          "tr": "Giriş / lead-in",
+          "def_en": "Short warm start that introduces topic/interest.",
+          "def_tr": "Konu/ilgiyi tanıtan kısa ısınma girişi."
+        },
+        {
+          "en": "Feedback stage",
+          "tr": "Geri bildirim aşaması",
+          "def_en": "After task, share outcomes and language points.",
+          "def_tr": "Görev sonrası sonuçları ve dil noktalarını paylaşma."
+        }
+      ]
+    },
+    {
+      "id": "2.3",
+      "heading_en": "3 Method? What method?",
+      "heading_tr": "3 Yöntem? Hangi yöntem?",
+      "points": [
+        {
+          "en": "There is no single best method for every class; teachers build a personal methodological theory.",
+          "tr": "Her sınıf için tek en iyi yöntem yoktur; öğretmenler kişisel yöntem kuramı oluşturur.",
+          "exam": true
+        },
+        {
+          "en": "Know major historical methods (e.g. Grammar-Translation, Audio-Lingual, Communicative) as options, not religion.",
+          "tr": "Başlıca tarihsel yöntemleri (Gramer-Çeviri, Audio-Lingual, İletişimsel) din gibi değil seçenek olarak bil.",
+          "exam": true
+        },
+        {
+          "en": "Communicative Approach prioritises meaningful communication and fluency alongside accuracy.",
+          "tr": "İletişimsel Yaklaşım anlamlı iletişim ve akıcılığa, doğrulukla birlikte öncelik verir.",
+          "exam": true
+        },
+        {
+          "en": "PPP (Presentation–Practice–Production) is a common lesson shape.",
+          "tr": "PPP (Sunum–Alıştırma–Üretim) yaygın bir ders şeklidir.",
+          "exam": true
+        },
+        {
+          "en": "Task-Based Learning often puts a communicative task before detailed language focus.",
+          "tr": "Görev Temelli Öğrenme çoğu zaman ayrıntılı dil odağından önce iletişimsel görev koyar.",
+          "exam": true
+        },
+        {
+          "en": "Eclecticism: select techniques that work in your context; justify choices.",
+          "tr": "Eklektisizm: bağlamında işe yarayan teknikleri seç; seçimini gerekçelendir.",
+          "exam": true
+        },
+        {
+          "en": "Method labels help discussion, but classroom decisions are local and practical.",
+          "tr": "Yöntem etiketleri tartışmaya yardım eder ama sınıf kararları yerel ve pratiktir.",
+          "exam": false
+        }
+      ],
+      "key_terms": [
+        {
+          "en": "PPP",
+          "tr": "PPP",
+          "def_en": "Present → Practice → Produce.",
+          "def_tr": "Sun → Alıştır → Üret."
+        },
+        {
+          "en": "CLT",
+          "tr": "İletişimsel dil öğretimi",
+          "def_en": "Communicative Language Teaching.",
+          "def_tr": "İletişimsel Dil Öğretimi."
+        },
+        {
+          "en": "TBL",
+          "tr": "Görev temelli öğrenme",
+          "def_en": "Task-Based Learning.",
+          "def_tr": "Görev Temelli Öğrenme."
+        }
+      ]
+    }
+  ],
+  "chapter_review": [
+    {
+      "en": "Analyse language: form + meaning + pronunciation + function + discourse.",
+      "tr": "Dili analiz et: biçim + anlam + telaffuz + işlev + söylem."
+    },
+    {
+      "en": "Balance systems and skills; beginners need both.",
+      "tr": "Sistem ve beceriyi dengele; başlangıç ikisini de ister."
+    },
+    {
+      "en": "First-lesson activity flow: lead-in → setup → do → feedback.",
+      "tr": "İlk ders akışı: lead-in → kurulum → yap → geri bildirim."
+    },
+    {
+      "en": "Learn names fast; build rapport early.",
+      "tr": "İsimleri hızlı öğren; ilişkiyi erken kur."
+    },
+    {
+      "en": "No one true method; personal theory + context.",
+      "tr": "Tek doğru yöntem yok; kişisel kuram + bağlam."
+    },
+    {
+      "en": "Know PPP, CLT, TBL, GT, ALM as toolkit options.",
+      "tr": "PPP, CLT, TBL, GT, ALM’yi araç seti seçenekleri olarak bil."
+    }
+  ]
+}

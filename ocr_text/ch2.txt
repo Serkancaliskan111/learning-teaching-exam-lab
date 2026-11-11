@@ -1,0 +1,679 @@
+
+
+===== PAGE 28 =====
+— .
+Chapter2 Stgrting out
+his chapter is an introductory overview of:
+« the subject matter of language teaching;
+* some first lesson hints and suggestions;
+¢ what we mean by method.
+1 The subject matter of language teaching
+What exactly are we teaching? What is the subject matter of language teaching?
+An outsider might imagine that the content would comprise two major elements,
+namely knowledge of the language’s grammar and knowledge of lots of
+vocabulary. Of course, these do form an important part of what is taught/learned,
+but it is important to realise that someone learning a language needs far more
+than ‘in-the-head’ knowledge of grammar and vocabulary in order to be able to
+be use language successfully.
+
+In staff rooms, you'll find that teachers typically classify the key subject matter of
+language teaching under two main headings: ‘Language systems’ and ‘Language
+skills’. There are other important subject areas as well (including ‘Learning better
+ways of learning’, ‘Exam techniques’, ‘Working with and learning about other
+people’).
+
+Language systems
+We can analyse a sentence such as Pass me the book in different ways.
+We could consider:
+* the sounds (phonology);
+¢ the meaning of the individual words or groups of words (lexis or vocabulary);
+¢ how the words interact with each other within the sentence (grammar);
+¢ the use to which the words are put in particular situations (function).
+If we extend our language sample into a complete (short) conversation, e.g.
+A: Pass me the book.
+B: Mary’s gone home.
+then we have an additional area for analysis, namely the way that communication
+makes sense beyond the individual phrase or sentence, analysing how the
+sentences relate (or don’t relate) to each other (known as discourse).
+Figure 2.1 shows a brief analysis of the language sample from each of these
+viewpoints.
+27
+
+
+===== PAGE 29 =====
+Chapter 2 Starting out
+Phonological /pa:s mi: Oe 'buk/ or /pzes mi: 6a 'buk/
+The stress is probably on book, but also possible
+(with different meanings) on Pass or me.
+The words me and the probably have a weak vowel sound.
+Lexical Pass = give; hand over; present
+me = reference to speaker
+the book = object made of paper, containing words and/or
+pictures and conveying information
+Grammatical Verb (imperative) + first person object pronoun + definite
+article + noun
+A request or order
+Discoursal Assuming that the reply Mary’s gone home is intended as a
+genuine reply to the request, it may suggest a reason why the
+book cannot be passed (e.g. | can’t because Mary took the
+book with her). In order to fully understand the meaning, we
+would need to know more about the situational context (i.e.
+who is talking, where, etc.) and more about the surrounding
+. conversation (i.e. what knowledge is assumed to be known
+or shared between the speakers).
+Figure 2.1 Analysis of a language sample
+So we have five language systems, though all are simply different ways of looking
+at the same thing. If we are considering teaching an item of language, one thing
+we need to decide is which system(s) we are going to offer our learners
+information about.
+We might plan a lesson focused on only one area, e.g. grammar, or we might deal
+with two, three or more. An example of a commonly combined systems focus in
+many language lessons would be:
+grammar + pronunciation + function
+(i.e. how the language is structured, how to say it and how it’s used).
+Task 9: Recognising language systems
+Imagine that you intend to do some teaching using this piece of language:
+Can you play the guitar? Match some points you might focus on with the correct
+system name:
+1 the construction can + pronoun
+2 the meaning of play and guitar
+3 variations, e.g. strong /kzen ju:/ vs. weak /kan ja/, stress on guitar, etc.
+4 asking about ability
+5 typical question-and-reply sequences containing this language
+28
+
+
+===== PAGE 30 =====
+— UU
+1 The subject matter of language teaching
+a function
+b discourse
+c lexis
+d grammar
+€ pronunciation
+Answers
+1d 2c 3e 4a 5b
+Task 10: Distinguishing language systems
+You want to teach a lesson contrasting two potentially confusing areas of
+language. Classify each of the following teaching points as ‘G’ for grammatical,
+‘L’ for lexical, ‘P’ for phonological, ‘F’ for functional.
+Example: house compared to flat = L (lexical)
+1 ! went to Paris compared to |’ve been to Paris
+2 Lend us a fiver compared to Could you possibly lend me £5?
+3 library compared to bookshop
+4 woman compared to women
+, 5 Sorry compared to Excuse me
+6 hut compared to hat
+~ impotent compared to important
+8 some compared to any
+Answers
+1G 2F 3L 4G/P SF _ 6P (changing vowel sound)
+7 P (changing word stress)/L 8G
+Language skills
+As well as working with the language systems (which we can think of as what we
+know, i.e. ‘up-in-the-head’ knowledge), we also need to pay attention to what we
+do with language. These are the language skills. Teachers normally think of there
+being four important macro language skills: listening, speaking, reading, writing.
+Listening and reading are called ‘receptive skills’ (the reader or listener receives
+information but does not produce it); speaking and writing, on the other hand,
+are the ‘productive skills’. Skills are commonly used interactively and in
+combination rather than in isolation, especially speaking and listening. It’s
+arguable that other things (e.g. ‘thinking’, “using memory’ and “‘mediating’)
+are also language skills.
+Language systems Language skills
+knowing doing
+Phonology | Speaking
+Lexis Productive .
+Writing
+Grammar
+Function Reading
+Receptive ;
+
+Discourse Listening
+
+Figure 2.2 Language systems and skills
+29
+
+
+===== PAGE 31 =====
+ert
+Chapter 2 Starting out
+The main four skills are referred to as ‘macro’ because any one of them could be
+analysed down to smaller micro skills by defining more precisely what exactly is
+being done, how it is being done, the genre of material, etc. For example:
+Macro skill Listening
+Some micro * Understanding the gist of what is heard, e.g. Who is talking?
+skills Where are they? What are they doing? What is their
+relationship? How do they feel?
+¢ Understanding precise information re. quantity, reference
+numbers, prices, etc. when listening to a business telephone call
+where a client wants to place an order.
+¢ Compensating for words and phrases not heard clearly in an
+informal pub conversation by hypothesising what they are,
+based on understanding of the content of the rest of a
+conversation and predictions of likely content.
+Task 11: Listening to a radio weather forecast
+Consider briefly how you listen to the radio weather forecast in your own language.
+What would be different if you listened to one in a foreign language that you have
+been studying for a year or so?
+Commentary 8H &
+Many of the skills that we have in our own native language are directly
+transferable to a foreign language. But we do need practice in a number of areas.
+For example, I know how I listen to a weather forecast in my own language: I only
+half-listen until I hear the forecaster mention my part of the country, then I
+‘switch on’ and concentrate to catch the key phrases about it, then switch off
+again. But when I listen to a weather forecast in a foreign country in a different
+language, I will have problems, even if I know all the words and all the grammar
+the forecaster uses. ‘Trying to decipher words in the seemingly fast flow of speech,
+trying to pick out what is important and what is not, is a skill that needs to be
+practised; it is work that needs attention in its own right, quite apart from the
+study of the grammar and vocabulary involved.
+The importance of skills work
+Don’t underestimate the importance of skills work. Not every lesson needs to
+teach new words, new grammar, etc. Lessons also need to be planned to give
+students opportunities to practise and improve their language skills. Skills work is
+not something to add in at the end of a five-year course in English. There is no
+need to wait for extensive knowledge before daring to embark on listening and
+speaking work. On the contrary, it is something so essential that it needs to be at
+the heart of a course from the start. Even a beginner with one day’s English will
+be able to practise speaking and listening usefully.
+A purpose-based view of course content
+Another way of looking at possible course content is to consider the
+communicative purposes that students need language for. The Common
+European Framework (see page 134) focuses on what learners can do with
+30
+
+
+===== PAGE 32 =====
+—_——
+1 The subject matter of language teaching
+language. For example, can an individual learner successfully attend company
+planning meetings? Or take notes in physics lectures at university? Or give
+unambiguous instructions to junior doctors on a ward? An analysis of such can do
+requirements suggests a different kind of course content, one based around
+students planning, undertaking and reflecting on tasks that reflect these real-life
+purposes. This course content would clearly include systems and skills work, but
+would be organised around this key idea of real-world uses.
+Changes of emphasis
+‘Traditionally, language teaching in many countries concentrated on grammar
+and vocabulary reinforced by reading and writing. The reading and writing was
+primarily to help teach the grammar and vocabulary rather than to help improve
+the students’ skills in reading or writing. In the twentieth century, teaching
+approaches based mainly around oral language practice through repetition and
+drilling were also widely used. Until the 1960s, a lot of courses were based on
+mainly grammatical syllabuses, but in the late 1970s and 1980s, a number of
+courses and coursebooks used a functional syllabus, grouping language by the
+purpose for which it could be used (e.g. the language of greeting or requesting
+or apologising).
+Nowadays, most interest is expressed in work on all language systems and skills,
+particularly emphasising listening and speaking (because in everyday life we
+often do far more speaking and listening than we do reading and writing).
+Grammar is typically still the language system that features most prominently on
+courses and in coursebooks ~ and, at lower levels, is also the area that many
+students say they want or expect to study in most detail. Often coursebooks teach
+grammar with an emphasis on communication of meaning rather than purely
+mechanical practice.
+Despite the continuing predominance of grammar, the implications of a more
+lexically oriented view of language (see page 226) are increasingly having an |
+impact on material and task design. ‘The growing influence of the Common
+European Framework (see page 134) has encouraged course designers, teachers
+and examiners to increasingly see successful communication in real-world tasks
+as amore important goal than that of accurate language use.
+Task 12: Balancing systems and skills
+Here are two teaching situations. What balance of systems and skills would make
+a useful course for these learners?
+1 A 24-year-old Japanese learner has studied grammar at school for nine years;
+she can read and understand even complex texts well. She has arrived in
+England to take a two-week intensive course. In her placement test (which was
+mainly multiple-choice grammar questions), she scored very well, but at the
+initial interview, she had trouble answering even simple questions about
+herself and often haltingly asked the interviewer to repeat the question.
+2 Agroup of three undergraduate science students have enrolled for an English |
+course at a language school in the Czech Republic. They know no English at all.
+31 2
+
+
+===== PAGE 33 =====
+i
+_>
+Chapter 2 Starting out
+Commentary 5 8 8
+1 The Japanese learner clearly needs a lot of work on the skills of listening and
+speaking. As she knows a lot of grammar, the course could concentrate on
+helping her activate this passive knowledge; the main thrust of the work could
+be on realistic listening and speaking activities to promote fluency and improve
+communicative abilities.
+2 Most beginners need a balanced course that introduces them to the five
+systems and four skills. In their future careers, these science learners may
+well need to read and write English quite a lot, but may also need to visit other
+countries, listen to conference speeches (and give them), greet visiting
+scientists, etc. If they are likely to meet English-speaking people soon, it might
+be sensible to focus on speaking and listening, alongside work to help them
+read and write more effectively.
+The communicative purpose of language learning
+It is important to remember that no one area of skills or language systems exists in
+isolation: there can be no speaking if you don’t have the vocabulary to speak with;
+| there’s no point learning words unless you can do something useful with them.
+The purpose of learning a language is usually to enable you to take part in
+exchanges of information: talking with friends, reading instructions on a packet
+of food, understanding directions, writing a note to a colleague, etc. Sometimes
+traditional teaching methods have seemed to emphasise the learning of language
+systems as a goal in its own right and failed to give learners an opportunity to gain
+realistic experience in actually using the language knowledge gained; how many
+students have left school after studying a language for years, unable to speak an
+intelligible sentence?
+Task 13: Recognising skills or systems aims
+Every activity is likely to involve some work on both language systems and skills,
+though, usually, the aim is directed more to one area than the other. In the
+following list, classify each activity as ‘mainly skills’ or ‘mainly systems’ by ticking
+the appropriate box. Then decide which skills or which language systems are
+being worked on.
+Mainly systems | Mainly skills
+1 You write a grammar exercise on the board
+which learners copy and then do.
+2 Learners read a newspaper article and then
+discuss the story with each other.
+3 Learners underline all past simple verb forms
+in a newspaper article.
+4 Learners chat with you about the weekend.
+5 Learners write an imaginary postcard to a
+friend, which you then correct.
+6 Learners write a postcard to a friend, which
+is posted uncorrected.
+32
+
+
+===== PAGE 34 =====
+| 1 The subject matter of language teaching
+Mainly systems | Mainly skills
+7 You use pictures to teach ten words
+connected with TV.
+8 You say ‘What tenses do these people use?’
+Learners then listen to a recorded conversation.
+9 You say ‘Where are these people?’ Learners
+then listen to a recorded conversation.
+Commentary 5 8
+In Activity 1, the students do read and write, but use few of the skills that we need
+when we read and write in our normal life. Certainly, comprehending the
+teacher’s handwriting and forming one’s own letters on the page may be quite
+demanding for some students (especially for those whose native language does
+not use roman script), but beyond this, the activity’s main demand is on use of
+grammar correctly.
+
+' Activity 2 involves the skills of reading and speaking in ways very similar to those
+in the outside world. Vocabulary and grammar will be encountered in the
+reading, but the main aim is for understanding rather than analysis and study.
+
+| Compare this with Activity 3, where the same material is used, but now with a
+specific grammar aim. Compare then with Activities 5 and 6, and 8 and 9. The
+aim in Activity 4 is to encourage fluent speaking. The aim in Activity 7 is to teach
+
+some vocabulary, and the speaking and listening and writing involved are of less
+importance.
+Other areas that are part of language learning
+
+) ‘The map of language systems and language skills is useful to keep in mind as an
+overview of the subject matter of English language teaching. However, it may well
+be an over-simplification. Elsewhere in this book, you’ll come across some doubts
+
+: about it (for example, when we ask if grammar is more fruitfully viewed as a ‘skill’
+students need practice in using rather than as a ‘system’ to learn). And, of course,
+there is more to English language teaching than simply the language itself:
+¢ Students may be learning new ways of learning: for example, specific study
+
+skills and techniques.
+¢ They will also be learning about the other people in their class, and exploring
+
+| ways of interacting and working with them.
+
+e« They may be learning about themselves and how they work, learn, get on with
+other people, cope with stress, etc.
+
+¢ They may be learning a lot about the culture of the countries whose language
+they are studying.
+
+¢ They may be learning how to achieve some specific goal, for example passing
+an exam, making a business presentation at an upcoming conference, etc.
+
+¢ They may also be learning about almost anything else. The subject matter of
+ELT can encompass all topics and purposes that we use language to deal with.
+
+33
+
+
+===== PAGE 35 =====
+| el
+Chapter 2 Starting out
+Many teachers seem to become quite knowledgeable on the environment,
+business protocol, the British education system, desert survival techniques, etc.
+This is probably what keeps the job interesting! Some coursebook texts seem to
+achieve nearly legendary status amongst teachers! (Ask a teacher who’s been in
+the business a few years if they know anything about a nun called Sister Wendy!)
+If we start using English in class to do more than simple mechanical drills, then
+the subject matter becomes anything that we might do with language, any topic
+that might be discussed with English, any feelings that might be expressed in
+English, any communication that we might give or receive using English. The
+people who use the language in class, and their feelings, are, therefore, also part
+of the subject matter. This might be a little daunting and may lead you to keep the
+uses of language in class at a more mechanical, impersonal level, without allowing
+too much ‘dangerous’ personal investment in what is said or heard. This seems
+sad to me; I believe that we need to give our students chances to feel and think
+and express themselves in their new language.
+2 First lessons — hints and strategies
+In your early lessons as an English teacher, you may find that ‘survival’ is your
+main priority. You would like to teach well and for your students to learn and
+enjoy what happens, but more than that you want something that you can prepare
+easily, something that is guaranteed (or nearly guaranteed) to work, something
+that will let you go into the classroom, do some useful work with the learners and
+get out alive. This section offers a number of hints and strategies that might help
+you do this.
+Key hints when planning your first lessons
+¢ Use the coursebook (if there is one)
+Don’t feel that you have to come up with stunning original lesson ideas and
+creative new activities. If you have a coursebook, then you have an instant
+source of material. It’s fine to rely on the longer experience of the coursebook
+writer and do the lesson exactly as it was written. Take your time before the
+lesson to read carefully through the unit (and give the same attention to the
+‘Teacher’s Book, if you have access to one). There’s a reasonable chance you'll
+end up with a workable lesson. Many teachers also use ideas books, known as
+‘recipe books’, which do exactly what that nickname suggests — give you
+everything you need to know to be able to walk into class with the right
+ingredients to ‘cook up’ a good activity.
+¢ Alesson is a sequence of activities
+‘Think of the lesson as a series of separate but linked activities. Your first
+planning job is to select some appropriate activities. Read Chapter 3 and be
+clear what an activity is and how you can organise it in class.
+¢ Learn something about your students
+If possible, talk to other teachers and find out something about the class and
+the people in it.
+¢« Plan student-focused activities
+Don’t plan first lessons that will put you upfront in the spotlight feeling the
+34
+
+
+===== PAGE 36 =====
+2 First lessons — hints and strategies
+need to burble. That leads to panic and muddle. Plan activities that are based
+on the following route map:
+1 Lead-in (a brief introduction to the topic, e.g. you show a picture to the
+class and invite comments).
+2 Setup the activity (i.e. you give instructions, arrange the seating, etc.).
+3 Students do the activity in pairs or small groups while you monitor and
+help.
+4 Close the activity and invite feedback from the students.
+Steps 1, 2 and 4 should take relatively little time. The heart of this sequence
+is Step 3. This route-map lesson plan is looked at in more detail in the :
+Chapter 3.
+| ¢ Make a written plan of the running order of your activities
+Write out a simple list showing the activities in order. You don’t need to include
+a lot of detail, but make sure you have a clear idea of your intended sequence of
+stages, perhaps with estimated timings.
+¢ Consider aims
+Think about what students will get from your lesson, i.e. what is the point of
+them spending their time in this lesson?
+| ¢ Fluency or accuracy?
+Decide, for each stage in the lesson, if you are mainly working on fluency or
+accuracy — this a key choice for many activities (see Chapter 7, Section 4).
+¢ Get the room ready; get yourself ready
+| If the timetabling and organisation of your school allows it, take time before
+: any students arrive to make sure everything 1s ready before the class starts.
+Make sure the room is set up as you wish (e.g. how will you arrange the
+seating?). Make sure you have everything you need (e.g. chalk or board pens) —
+don’t expect them just to magically be there! And most importantly, just feel
+what it’s like to be in that room. Start to settle into it, to exercise ownership over
+it. For the length of the lesson, it’s your space.
+* Have at least one emergency activity!
+Prepare your own personal emergency ‘Help I’ve run out of things to do and
+still have five minutes left’ activity (e.g. a word game, an extra photocopied
+game, etc.). Keep this and add more emergency ideas day by day.
+Key hints when teaching your first lessons
+* Talk to the students as they come into the room
+Don’t hide or do not-really-necessary “business’ while you wait for all students
+to arrive. This quickly builds up a tension and distance between you and the
+students and makes the start of the lesson much more demanding. Instead,
+think of the lesson as starting from the first moment a student arrives in the
+room. You can calm your own nerves and break the ice with students very
+quickly by chatting with each of them as they come into the room. Try sitting
+with them (even just for a minute or two) rather than standing in front of them.
+Welcome them. Ask them their names. You’ll immediately start to learn
+something about them as real people rather than as generic ‘students’, and
+you'll find that you can start to relax a little.
+35
+
+
+===== PAGE 37 =====
+nn
+Chapter 2 Starting out
+¢ Learn names as soon as possible
+There is a huge difference in comfort levels if you know people’s names.
+‘They stop being scary anonymous entities and start to become humans. In
+everyday life, if we meet a number of people in one go, say at a party, we are
+often a little careless about learning names. But in class, it is a very important
+teacher skill, and you should aim to internalise names as soon as possible. It is
+a bit embarrassing if you have to ask people their names over and over again.
+Don’t say ‘I’m bad at remembering names.’ Make learning names quickly and
+accurately your first priority. If for any reason the pronunciation of names is
+a problem, take time to get the sounds right; if you are teaching in another
+country, maybe get a local speaker to help you.
+Practical Ideas
+1 As you ask each student for their name, write it down on a mini-sketch-map
+of the classroom. When you have all the names, test yourself by covering up
+the map, looking at the class and saying the names to yourself. Check and
+repeat any names you don’t yet know.
+9 At Pn ee
+3 a, SEX Spgs Bk a ee
+—— Nk & ( ‘1 HY ANY, WEL \ )
+Zo TK By (NGSC TANT | p yy, y'
+2 Ask students to make a small place card for themselves by folding an A5
+piece of paper in half. They should write their names on this so that every
+name is visible to you at the front. As the lesson proceeds, turn individual
+cards around when you think you know the student’s name. (Some teachers
+use cards like these through whole courses; that seems rather lazy to me!
+This strategy is to help you learn names, not a substitute for that learning!)
+ie Yo J Sem “aS
+ih ! rt Whe , e { wth ) | | | ug / jay Ni y \ ({
+Wy yw 1 | yay P i Me We i \ / , ba “aly yo.
+3 Use name games from Chapter 16, Section 5. If it’s not just you, the teacher,
+who is new, but your students are also new to each other, then using some of
+these name-game activities will definitely be a good idea.
+¢ Be yourself
+Don’t feel that being a teacher means you have to behave like a ‘teacher’. As far
+as possible, speak in ways you normally speak, respond as yourself rather than
+as you think a ‘teacher’ should respond. Students, whether children, teens or .
+36
+
+
+===== PAGE 38 =====
+2 First lessons — hints and strategies
+adults, very quickly see through someone who is role-playing what they think a
+teacher should be. Authenticity in you tends to draw the best out of those you
+. are working with.
+: ¢ Teaching doesn’t mean ‘talking all the time’
+Don’t feel that when you are ‘in the spotlight’, you have to keep filling all the
+silences. When you are teaching a language, the priority is for the learners to
+talk, rather than the teacher. Start to notice the quantity of your own talk as
+soon as possible — and check out how much is really useful. High levels of
+teacher talk is a typical problem for new teachers. Read more about this in
+Chapter 5.
+¢ Teaching doesn’t mean ‘teaching’ all the time
+Don’t feel that being a teacher means that you have to be doing things all the
+time. It may feel a little odd, but it really is quite OK to sit down and do nothing
+when students are working on a pair or group task. There are times when your
+| ‘help’ will actually be interference. ‘Take the chance to recover from your
+exertions, check your notes, enjoy watching your class at work, etc.
+¢ Slow down
+A large number of new teachers tend to do things much too fast. They often
+seriously underestimate how difficult things are for students, or are responding
+to a fear that students will find things boring. Learning to really slow down
+takes time — but it’s worth bearing in mind from your first lesson onwards. For
+example, don’t ask a question and then Jump straight in again because you
+think they can’t answer it. Instead, allow three times the length of time you feel
+| students need (this is sometimes called wait time).
+Key hints for starting to teach better (once you’ve got past the first
+few classes)
+¢ Turn your radar on
+You are likely to be a little self-focused during your early lessons, but as soon as
+you can, start to tune in more to the students. Start to ask for comments and
+brief feedback on things you do. Watch the students at work and learn to notice
+| what is difficult, what is easy, what seems to engage, what seems boring. Study
+your students.
+¢ Don’t teach and teach ... teach then check
+Practice is more important than input. Checking what students have
+understood and testing if they can use items themselves is usually more
+| important than telling them more about the new items. Don’t do endless
+inputs. Teach a very little amount ... then check what students have taken in.
+Give students the opportunity to try using the items, e.g. a little oral practice, a
+written question or two, or even simply ‘repeat’. (Here’s a rule-of-thumb ratio
+to experiment with: Input 5%, Checking and practice 95%.)
+¢ Are you teaching the class ... or one person?
+When you ask questions/check answers, etc., are you really finding out if they
+all know the items ... or is it just the first person to call out? If one person says
+an answer, does that mean they all know? What about the others? How can you
+find out?
+37
+
+
+===== PAGE 39 =====
+| ae
+Chapter 2 Starting out
+3 Method? What method?
+
+Task 14: Your own teaching method
+e What teaching method do you use? Can you name it?
+e Can you describe key features of it?
+
+¢ Can you describe any of its underlying principles?
+
+Commentary 8H
+
+A method is a way of teaching. Your choice of method is dependent on your
+approach, i.e. what you believe about:
+
+¢ what language is;
+
+* how people learn;
+
+¢ how teaching helps people learn.
+
+Based on such beliefs, you will then make methodological decisions about:
+
+* the aims of a course;
+
+* what to teach;
+
+* teaching techniques;
+
+* activity types;
+
+* ways of relating with students;
+
+* ways of assessing. |
+Having said that, some methods exist without any apparent sound theoretical :
+basis! Ml
+Some well-known methods and approaches
+Well-known methods and approaches include:
+The Grammar-Translation Method
+Much traditional language teaching in schools worldwide used to be done inthis
+way, and it is stil] the predominant classroom method in some cultures. The :
+teacher rarely uses the target language. Students spend a lot of time reading texts, i
+translating them, doing exercises and tests, writing essays. There is relatively little |
+focus on speaking and listening skills. L
+The Audio-Lingual Method |
+Although based on largely discredited theory, the techniques and activities (
+continue to have a strong influence over many classrooms. It aims to form good :
+habits through students listening to model dialogues with repetition and drilling |
+but with little or no teacher explanation.
+Communicative Language Teaching (CLT) or Communicative Approach (CA) ;
+This is perhaps the method or approach that most contemporary teachers would
+subscribe to, despite that fact that it is widely misunderstood and misapplied. E
+CLT is based on beliefs that learners will learn best if they participate in 7
+meaningful communication. It may help if we distinguish between a stronger and §
+a weaker version of CLT: 4
+Strong CLT: students learn by communicating, i.e. doing communication tasks ;
+with a limited role for explicit teaching and traditional practice exercises. 3
+
+38 =
+
+
+===== PAGE 40 =====
+j 3 Method? What method?
+| Weak CLT: students learn through a wide variety of teaching, exercises, activities
+| and study, with a bias towards speaking and listening work.
+Most current coursebooks reflect a version of weak CLT.
+Total Physical Response (TPR)
+A method devised by DrJ. Asher, mainly useful with beginner and lower-level
+| students. Learners listen to instructions from the teacher, understand and do
+things in response, without being required to speak until they are ready (see
+page 281).
+Community Language Learning (CLL)
+A method based around use of the learners’ first language and with teacher help
+in mediating. It aims to lower anxiety and allow students to communicate in a
+| more genuine way than is typically possible in classrooms (see page 309).
+The Natural Approach
+Devised by Stephen Krashen, this is a collection of methods and techniques from
+many sources, all intended to provide the learner with natural comprehensible
+language so that the learner can pick up language in ways similar to a child
+| learning their first language.
+| Task-Based Learning (TBL)
+A variant of CLT (see above) which bases work cycles around the preparation
+for, doing of, and reflective analysis of tasks that reflect real-life needs and skills.
+The Silent Way
+Devised by Caleb Gattegno, this method requires the learner to take active
+ownership of their language learning and to pay great attention to what they say.
+Distinctive features include the relative restraint of the teacher (who is not
+completely silent!) and the use of specially designed wallcharts. The use of
+Cuisenaire rods in mainstream ELT arose from this method.
+Person-Centred Approaches
+j Any approach that places learners and their needs at the heart of what is done. |
+| Syllabus and working methods will not be decided by the teacher in advance of |
+the course, but agreed between learner and teacher. |
+Lexical Approaches |
+Proposed by Michael Lewis and Jimmie Hill. On the back of new discoveries |
+about how language is really used, especially the importance of lexical chunks in
+communication, proponents suggest that traditional present-then-practise
+methods are of little use and propose a methodology based around exposure and |
+experiment.
+Dogme |
+Scott Thornbury’s proposed back-to-basics approach. Teachers aim to strip their |
+craft of unnecessary technology, materials and aids and get back to the |
+fundamental relationship and interaction of teacher and student in class. ,
+Some schools (or individual teachers) follow one of these named methods or
+} approaches. In naming a method, a school suggests that all (or most) work will fit
+| a clearly stated, recognisable and principled way of working. Other schools
+| sometimes advertise a unique named method of their own, e.g. the Cambridge
+| Method. These are usually variations on some of the methods listed above, or not
+| a method at all but something else, e.g. simply the name of the coursebook series
+39
+
+
+===== PAGE 41 =====
+ae
+Chapter 2 Starting out
+
+being used (e.g. the Headway Method), a way of dividing levels according to a Cha
+familiar exam system, or an eclectic contemporary lucky dip.
+Personal methodology
+Despite the grand list of methods above, the reality is that very few teachers have
+ever followed a single method in its entirety (unless they work in a school that
+demands that they do and carefully monitors adherence).
+I remember watching many language teachers at work in the (then) Soviet Union,
+which was well known as a bastion of traditional Grammar-Translation teaching.
+Yet I was struck by how every teacher had their own personal way of working in
+the classroom. There were some similar factors between different teachers, and if
+I listed all the most frequently observable features and added them together I
+could have found a core of things that were recognisably Grammar- Translation.
+But the truth was that there was no monolithic method at work.
+Many teachers nowadays would say that they do not follow a single method.
+‘Teachers do not generally want to take someone else’s prescriptions into class and
+apply them. Rather they work out for themselves what 1s effective in their own
+
+classrooms. They may do this in a random manner or in a principled way, but
+what they slowly build over the years is a personal methodology of their own,
+constructed from their selection of what they consider to be the best and most
+appropriate of what they have learned about. The process of choosing items from
+a range of methods and constructing a collage methodology is sometimes known
+as principled eclecticism.
+I offer some suggestions for a way to construct your own principled personal
+methodology in Chapter 6 on planning.
+
+40

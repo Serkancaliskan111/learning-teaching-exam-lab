@@ -1,0 +1,292 @@
+[
+  {
+    "id": "q6-01",
+    "type": "mcq",
+    "prompt_en": "Planning is best described as…",
+    "prompt_tr": "Planlama en iyi şöyle tanımlanır…",
+    "options": [
+      "A thinking skill",
+      "Only bureaucracy",
+      "Avoiding aims",
+      "Random activity lists"
+    ],
+    "answer": "A thinking skill",
+    "explain_en": "Thinking first.",
+    "explain_tr": "Önce düşünme.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "q6-02",
+    "type": "mcq",
+    "prompt_en": "Which is a better lesson aim?",
+    "prompt_tr": "Hangisi daha iyi ders amacı?",
+    "options": [
+      "Learners will invite a friend using Would you like to…?",
+      "Teach invitations",
+      "Talk a lot",
+      "Use the book"
+    ],
+    "answer": "Learners will invite a friend using Would you like to…?",
+    "explain_en": "Learner-centred observable.",
+    "explain_tr": "Öğrenen merkezli gözlemlenebilir.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "q6-03",
+    "type": "tf",
+    "prompt_en": "‘Teach the past simple’ is an ideal learner-centred aim.",
+    "prompt_tr": "‘Past simple öğret’ ideal öğrenen merkezli amaçtır.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answer": "False",
+    "explain_en": "Teacher-centred wording.",
+    "explain_tr": "Öğretmen merkezli ifade.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "q6-04",
+    "type": "fill",
+    "prompt_en": "Temporary support that helps then fades is ______.",
+    "prompt_tr": "Yardım edip sonra azalan geçici destek ______.",
+    "answer": "scaffolding",
+    "explain_en": "Scaffolding.",
+    "explain_tr": "Scaffolding.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "q6-05",
+    "type": "mcq",
+    "prompt_en": "Appropriate challenge means…",
+    "prompt_tr": "Uygun zorluk demektir…",
+    "options": [
+      "Stretch without crushing",
+      "Always impossible tasks",
+      "Only baby tasks",
+      "No tasks"
+    ],
+    "answer": "Stretch without crushing",
+    "explain_en": "Sweet spot.",
+    "explain_tr": "Tatlı nokta.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "q6-06",
+    "type": "mcq",
+    "prompt_en": "Formal lesson plans commonly include…",
+    "prompt_tr": "Resmi ders planları sıkça içerir…",
+    "options": [
+      "Stages, timing, interaction, anticipated problems",
+      "Only jokes",
+      "Only homework titles",
+      "No aims"
+    ],
+    "answer": "Stages, timing, interaction, anticipated problems",
+    "explain_en": "Standard training plan parts.",
+    "explain_tr": "Standart eğitim plan parçaları.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "q6-07",
+    "type": "fill",
+    "prompt_en": "Test–Teach–Test is abbreviated ______.",
+    "prompt_tr": "Test–Teach–Test kısaltması ______.",
+    "answer": "TTT",
+    "explain_en": "TTT.",
+    "explain_tr": "TTT.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "q6-08",
+    "type": "mcq",
+    "prompt_en": "Jungle path teaching is…",
+    "prompt_tr": "Jungle path öğretim…",
+    "options": [
+      "Responsive/lighter alternative to rigid formal plans",
+      "A seating arrangement only",
+      "A pronunciation chart",
+      "A ban on aims"
+    ],
+    "answer": "Responsive/lighter alternative to rigid formal plans",
+    "explain_en": "Alternative planning.",
+    "explain_tr": "Alternatif planlama.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "q6-09",
+    "type": "tf",
+    "prompt_en": "Course planning should ignore needs analysis.",
+    "prompt_tr": "Kurs planlama ihtiyaç analizini yok saymalıdır.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answer": "False",
+    "explain_en": "Needs feed design.",
+    "explain_tr": "İhtiyaçlar tasarımı besler.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "q6-10",
+    "type": "mcq",
+    "prompt_en": "Too-hard tasks often lead to…",
+    "prompt_tr": "Çok zor görevler sıkça şuna yol açar…",
+    "options": [
+      "Failure and demotivation",
+      "Perfect flow always",
+      "More autonomy instantly",
+      "Zero challenge forever"
+    ],
+    "answer": "Failure and demotivation",
+    "explain_en": "Crushing challenge.",
+    "explain_tr": "Ezen zorluk.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "q6-11",
+    "type": "mcq",
+    "prompt_en": "Sequencing lesson components is about…",
+    "prompt_tr": "Ders bileşenlerini sıralama şununla ilgilidir…",
+    "options": [
+      "Logical order so learning builds",
+      "Random shuffle only",
+      "Maximising TTT only",
+      "Ignoring energy"
+    ],
+    "answer": "Logical order so learning builds",
+    "explain_en": "Prepare next stage.",
+    "explain_tr": "Sonraki aşamaya hazırla.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "q6-12",
+    "type": "fill",
+    "prompt_en": "The outline of course content/order is a ______.",
+    "prompt_tr": "Kurs içerik/sıra ana hattı bir ______.",
+    "answer": "syllabus",
+    "explain_en": "Syllabus.",
+    "explain_tr": "İzlence.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "q6-13",
+    "type": "mcq",
+    "prompt_en": "English teaching worldwide…",
+    "prompt_tr": "Dünyada İngilizce öğretimi…",
+    "options": [
+      "Must be localised to context",
+      "Is identical everywhere",
+      "Needs no cultural awareness",
+      "Uses one script only"
+    ],
+    "answer": "Must be localised to context",
+    "explain_en": "Contexts differ.",
+    "explain_tr": "Bağlamlar farklıdır.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "q6-14",
+    "type": "mcq",
+    "prompt_en": "Anticipated problems on a plan show…",
+    "prompt_tr": "Plandaki olası sorunlar şunu gösterir…",
+    "options": [
+      "Professional foresight and solutions thinking",
+      "That the teacher failed already",
+      "No need for materials",
+      "Ban on monitoring"
+    ],
+    "answer": "Professional foresight and solutions thinking",
+    "explain_en": "Training favourite.",
+    "explain_tr": "Eğitim favorisi.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "q6-15",
+    "type": "tf",
+    "prompt_en": "Lighter planning means teaching with no purpose.",
+    "prompt_tr": "Daha hafif planlama amaçsız öğretmek demektir.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answer": "False",
+    "explain_en": "Still purposeful.",
+    "explain_tr": "Hâlâ amaçlıdır.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "q6-16",
+    "type": "fill",
+    "prompt_en": "Presentation–Practice–Production = ______.",
+    "prompt_tr": "Presentation–Practice–Production = ______.",
+    "answer": "PPP",
+    "explain_en": "PPP.",
+    "explain_tr": "PPP.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "q6-17",
+    "type": "mcq",
+    "prompt_en": "Unrealistic institutional requirements should be…",
+    "prompt_tr": "Gerçekçi olmayan kurumsal beklentiler…",
+    "options": [
+      "Negotiated with priorities and limits in mind",
+      "Accepted blindly always",
+      "Ignored with zero communication",
+      "Solved by entertainment only"
+    ],
+    "answer": "Negotiated with priorities and limits in mind",
+    "explain_en": "Know what is achievable.",
+    "explain_tr": "Neyin başarılabilir olduğunu bil.",
+    "difficulty": "hard"
+  },
+  {
+    "id": "q6-18",
+    "type": "mcq",
+    "prompt_en": "A teacher personal aim might be…",
+    "prompt_tr": "Öğretmen kişisel amacı şuna örnek…",
+    "options": [
+      "Reduce unnecessary TTT this lesson",
+      "Teach past simple as the only aim wording",
+      "Ignore learners",
+      "Skip feedback forever"
+    ],
+    "answer": "Reduce unnecessary TTT this lesson",
+    "explain_en": "Teacher development aim.",
+    "explain_tr": "Öğretmen gelişim amacı.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "q6-19",
+    "type": "mcq",
+    "prompt_en": "Plan learner opportunities for…",
+    "prompt_tr": "Öğrenen fırsatlarını planla…",
+    "options": [
+      "Processing and using language",
+      "Only listening to lectures",
+      "Only copying boards",
+      "Only silent tests"
+    ],
+    "answer": "Processing and using language",
+    "explain_en": "Learning conditions.",
+    "explain_tr": "Öğrenme koşulları.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "q6-20",
+    "type": "mcq",
+    "prompt_en": "Main aim vs stage aims: stage aims are…",
+    "prompt_tr": "Ana amaç vs aşama amaçları: aşama amaçları…",
+    "options": [
+      "Supporting goals for parts of the lesson",
+      "Replacing all main aims always",
+      "Irrelevant forever",
+      "Only homework titles"
+    ],
+    "answer": "Supporting goals for parts of the lesson",
+    "explain_en": "Subsidiary/stage aims.",
+    "explain_tr": "Yan/aşama amaçları.",
+    "difficulty": "medium"
+  }
+]

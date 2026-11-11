@@ -1,0 +1,278 @@
+{
+  "id": "ch11",
+  "title_en": "Lexis",
+  "title_tr": "Sözcük bilgisi (lexis)",
+  "sections": [
+    {
+      "id": "11.1",
+      "heading_en": "1 What is lexis?",
+      "heading_tr": "1 Lexis nedir?",
+      "points": [
+        {
+          "en": "Lexis includes single words AND multi-word chunks/collocations, not only ‘vocabulary lists’.",
+          "tr": "Lexis tek sözcükleri VE çok sözcüklü chunk/eşdizimleri içerir; yalnızca ‘kelime listesi’ değildir.",
+          "exam": true
+        },
+        {
+          "en": "Chunks: kick the bucket, paint the town red, put two and two together, It’s up to you.",
+          "tr": "Chunk’lar: kick the bucket, paint the town red, It’s up to you vb.",
+          "exam": true
+        },
+        {
+          "en": "Collocations: probable partners (pass/fail/take an exam) — not always fully fixed idioms.",
+          "tr": "Eşdizimler: olası eşler (pass/fail/take an exam) — her zaman tam sabit deyim değil.",
+          "exam": true
+        },
+        {
+          "en": "Summary: traditional single words + compounds + ready-made fixed/semi-fixed combinations.",
+          "tr": "Özet: geleneksel tek sözcükler + bileşikler + hazır sabit/yarı sabit birlikler.",
+          "exam": true
+        },
+        {
+          "en": "Speakers store and retrieve many phrases as wholes, not only word-by-word grammar builds.",
+          "tr": "Konuşurlar birçok ifadeyi bütün olarak depolar/çıkarır; yalnızca sözcük sözcük gramer kurmaz.",
+          "exam": true
+        }
+      ],
+      "key_terms": [
+        {
+          "en": "Lexis",
+          "tr": "Lexis",
+          "def_en": "Words and word combinations as vocabulary resource.",
+          "def_tr": "Sözcük kaynağı olarak sözcükler ve birlikleri."
+        },
+        {
+          "en": "Collocation",
+          "tr": "Eşdizim",
+          "def_en": "Words that commonly co-occur.",
+          "def_tr": "Sıkça birlikte görülen sözcükler."
+        },
+        {
+          "en": "Chunk",
+          "tr": "Öbek / chunk",
+          "def_en": "Multi-word unit often learned as a whole.",
+          "def_tr": "Sıkça bütün öğrenilen çok sözcüklü birim."
+        }
+      ]
+    },
+    {
+      "id": "11.2",
+      "heading_en": "2 Lexis in the classroom",
+      "heading_tr": "2 Sınıfta lexis",
+      "points": [
+        {
+          "en": "Deal with lexis systematically; one spontaneous explanation rarely sticks long-term.",
+          "tr": "Lexis’i sistemli ele al; tek spontan açıklama uzun vadede nadiren kalır.",
+          "exam": true
+        },
+        {
+          "en": "Help learners notice, record, memorise, recycle lexical items.",
+          "tr": "Öğrenenlerin lexical öğeleri fark etmesine, kaydetmesine, ezberlemesine, geri dönüştürmesine yardım et.",
+          "exam": true
+        },
+        {
+          "en": "Distinguish productive vs receptive lexis.",
+          "tr": "Üretici vs alıcı lexis’i ayır.",
+          "exam": true
+        },
+        {
+          "en": "Dictionary training (esp. English–English) supports independence.",
+          "tr": "Sözlük eğitimi (özellikle İngilizce–İngilizce) bağımsızlığı destekler.",
+          "exam": true
+        },
+        {
+          "en": "Include multi-word items, not only single words.",
+          "tr": "Yalnızca tek sözcük değil, çok sözcüklü öğeleri de dahil et.",
+          "exam": true
+        }
+      ],
+      "key_terms": [
+        {
+          "en": "Productive lexis",
+          "tr": "Üretici lexis",
+          "def_en": "Items learners can use actively.",
+          "def_tr": "Öğrenenlerin aktif kullanabildiği öğeler."
+        },
+        {
+          "en": "Receptive lexis",
+          "tr": "Alıcı lexis",
+          "def_en": "Items learners understand when met.",
+          "def_tr": "Karşılaşınca anladıkları öğeler."
+        }
+      ]
+    },
+    {
+      "id": "11.3",
+      "heading_en": "3 Lexis and skills work",
+      "heading_tr": "3 Lexis ve beceri çalışmaları",
+      "points": [
+        {
+          "en": "Integrate lexis with listening/reading/speaking/writing tasks.",
+          "tr": "Lexis’i dinleme/okuma/konuşma/yazma görevleriyle entegre et.",
+          "exam": true
+        },
+        {
+          "en": "Pre-teach only blocking items before skills tasks.",
+          "tr": "Beceri görevlerinden önce yalnızca engelleyici öğeleri önceden öğret.",
+          "exam": true
+        },
+        {
+          "en": "Exploit texts: guess from context, why this word, related phrases, collocations.",
+          "tr": "Metinleri işlet: bağlamdan tahmin, neden bu sözcük, ilgili ifadeler, eşdizimler.",
+          "exam": true
+        },
+        {
+          "en": "Follow skills work with oral practice and communicative use of new lexis.",
+          "tr": "Beceri çalışmasını yeni lexis’in sözlü pratiği ve iletişimsel kullanımı izlesin.",
+          "exam": false
+        }
+      ],
+      "key_terms": []
+    },
+    {
+      "id": "11.4",
+      "heading_en": "4 Presenting lexis",
+      "heading_tr": "4 Lexis sunumu",
+      "points": [
+        {
+          "en": "Convey meaning via visuals, mime, realia, examples, definitions, translation, context.",
+          "tr": "Anlamı görsel, jest, realia, örnek, tanım, çeviri, bağlam ile aktar.",
+          "exam": true
+        },
+        {
+          "en": "Also teach pronunciation (stress), form/spelling, and example in context.",
+          "tr": "Ayrıca telaffuz (vurgu), biçim/yazım ve bağlamda örnek öğret.",
+          "exam": true
+        },
+        {
+          "en": "Check concept; don’t assume a translation equals full understanding.",
+          "tr": "Kavramı kontrol et; çevirinin tam anlama eşit olduğunu varsayma.",
+          "exam": true
+        }
+      ],
+      "key_terms": [
+        {
+          "en": "Realia",
+          "tr": "Gerçek nesne",
+          "def_en": "Real objects used to teach meaning.",
+          "def_tr": "Anlam öğretmek için gerçek nesneler."
+        }
+      ]
+    },
+    {
+      "id": "11.5",
+      "heading_en": "5 Lexical practice activities and games",
+      "heading_tr": "5 Lexical alıştırma etkinlikleri ve oyunlar",
+      "points": [
+        {
+          "en": "Practice/games recycle lexis: matching, odd one out, memory, ranking, info-gap with words.",
+          "tr": "Alıştırma/oyunlar lexis’i geri dönüştürür: eşleştirme, odd one out, hafıza, sıralama, sözcük info-gap.",
+          "exam": true
+        },
+        {
+          "en": "Recycling beats one-shot presentation for memory.",
+          "tr": "Hafıza için geri dönüşüm, tek seferlik sunumu yener.",
+          "exam": true
+        },
+        {
+          "en": "Move from controlled practice toward freer communicative use.",
+          "tr": "Kontrollü alıştırmadan daha özgür iletişimsel kullanıma ilerle.",
+          "exam": true
+        }
+      ],
+      "key_terms": []
+    },
+    {
+      "id": "11.6",
+      "heading_en": "6 Remembering lexical items",
+      "heading_tr": "6 Lexical öğeleri hatırlama",
+      "points": [
+        {
+          "en": "Memory needs spaced repetition, meaningful organisation, personalisation, imagery.",
+          "tr": "Hafıza aralıklı tekrar, anlamlı örgütleme, kişiselleştirme, imgelem ister.",
+          "exam": true
+        },
+        {
+          "en": "Word lists alone are weak; add collocations, examples, word maps.",
+          "tr": "Yalnızca kelime listesi zayıftır; eşdizim, örnek, kelime haritası ekle.",
+          "exam": true
+        },
+        {
+          "en": "Train notebook strategies: topic pages, collocation columns, example sentences.",
+          "tr": "Defter stratejileri öğret: konu sayfaları, eşdizim sütunları, örnek cümleler.",
+          "exam": true
+        }
+      ],
+      "key_terms": [
+        {
+          "en": "Recycling",
+          "tr": "Geri dönüşüm",
+          "def_en": "Meeting/using items again over time.",
+          "def_tr": "Öğeleri zamanla yeniden görme/kullanma."
+        }
+      ]
+    },
+    {
+      "id": "11.7",
+      "heading_en": "7 Knowing a lexical item",
+      "heading_tr": "7 Bir lexical öğeyi bilmek",
+      "points": [
+        {
+          "en": "Knowing a word is multi-dimensional: meaning(s), form, pronunciation/stress, spelling, collocation, register, grammar patterns, connotations.",
+          "tr": "Bir sözcüğü bilmek çok boyutludur: anlam(lar), biçim, telaffuz/vurgu, yazım, eşdizim, üslup, gramer kalıpları, çağrışımlar.",
+          "exam": true
+        },
+        {
+          "en": "Short words often one main stress; longer words may have secondary stress.",
+          "tr": "Kısa sözcüklerde çoğu zaman bir ana vurgu; uzunlarda ikincil vurgu olabilir.",
+          "exam": true
+        },
+        {
+          "en": "Exam classic: recognition ≠ full productive knowledge.",
+          "tr": "Sınav klasiği: tanıma ≠ tam üretici bilgi.",
+          "exam": true
+        }
+      ],
+      "key_terms": [
+        {
+          "en": "Register",
+          "tr": "Üslup",
+          "def_en": "Formality/appropriacy of an item.",
+          "def_tr": "Öğenin resmiyet/uygunluğu."
+        },
+        {
+          "en": "Connotation",
+          "tr": "Çağrışım",
+          "def_en": "Extra associative meaning beyond basic sense.",
+          "def_tr": "Temel anlamın ötesindeki çağrışımsal anlam."
+        }
+      ]
+    }
+  ],
+  "chapter_review": [
+    {
+      "en": "Lexis = words + chunks + collocations.",
+      "tr": "Lexis = sözcükler + chunk’lar + eşdizimler."
+    },
+    {
+      "en": "Teach systematically; recycle; record smartly.",
+      "tr": "Sistemli öğret; geri dönüştür; akıllı kaydet."
+    },
+    {
+      "en": "Productive ≠ receptive knowledge.",
+      "tr": "Üretici ≠ alıcı bilgi."
+    },
+    {
+      "en": "Pre-teach blockers before skills work.",
+      "tr": "Beceri öncesi engelleyicileri öğret."
+    },
+    {
+      "en": "Present meaning + form + pronunciation + context.",
+      "tr": "Anlam + biçim + telaffuz + bağlam sun."
+    },
+    {
+      "en": "Knowing a lexical item = many dimensions (collocation/register/stress…).",
+      "tr": "Lexical öğeyi bilmek = birçok boyut (eşdizim/üslup/vurgu…)."
+    }
+  ]
+}
